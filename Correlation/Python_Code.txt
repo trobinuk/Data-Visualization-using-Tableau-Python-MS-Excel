@@ -1,0 +1,37 @@
+import pandas as pd
+csv_path = "C:\\Users\\trobi\\OneDrive\\Desktop\\Information Visualization\\HomeWork3\\Data.csv"
+fred_data = pd.read_csv(csv_path)
+#print(fred_data)
+#fred_data.head()
+
+#fred_data.iloc[:,1]
+
+#print(fred_data.loc[:,'CPILFESL'])
+
+#fred_data.loc[:,'CPILFESL'].corr(fred_data.loc[:,'CPIAUCSL'])
+
+corr_out = fred_data.corr()
+
+#print(type(corr_out))
+corr_out.to_csv("C:\\Users\\trobi\\OneDrive\\Desktop\\Information Visualization\\HomeWork3\\Correl_matrix.csv")
+
+import numpy as np
+corr_matrix = round(corr_out,2)
+print(corr_matrix)
+
+import matplotlib.pyplot as plt
+plt.style.use('ggplot')
+
+fig, ax = plt.subplots()
+im = ax.imshow(corr_matrix)
+im.set_clim(-1, 1)
+ax.grid(False)
+ax.xaxis.set(ticks=(0, 1, 2, 3, 4, 5), ticklabels=('CPILFESL', 'CPIAUCSL', 'CUSR0000SETA02','EMVOVERALLEMV', 'BOPTIMP', 'INDPRO'))
+ax.yaxis.set(ticks=(0, 1, 2, 3, 4, 5), ticklabels=('CPILFESL', 'CPIAUCSL', 'CUSR0000SETA02','EMVOVERALLEMV', 'BOPTIMP', 'INDPRO'))
+#ax.set_ylim(2.5, -0.5)
+#for i in range(5):
+#    for j in range(5):
+#        ax.text(j, i, corr_matrix[i, j], ha='center', va='center',
+#                color='r')
+cbar = ax.figure.colorbar(im, ax=ax, format='% .2f')
+plt.show()
