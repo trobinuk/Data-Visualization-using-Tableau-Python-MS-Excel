@@ -1,0 +1,94 @@
+create table tax_revenue_us
+(quarter number(5),
+statecode varchar2(10),
+tax_thousand number(16,3),
+state varchar2(50),
+country varchar2(40));
+/
+select * from tax_revenue_us
+where statecode = 'CA';
+/
+select count(*) cnt,quarter from tax_revenue_us
+where increasing_yn = 1
+group by quarter
+order by cnt desc,quarter desc;
+/
+select count(*) cnt,quarter from tax_revenue_us
+where increasing_yn = 0
+group by quarter
+order by cnt desc,quarter desc;
+/
+select count(distinct quarter) from tax_revenue_us;
+/
+set serveroutput on;
+declare
+
+cursor c1 is 
+select distinct statecode from tax_revenue_us;
+r1 c1%rowtype;
+
+cursor c2 (fa_state_code varchar2) is
+select * from tax_revenue_us
+where statecode = fa_state_code
+and quarter <> 9
+order by quarter;
+r2 c2%rowtype;
+
+lv_pre_quart_tax tax_revenue_us.tax_thousand%type;
+
+begin
+
+for r1 in c1 
+loop
+ --dbms_output.put_line(r1.statecode);
+ for r2 in c2(r1.statecode)
+ loop
+    select tax_thousand into lv_pre_quart_tax
+    from tax_revenue_us
+    where statecode = r1.statecode
+    and quarter = r2.quarter-1;
+    --dbms_output.put_line(r1.statecode||' '||r2.quarter||' tax '||lv_pre_quart_tax);
+    if lv_pre_quart_tax <= r2.tax_thousand then
+        update tax_revenue_us
+        set increasing_yn = 1
+        where statecode = r1.statecode
+        and quarter = r2.quarter;
+    end if;
+    
+ end loop;
+ commit;
+end loop;
+
+end;
+/
+alter table tax_revenue_us
+add increasing_yn number(1);
+/
+select * from tax_revenue_us
+where statecode = 'CA'
+and quarter <> 9
+order by quarter;
+/
+select quarter,tax_thousand from tax_revenue_us
+where statecode = 'NC'
+--and quarter = r2.quarter-1
+/
+update tax_revenue_us
+set increasing_yn = 0
+where increasing_yn is null;
+/
+select * from tax_revenue_us
+where increasing_yn is null;
+/
+select 
+    statecode,
+    state, 
+    quarter,
+    tax_thousand,
+    increasing_yn
+from tax_revenue_us
+order by state asc, quarter asc
+/
+update tax_revenue_us
+set increasing_yn = null
+where  quarter = 9;

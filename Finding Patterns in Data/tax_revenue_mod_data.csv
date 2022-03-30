@@ -1,0 +1,5662 @@
+"STATECODE","STATE","QUARTER","TAX_THOUSAND","INCREASING_YN"
+"AL","Alabama",9,1180000,
+"AL","Alabama",10,1236000,1
+"AL","Alabama",11,1185000,0
+"AL","Alabama",12,1191000,1
+"AL","Alabama",13,1429000,1
+"AL","Alabama",14,1161000,0
+"AL","Alabama",15,1258000,1
+"AL","Alabama",16,1206000,0
+"AL","Alabama",17,1390000,1
+"AL","Alabama",18,1362000,0
+"AL","Alabama",19,1290000,0
+"AL","Alabama",20,1297000,1
+"AL","Alabama",21,1446000,1
+"AL","Alabama",22,1334000,0
+"AL","Alabama",23,1376000,1
+"AL","Alabama",24,1358000,0
+"AL","Alabama",25,1483000,1
+"AL","Alabama",26,1467000,0
+"AL","Alabama",27,1424000,0
+"AL","Alabama",28,1452000,1
+"AL","Alabama",29,1525000,1
+"AL","Alabama",30,1466000,0
+"AL","Alabama",31,1568000,1
+"AL","Alabama",32,1521000,0
+"AL","Alabama",33,1555000,1
+"AL","Alabama",34,1572000,1
+"AL","Alabama",35,1582000,1
+"AL","Alabama",36,1509000,0
+"AL","Alabama",37,1601000,1
+"AL","Alabama",38,1637000,1
+"AL","Alabama",39,1549000,0
+"AL","Alabama",40,1509000,0
+"AL","Alabama",41,1651000,1
+"AL","Alabama",42,1622000,0
+"AL","Alabama",43,1559000,0
+"AL","Alabama",44,1576000,1
+"AL","Alabama",45,1685000,1
+"AL","Alabama",46,1608000,0
+"AL","Alabama",47,1619000,1
+"AL","Alabama",48,1725000,1
+"AL","Alabama",49,1662000,0
+"AL","Alabama",50,1865000,1
+"AL","Alabama",51,1744000,0
+"AL","Alabama",52,1873000,1
+"AL","Alabama",53,1856000,0
+"AL","Alabama",54,2101000,1
+"AL","Alabama",55,1937000,0
+"AL","Alabama",56,2021000,1
+"AL","Alabama",57,2045000,1
+"AL","Alabama",58,2338000,1
+"AL","Alabama",59,2130000,0
+"AL","Alabama",60,2176000,1
+"AL","Alabama",61,2100000,0
+"AL","Alabama",62,2434000,1
+"AL","Alabama",63,2158000,0
+"AL","Alabama",64,2236000,1
+"AL","Alabama",65,2137000,0
+"AL","Alabama",66,2461000,1
+"AL","Alabama",67,2236000,0
+"AL","Alabama",68,2086000,0
+"AL","Alabama",69,2202000,1
+"AL","Alabama",70,2130000,0
+"AL","Alabama",71,1888000,0
+"AL","Alabama",72,2101000,1
+"AL","Alabama",73,2092000,0
+"AL","Alabama",74,1937000,0
+"AL","Alabama",75,2140000,1
+"AL","Alabama",76,2127000,0
+"AL","Alabama",77,2092000,0
+"AL","Alabama",78,2091000,0
+"AL","Alabama",79,2059000,0
+"AL","Alabama",80,2182000,1
+"AL","Alabama",81,2218000,1
+"AL","Alabama",82,2293000,1
+"AL","Alabama",83,2134000,0
+"AL","Alabama",84,2178000,1
+"AL","Alabama",85,2293000,1
+"AL","Alabama",86,2412000,1
+"AL","Alabama",87,2147000,0
+"AL","Alabama",88,2237000,1
+"AL","Alabama",89,2206000,0
+"AL","Alabama",90,2357000,1
+"AL","Alabama",91,2235000,0
+"AL","Alabama",92,2364000,1
+"AL","Alabama",93,2392000,1
+"AL","Alabama",94,2403000,1
+"AL","Alabama",95,2344000,0
+"AL","Alabama",96,2417000,1
+"AL","Alabama",97,2421000,1
+"AL","Alabama",98,2553000,1
+"AL","Alabama",99,2269000,0
+"AL","Alabama",100,2529000,1
+"AL","Alabama",101,2618000,1
+"AL","Alabama",102,2511000,0
+"AL","Alabama",103,2383000,0
+"AL","Alabama",104,2621000,1
+"AL","Alabama",105,2729000,1
+"AL","Alabama",106,2806000,1
+"AL","Alabama",107,2638000,0
+"AL","Alabama",108,2686000,1
+"AL","Alabama",109,2916000,1
+"AL","Alabama",110,3290000,1
+"AL","Alabama",111,2839000,0
+"AL","Alabama",112,3018000,1
+"AL","Alabama",113,3100000,1
+"AL","Alabama",114,2752000,0
+"AL","Alabama",115,3597000,1
+"AL","Alabama",116,3211000,0
+"AL","Alabama",117,3394000,1
+"AL","Alabama",118,4053000,1
+"AL","Alabama",119,3315000,0
+"AK","Alaska",9,364000,
+"AK","Alaska",10,450000,1
+"AK","Alaska",11,278000,0
+"AK","Alaska",12,797000,1
+"AK","Alaska",13,308000,0
+"AK","Alaska",14,476000,1
+"AK","Alaska",15,219000,0
+"AK","Alaska",16,388000,1
+"AK","Alaska",17,325000,0
+"AK","Alaska",18,587000,1
+"AK","Alaska",19,327000,0
+"AK","Alaska",20,435000,1
+"AK","Alaska",21,234000,0
+"AK","Alaska",22,609000,1
+"AK","Alaska",23,235000,0
+"AK","Alaska",24,305000,1
+"AK","Alaska",25,304000,0
+"AK","Alaska",26,343000,1
+"AK","Alaska",27,204000,0
+"AK","Alaska",28,198000,0
+"AK","Alaska",29,158000,0
+"AK","Alaska",30,301000,1
+"AK","Alaska",31,255000,0
+"AK","Alaska",32,356000,1
+"AK","Alaska",33,205000,0
+"AK","Alaska",34,492000,1
+"AK","Alaska",35,326000,0
+"AK","Alaska",36,362000,1
+"AK","Alaska",37,227000,0
+"AK","Alaska",38,514000,1
+"AK","Alaska",39,286000,0
+"AK","Alaska",40,221000,0
+"AK","Alaska",41,175000,0
+"AK","Alaska",42,401000,1
+"AK","Alaska",43,212000,0
+"AK","Alaska",44,203000,0
+"AK","Alaska",45,204000,1
+"AK","Alaska",46,501000,1
+"AK","Alaska",47,253000,0
+"AK","Alaska",48,253000,1
+"AK","Alaska",49,270000,1
+"AK","Alaska",50,512000,1
+"AK","Alaska",51,334000,0
+"AK","Alaska",52,349000,1
+"AK","Alaska",53,382000,1
+"AK","Alaska",54,794000,1
+"AK","Alaska",55,450000,0
+"AK","Alaska",56,584000,1
+"AK","Alaska",57,431000,0
+"AK","Alaska",58,882000,1
+"AK","Alaska",59,663000,0
+"AK","Alaska",60,495000,0
+"AK","Alaska",61,408000,0
+"AK","Alaska",62,1877000,1
+"AK","Alaska",63,659000,0
+"AK","Alaska",64,1617000,1
+"AK","Alaska",65,1000000,0
+"AK","Alaska",66,4429000,1
+"AK","Alaska",67,2892000,0
+"AK","Alaska",68,1215000,0
+"AK","Alaska",69,282000,0
+"AK","Alaska",70,598000,1
+"AK","Alaska",71,1028000,1
+"AK","Alaska",72,1210000,1
+"AK","Alaska",73,1018000,0
+"AK","Alaska",74,1256000,1
+"AK","Alaska",75,640000,0
+"AK","Alaska",76,1037000,1
+"AK","Alaska",77,1188000,1
+"AK","Alaska",78,2343000,1
+"AK","Alaska",79,1560000,0
+"AK","Alaska",80,1419000,0
+"AK","Alaska",81,1715000,1
+"AK","Alaska",82,2353000,1
+"AK","Alaska",83,1088000,0
+"AK","Alaska",84,1553000,1
+"AK","Alaska",85,995000,0
+"AK","Alaska",86,1496000,1
+"AK","Alaska",87,945000,0
+"AK","Alaska",88,855000,0
+"AK","Alaska",89,321000,0
+"AK","Alaska",90,1268000,1
+"AK","Alaska",91,258000,0
+"AK","Alaska",92,309000,1
+"AK","Alaska",93,54000,0
+"AK","Alaska",94,279000,1
+"AK","Alaska",95,245000,0
+"AK","Alaska",96,181000,0
+"AK","Alaska",97,87000,0
+"AK","Alaska",98,350000,1
+"AK","Alaska",99,453000,1
+"AK","Alaska",100,229000,0
+"AK","Alaska",101,233000,1
+"AK","Alaska",102,414000,1
+"AK","Alaska",103,264000,0
+"AK","Alaska",104,414000,1
+"AK","Alaska",105,222000,0
+"AK","Alaska",106,616000,1
+"AK","Alaska",107,565000,0
+"AK","Alaska",108,501000,0
+"AK","Alaska",109,342000,0
+"AK","Alaska",110,486000,1
+"AK","Alaska",111,363000,0
+"AK","Alaska",112,408000,1
+"AK","Alaska",113,278000,0
+"AK","Alaska",114,226000,0
+"AK","Alaska",115,380000,1
+"AK","Alaska",116,179000,0
+"AK","Alaska",117,149000,0
+"AK","Alaska",118,382000,1
+"AK","Alaska",119,471000,1
+"AZ","Arizona",9,1309000,
+"AZ","Arizona",10,1721000,1
+"AZ","Arizona",11,1441000,0
+"AZ","Arizona",12,1582000,1
+"AZ","Arizona",13,1309000,0
+"AZ","Arizona",14,1721000,1
+"AZ","Arizona",15,1615000,0
+"AZ","Arizona",16,1663000,1
+"AZ","Arizona",17,1378000,0
+"AZ","Arizona",18,1807000,1
+"AZ","Arizona",19,1730000,0
+"AZ","Arizona",20,1725000,0
+"AZ","Arizona",21,1449000,0
+"AZ","Arizona",22,1930000,1
+"AZ","Arizona",23,1677000,0
+"AZ","Arizona",24,1819000,1
+"AZ","Arizona",25,1487000,0
+"AZ","Arizona",26,2051000,1
+"AZ","Arizona",27,1567000,0
+"AZ","Arizona",28,1803000,1
+"AZ","Arizona",29,1549000,0
+"AZ","Arizona",30,2051000,1
+"AZ","Arizona",31,1845000,0
+"AZ","Arizona",32,1949000,1
+"AZ","Arizona",33,1922000,0
+"AZ","Arizona",34,2245000,1
+"AZ","Arizona",35,2124000,0
+"AZ","Arizona",36,2091000,0
+"AZ","Arizona",37,1776000,0
+"AZ","Arizona",38,2225000,1
+"AZ","Arizona",39,2249000,1
+"AZ","Arizona",40,2162000,0
+"AZ","Arizona",41,1912000,0
+"AZ","Arizona",42,2166000,1
+"AZ","Arizona",43,2137000,0
+"AZ","Arizona",44,2084000,0
+"AZ","Arizona",45,2166000,1
+"AZ","Arizona",46,2301000,1
+"AZ","Arizona",47,2278000,0
+"AZ","Arizona",48,2344000,1
+"AZ","Arizona",49,2114000,0
+"AZ","Arizona",50,2458000,1
+"AZ","Arizona",51,2745000,1
+"AZ","Arizona",52,2754000,1
+"AZ","Arizona",53,2670000,0
+"AZ","Arizona",54,2841000,1
+"AZ","Arizona",55,2777000,0
+"AZ","Arizona",56,2778000,1
+"AZ","Arizona",57,2578000,0
+"AZ","Arizona",58,3601000,1
+"AZ","Arizona",59,2978000,0
+"AZ","Arizona",60,3000000,1
+"AZ","Arizona",61,2744000,0
+"AZ","Arizona",62,3493000,1
+"AZ","Arizona",63,3329000,0
+"AZ","Arizona",64,3207000,0
+"AZ","Arizona",65,2800000,0
+"AZ","Arizona",66,3495000,1
+"AZ","Arizona",67,3080000,0
+"AZ","Arizona",68,2866000,0
+"AZ","Arizona",69,2335000,0
+"AZ","Arizona",70,2589000,1
+"AZ","Arizona",71,2847000,1
+"AZ","Arizona",72,2901000,1
+"AZ","Arizona",73,2221000,0
+"AZ","Arizona",74,2858000,1
+"AZ","Arizona",75,2986000,1
+"AZ","Arizona",76,2965000,0
+"AZ","Arizona",77,2512000,0
+"AZ","Arizona",78,3013000,1
+"AZ","Arizona",79,2921000,0
+"AZ","Arizona",80,2877000,0
+"AZ","Arizona",81,2459000,0
+"AZ","Arizona",82,3131000,1
+"AZ","Arizona",83,3004000,0
+"AZ","Arizona",84,2996000,0
+"AZ","Arizona",85,2538000,0
+"AZ","Arizona",86,3376000,1
+"AZ","Arizona",87,3104000,0
+"AZ","Arizona",88,3051000,0
+"AZ","Arizona",89,2840000,0
+"AZ","Arizona",90,3495000,1
+"AZ","Arizona",91,3363000,0
+"AZ","Arizona",92,3385000,1
+"AZ","Arizona",93,3027000,0
+"AZ","Arizona",94,3847000,1
+"AZ","Arizona",95,3418000,0
+"AZ","Arizona",96,3563000,1
+"AZ","Arizona",97,3124000,0
+"AZ","Arizona",98,4044000,1
+"AZ","Arizona",99,3581000,0
+"AZ","Arizona",100,3616000,1
+"AZ","Arizona",101,3207000,0
+"AZ","Arizona",102,4112000,1
+"AZ","Arizona",103,3762000,0
+"AZ","Arizona",104,3852000,1
+"AZ","Arizona",105,3481000,0
+"AZ","Arizona",106,4391000,1
+"AZ","Arizona",107,4356000,0
+"AZ","Arizona",108,3977000,0
+"AZ","Arizona",109,3891000,0
+"AZ","Arizona",110,5177000,1
+"AZ","Arizona",111,4604000,0
+"AZ","Arizona",112,4315000,0
+"AZ","Arizona",113,3790000,0
+"AZ","Arizona",114,4093000,1
+"AZ","Arizona",115,5439000,1
+"AZ","Arizona",116,4698000,0
+"AZ","Arizona",117,4333000,0
+"AZ","Arizona",118,6064000,1
+"AZ","Arizona",119,5598000,0
+"AR","Arkansas",9,782000,
+"AR","Arkansas",10,847000,1
+"AR","Arkansas",11,818000,0
+"AR","Arkansas",12,771000,0
+"AR","Arkansas",13,820000,1
+"AR","Arkansas",14,903000,1
+"AR","Arkansas",15,893000,0
+"AR","Arkansas",16,910000,1
+"AR","Arkansas",17,865000,0
+"AR","Arkansas",18,975000,1
+"AR","Arkansas",19,914000,0
+"AR","Arkansas",20,835000,0
+"AR","Arkansas",21,866000,1
+"AR","Arkansas",22,1062000,1
+"AR","Arkansas",23,943000,0
+"AR","Arkansas",24,914000,0
+"AR","Arkansas",25,954000,1
+"AR","Arkansas",26,1153000,1
+"AR","Arkansas",27,1030000,0
+"AR","Arkansas",28,826000,0
+"AR","Arkansas",29,950000,1
+"AR","Arkansas",30,1157000,1
+"AR","Arkansas",31,1099000,0
+"AR","Arkansas",32,1254000,1
+"AR","Arkansas",33,1136000,0
+"AR","Arkansas",34,1229000,1
+"AR","Arkansas",35,1164000,0
+"AR","Arkansas",36,1303000,1
+"AR","Arkansas",37,1062000,0
+"AR","Arkansas",38,1383000,1
+"AR","Arkansas",39,1267000,0
+"AR","Arkansas",40,1386000,1
+"AR","Arkansas",41,1078000,0
+"AR","Arkansas",42,1453000,1
+"AR","Arkansas",43,1296000,0
+"AR","Arkansas",44,1379000,1
+"AR","Arkansas",45,1057000,0
+"AR","Arkansas",46,1413000,1
+"AR","Arkansas",47,1284000,0
+"AR","Arkansas",48,1487000,1
+"AR","Arkansas",49,1151000,0
+"AR","Arkansas",50,1659000,1
+"AR","Arkansas",51,1529000,0
+"AR","Arkansas",52,1732000,1
+"AR","Arkansas",53,1409000,0
+"AR","Arkansas",54,1901000,1
+"AR","Arkansas",55,1640000,0
+"AR","Arkansas",56,1853000,1
+"AR","Arkansas",57,1509000,0
+"AR","Arkansas",58,2032000,1
+"AR","Arkansas",59,1763000,0
+"AR","Arkansas",60,1935000,1
+"AR","Arkansas",61,1534000,0
+"AR","Arkansas",62,2188000,1
+"AR","Arkansas",63,1782000,0
+"AR","Arkansas",64,2000000,1
+"AR","Arkansas",65,1554000,0
+"AR","Arkansas",66,2207000,1
+"AR","Arkansas",67,1842000,0
+"AR","Arkansas",68,2033000,1
+"AR","Arkansas",69,1495000,0
+"AR","Arkansas",70,2103000,1
+"AR","Arkansas",71,1763000,0
+"AR","Arkansas",72,2109000,1
+"AR","Arkansas",73,1537000,0
+"AR","Arkansas",74,1849000,1
+"AR","Arkansas",75,1915000,1
+"AR","Arkansas",76,2128000,1
+"AR","Arkansas",77,1644000,0
+"AR","Arkansas",78,2267000,1
+"AR","Arkansas",79,1942000,0
+"AR","Arkansas",80,2241000,1
+"AR","Arkansas",81,1681000,0
+"AR","Arkansas",82,2417000,1
+"AR","Arkansas",83,1984000,0
+"AR","Arkansas",84,2283000,1
+"AR","Arkansas",85,1753000,0
+"AR","Arkansas",86,2563000,1
+"AR","Arkansas",87,2123000,0
+"AR","Arkansas",88,2408000,1
+"AR","Arkansas",89,1839000,0
+"AR","Arkansas",90,2547000,1
+"AR","Arkansas",91,2166000,0
+"AR","Arkansas",92,2508000,1
+"AR","Arkansas",93,1888000,0
+"AR","Arkansas",94,2629000,1
+"AR","Arkansas",95,2197000,0
+"AR","Arkansas",96,2490000,1
+"AR","Arkansas",97,2066000,0
+"AR","Arkansas",98,2678000,1
+"AR","Arkansas",99,2182000,0
+"AR","Arkansas",100,2550000,1
+"AR","Arkansas",101,2009000,0
+"AR","Arkansas",102,2785000,1
+"AR","Arkansas",103,2250000,0
+"AR","Arkansas",104,2591000,1
+"AR","Arkansas",105,2101000,0
+"AR","Arkansas",106,2868000,1
+"AR","Arkansas",107,2386000,0
+"AR","Arkansas",108,2673000,1
+"AR","Arkansas",109,2130000,0
+"AR","Arkansas",110,3068000,1
+"AR","Arkansas",111,2403000,0
+"AR","Arkansas",112,2830000,1
+"AR","Arkansas",113,2236000,0
+"AR","Arkansas",114,2805000,1
+"AR","Arkansas",115,2720000,0
+"AR","Arkansas",116,2906000,1
+"AR","Arkansas",117,2427000,0
+"AR","Arkansas",118,3678000,1
+"AR","Arkansas",119,2813000,0
+"CA","California",9,12445000,
+"CA","California",10,13539000,1
+"CA","California",11,12434000,0
+"CA","California",12,11745000,0
+"CA","California",13,13049000,1
+"CA","California",14,15662000,1
+"CA","California",15,13321000,0
+"CA","California",16,13510000,1
+"CA","California",17,13919000,1
+"CA","California",18,17053000,1
+"CA","California",19,14177000,0
+"CA","California",20,14050000,0
+"CA","California",21,15253000,1
+"CA","California",22,17753000,1
+"CA","California",23,15185000,0
+"CA","California",24,15123000,0
+"CA","California",25,16172000,1
+"CA","California",26,21203000,1
+"CA","California",27,16204000,0
+"CA","California",28,16233000,1
+"CA","California",29,16886000,1
+"CA","California",30,22798000,1
+"CA","California",31,17527000,0
+"CA","California",32,18287000,1
+"CA","California",33,20206000,1
+"CA","California",34,28230000,1
+"CA","California",35,20067000,0
+"CA","California",36,19200000,0
+"CA","California",37,22120000,1
+"CA","California",38,29071000,1
+"CA","California",39,18666000,0
+"CA","California",40,17508000,0
+"CA","California",41,18758000,1
+"CA","California",42,22790000,1
+"CA","California",43,18969000,0
+"CA","California",44,18813000,0
+"CA","California",45,18579000,0
+"CA","California",46,22838000,1
+"CA","California",47,21682000,0
+"CA","California",48,18650000,0
+"CA","California",49,20789000,1
+"CA","California",50,24682000,1
+"CA","California",51,22802000,0
+"CA","California",52,22953000,1
+"CA","California",53,23391000,1
+"CA","California",54,35375000,1
+"CA","California",55,25492000,0
+"CA","California",56,24629000,0
+"CA","California",57,26233000,1
+"CA","California",58,37311000,1
+"CA","California",59,27102000,0
+"CA","California",60,25210000,0
+"CA","California",61,26635000,1
+"CA","California",62,38220000,1
+"CA","California",63,26524000,0
+"CA","California",64,26652000,1
+"CA","California",65,26355000,0
+"CA","California",66,39026000,1
+"CA","California",67,26638000,0
+"CA","California",68,23885000,0
+"CA","California",69,22247000,0
+"CA","California",70,33713000,1
+"CA","California",71,24203000,0
+"CA","California",72,23918000,0
+"CA","California",73,25656000,1
+"CA","California",74,33532000,1
+"CA","California",75,26137000,0
+"CA","California",76,28894000,1
+"CA","California",77,28160000,0
+"CA","California",78,36959000,1
+"CA","California",79,25053000,0
+"CA","California",80,25746000,1
+"CA","California",81,26202000,1
+"CA","California",82,35111000,1
+"CA","California",83,26213000,0
+"CA","California",84,29184000,1
+"CA","California",85,34913000,1
+"CA","California",86,44583000,1
+"CA","California",87,28477000,0
+"CA","California",88,30823000,1
+"CA","California",89,32914000,1
+"CA","California",90,44711000,1
+"CA","California",91,30988000,0
+"CA","California",92,34906000,1
+"CA","California",93,35970000,1
+"CA","California",94,51862000,1
+"CA","California",95,33173000,0
+"CA","California",96,37226000,1
+"CA","California",97,37543000,1
+"CA","California",98,49550000,1
+"CA","California",99,33756000,0
+"CA","California",100,36595000,1
+"CA","California",101,39357000,1
+"CA","California",102,51021000,1
+"CA","California",103,36167000,0
+"CA","California",104,42363000,1
+"CA","California",105,43550000,1
+"CA","California",106,57674000,1
+"CA","California",107,40156000,0
+"CA","California",108,37893000,0
+"CA","California",109,47152000,1
+"CA","California",110,63388000,1
+"CA","California",111,44671000,0
+"CA","California",112,41438000,0
+"CA","California",113,49047000,1
+"CA","California",114,34710000,0
+"CA","California",115,65929000,1
+"CA","California",116,49372000,0
+"CA","California",117,57735000,1
+"CA","California",118,81558000,1
+"CA","California",119,54180000,0
+"CO","Colorado",9,885000,
+"CO","Colorado",10,1154000,1
+"CO","Colorado",11,1057000,0
+"CO","Colorado",12,1037000,0
+"CO","Colorado",13,1044000,1
+"CO","Colorado",14,1274000,1
+"CO","Colorado",15,1164000,0
+"CO","Colorado",16,1135000,0
+"CO","Colorado",17,1105000,0
+"CO","Colorado",18,1400000,1
+"CO","Colorado",19,1250000,0
+"CO","Colorado",20,1241000,0
+"CO","Colorado",21,1181000,0
+"CO","Colorado",22,1535000,1
+"CO","Colorado",23,1477000,0
+"CO","Colorado",24,1360000,0
+"CO","Colorado",25,1279000,0
+"CO","Colorado",26,1747000,1
+"CO","Colorado",27,1533000,0
+"CO","Colorado",28,1522000,0
+"CO","Colorado",29,1469000,0
+"CO","Colorado",30,2002000,1
+"CO","Colorado",31,1612000,0
+"CO","Colorado",32,1664000,1
+"CO","Colorado",33,1615000,0
+"CO","Colorado",34,2124000,1
+"CO","Colorado",35,1806000,0
+"CO","Colorado",36,1798000,0
+"CO","Colorado",37,1740000,0
+"CO","Colorado",38,2206000,1
+"CO","Colorado",39,1724000,0
+"CO","Colorado",40,1648000,0
+"CO","Colorado",41,1589000,0
+"CO","Colorado",42,1936000,1
+"CO","Colorado",43,1671000,0
+"CO","Colorado",44,1647000,0
+"CO","Colorado",45,1486000,0
+"CO","Colorado",46,1826000,1
+"CO","Colorado",47,1750000,0
+"CO","Colorado",48,1651000,0
+"CO","Colorado",49,1590000,0
+"CO","Colorado",50,2008000,1
+"CO","Colorado",51,1855000,0
+"CO","Colorado",52,1795000,0
+"CO","Colorado",53,1679000,0
+"CO","Colorado",54,2320000,1
+"CO","Colorado",55,1990000,0
+"CO","Colorado",56,1986000,0
+"CO","Colorado",57,1864000,0
+"CO","Colorado",58,2712000,1
+"CO","Colorado",59,2170000,0
+"CO","Colorado",60,2016000,0
+"CO","Colorado",61,2013000,0
+"CO","Colorado",62,2995000,1
+"CO","Colorado",63,2273000,0
+"CO","Colorado",64,2205000,0
+"CO","Colorado",65,2033000,0
+"CO","Colorado",66,3056000,1
+"CO","Colorado",67,2342000,0
+"CO","Colorado",68,2159000,0
+"CO","Colorado",69,1828000,0
+"CO","Colorado",70,2333000,1
+"CO","Colorado",71,2058000,0
+"CO","Colorado",72,2003000,0
+"CO","Colorado",73,1818000,0
+"CO","Colorado",74,2369000,1
+"CO","Colorado",75,2180000,0
+"CO","Colorado",76,2179000,0
+"CO","Colorado",77,2179000,1
+"CO","Colorado",78,2761000,1
+"CO","Colorado",79,2453000,0
+"CO","Colorado",80,2444000,0
+"CO","Colorado",81,2291000,0
+"CO","Colorado",82,3061000,1
+"CO","Colorado",83,2639000,0
+"CO","Colorado",84,2631000,0
+"CO","Colorado",85,2492000,0
+"CO","Colorado",86,3435000,1
+"CO","Colorado",87,2774000,0
+"CO","Colorado",88,2792000,1
+"CO","Colorado",89,2708000,0
+"CO","Colorado",90,3537000,1
+"CO","Colorado",91,3045000,0
+"CO","Colorado",92,3043000,0
+"CO","Colorado",93,2908000,0
+"CO","Colorado",94,3808000,1
+"CO","Colorado",95,3150000,0
+"CO","Colorado",96,3061000,0
+"CO","Colorado",97,2910000,0
+"CO","Colorado",98,3715000,1
+"CO","Colorado",99,3166000,0
+"CO","Colorado",100,3140000,0
+"CO","Colorado",101,2943000,0
+"CO","Colorado",102,3994000,1
+"CO","Colorado",103,3405000,0
+"CO","Colorado",104,3508000,1
+"CO","Colorado",105,3525000,1
+"CO","Colorado",106,4358000,1
+"CO","Colorado",107,3772000,0
+"CO","Colorado",108,3571000,0
+"CO","Colorado",109,3317000,0
+"CO","Colorado",110,4638000,1
+"CO","Colorado",111,3875000,0
+"CO","Colorado",112,3562000,0
+"CO","Colorado",113,3476000,0
+"CO","Colorado",114,3282000,0
+"CO","Colorado",115,4979000,1
+"CO","Colorado",116,3953000,0
+"CO","Colorado",117,3647000,0
+"CO","Colorado",118,5367000,1
+"CO","Colorado",119,4594000,0
+"CT","Connecticut",9,1634000,
+"CT","Connecticut",10,1889000,1
+"CT","Connecticut",11,1677000,0
+"CT","Connecticut",12,2042000,1
+"CT","Connecticut",13,1578000,0
+"CT","Connecticut",14,2553000,1
+"CT","Connecticut",15,1691000,0
+"CT","Connecticut",16,1772000,1
+"CT","Connecticut",17,1875000,1
+"CT","Connecticut",18,2797000,1
+"CT","Connecticut",19,1814000,0
+"CT","Connecticut",20,1772000,0
+"CT","Connecticut",21,1980000,1
+"CT","Connecticut",22,2290000,1
+"CT","Connecticut",23,2004000,0
+"CT","Connecticut",24,1916000,0
+"CT","Connecticut",25,2159000,1
+"CT","Connecticut",26,3155000,1
+"CT","Connecticut",27,2060000,0
+"CT","Connecticut",28,2004000,0
+"CT","Connecticut",29,2144000,1
+"CT","Connecticut",30,3178000,1
+"CT","Connecticut",31,2125000,0
+"CT","Connecticut",32,1788000,0
+"CT","Connecticut",33,2220000,1
+"CT","Connecticut",34,3588000,1
+"CT","Connecticut",35,1555000,0
+"CT","Connecticut",36,2159000,1
+"CT","Connecticut",37,2455000,1
+"CT","Connecticut",38,3705000,1
+"CT","Connecticut",39,1531000,0
+"CT","Connecticut",40,2138000,1
+"CT","Connecticut",41,2206000,1
+"CT","Connecticut",42,3157000,1
+"CT","Connecticut",43,1553000,0
+"CT","Connecticut",44,2298000,1
+"CT","Connecticut",45,2244000,0
+"CT","Connecticut",46,3311000,1
+"CT","Connecticut",47,1734000,0
+"CT","Connecticut",48,2373000,1
+"CT","Connecticut",49,2477000,1
+"CT","Connecticut",50,3613000,1
+"CT","Connecticut",51,1768000,0
+"CT","Connecticut",52,2656000,1
+"CT","Connecticut",53,3479000,1
+"CT","Connecticut",54,3638000,1
+"CT","Connecticut",55,1834000,0
+"CT","Connecticut",56,2945000,1
+"CT","Connecticut",57,3377000,1
+"CT","Connecticut",58,3977000,1
+"CT","Connecticut",59,1892000,0
+"CT","Connecticut",60,2999000,1
+"CT","Connecticut",61,3609000,1
+"CT","Connecticut",62,4262000,1
+"CT","Connecticut",63,1951000,0
+"CT","Connecticut",64,3203000,1
+"CT","Connecticut",65,3709000,1
+"CT","Connecticut",66,5726000,1
+"CT","Connecticut",67,1929000,0
+"CT","Connecticut",68,2883000,1
+"CT","Connecticut",69,2936000,1
+"CT","Connecticut",70,4398000,1
+"CT","Connecticut",71,1699000,0
+"CT","Connecticut",72,2846000,1
+"CT","Connecticut",73,3002000,1
+"CT","Connecticut",74,4798000,1
+"CT","Connecticut",75,1906000,0
+"CT","Connecticut",76,2959000,1
+"CT","Connecticut",77,3325000,1
+"CT","Connecticut",78,5505000,1
+"CT","Connecticut",79,2064000,0
+"CT","Connecticut",80,3534000,1
+"CT","Connecticut",81,3754000,1
+"CT","Connecticut",82,6049000,1
+"CT","Connecticut",83,2018000,0
+"CT","Connecticut",84,3581000,1
+"CT","Connecticut",85,3784000,1
+"CT","Connecticut",86,6587000,1
+"CT","Connecticut",87,2208000,0
+"CT","Connecticut",88,3757000,1
+"CT","Connecticut",89,3827000,1
+"CT","Connecticut",90,6132000,1
+"CT","Connecticut",91,2237000,0
+"CT","Connecticut",92,3663000,1
+"CT","Connecticut",93,3882000,1
+"CT","Connecticut",94,6445000,1
+"CT","Connecticut",95,2352000,0
+"CT","Connecticut",96,3788000,1
+"CT","Connecticut",97,3967000,1
+"CT","Connecticut",98,6148000,1
+"CT","Connecticut",99,2380000,0
+"CT","Connecticut",100,3756000,1
+"CT","Connecticut",101,4112000,1
+"CT","Connecticut",102,5359000,1
+"CT","Connecticut",103,2335000,0
+"CT","Connecticut",104,4358000,1
+"CT","Connecticut",105,4912000,1
+"CT","Connecticut",106,5413000,1
+"CT","Connecticut",107,2678000,0
+"CT","Connecticut",108,4264000,1
+"CT","Connecticut",109,4689000,1
+"CT","Connecticut",110,7445000,1
+"CT","Connecticut",111,2746000,0
+"CT","Connecticut",112,4208000,1
+"CT","Connecticut",113,4667000,1
+"CT","Connecticut",114,6790000,1
+"CT","Connecticut",115,2674000,0
+"CT","Connecticut",116,4873000,1
+"CT","Connecticut",117,5774000,1
+"CT","Connecticut",118,11298000,1
+"CT","Connecticut",119,2742000,0
+"DE","Delaware",9,386000,
+"DE","Delaware",10,437000,1
+"DE","Delaware",11,356000,0
+"DE","Delaware",12,332000,0
+"DE","Delaware",13,428000,1
+"DE","Delaware",14,432000,1
+"DE","Delaware",15,372000,0
+"DE","Delaware",16,356000,0
+"DE","Delaware",17,427000,1
+"DE","Delaware",18,518000,1
+"DE","Delaware",19,387000,0
+"DE","Delaware",20,394000,1
+"DE","Delaware",21,455000,1
+"DE","Delaware",22,502000,1
+"DE","Delaware",23,420000,0
+"DE","Delaware",24,424000,1
+"DE","Delaware",25,519000,1
+"DE","Delaware",26,625000,1
+"DE","Delaware",27,432000,0
+"DE","Delaware",28,454000,1
+"DE","Delaware",29,516000,1
+"DE","Delaware",30,623000,1
+"DE","Delaware",31,461000,0
+"DE","Delaware",32,466000,1
+"DE","Delaware",33,534000,1
+"DE","Delaware",34,644000,1
+"DE","Delaware",35,428000,0
+"DE","Delaware",36,431000,1
+"DE","Delaware",37,591000,1
+"DE","Delaware",38,654000,1
+"DE","Delaware",39,497000,0
+"DE","Delaware",40,468000,0
+"DE","Delaware",41,512000,1
+"DE","Delaware",42,697000,1
+"DE","Delaware",43,482000,0
+"DE","Delaware",44,477000,0
+"DE","Delaware",45,533000,1
+"DE","Delaware",46,621000,1
+"DE","Delaware",47,503000,0
+"DE","Delaware",48,504000,1
+"DE","Delaware",49,643000,1
+"DE","Delaware",50,728000,1
+"DE","Delaware",51,572000,0
+"DE","Delaware",52,577000,1
+"DE","Delaware",53,696000,1
+"DE","Delaware",54,880000,1
+"DE","Delaware",55,643000,0
+"DE","Delaware",56,608000,0
+"DE","Delaware",57,763000,1
+"DE","Delaware",58,977000,1
+"DE","Delaware",59,651000,0
+"DE","Delaware",60,629000,0
+"DE","Delaware",61,782000,1
+"DE","Delaware",62,1017000,1
+"DE","Delaware",63,688000,0
+"DE","Delaware",64,635000,0
+"DE","Delaware",65,722000,1
+"DE","Delaware",66,1032000,1
+"DE","Delaware",67,724000,0
+"DE","Delaware",68,602000,0
+"DE","Delaware",69,700000,1
+"DE","Delaware",70,773000,1
+"DE","Delaware",71,597000,0
+"DE","Delaware",72,572000,0
+"DE","Delaware",73,697000,1
+"DE","Delaware",74,896000,1
+"DE","Delaware",75,630000,0
+"DE","Delaware",76,630000,1
+"DE","Delaware",77,730000,1
+"DE","Delaware",78,1001000,1
+"DE","Delaware",79,721000,0
+"DE","Delaware",80,662000,0
+"DE","Delaware",81,956000,1
+"DE","Delaware",82,984000,1
+"DE","Delaware",83,750000,0
+"DE","Delaware",84,706000,0
+"DE","Delaware",85,884000,1
+"DE","Delaware",86,1173000,1
+"DE","Delaware",87,913000,0
+"DE","Delaware",88,529000,0
+"DE","Delaware",89,915000,1
+"DE","Delaware",90,1171000,1
+"DE","Delaware",91,722000,0
+"DE","Delaware",92,738000,1
+"DE","Delaware",93,945000,1
+"DE","Delaware",94,1419000,1
+"DE","Delaware",95,780000,0
+"DE","Delaware",96,828000,1
+"DE","Delaware",97,991000,1
+"DE","Delaware",98,1317000,1
+"DE","Delaware",99,796000,0
+"DE","Delaware",100,787000,0
+"DE","Delaware",101,1022000,1
+"DE","Delaware",102,1362000,1
+"DE","Delaware",103,815000,0
+"DE","Delaware",104,844000,1
+"DE","Delaware",105,1078000,1
+"DE","Delaware",106,1483000,1
+"DE","Delaware",107,900000,0
+"DE","Delaware",108,879000,0
+"DE","Delaware",109,1210000,1
+"DE","Delaware",110,1606000,1
+"DE","Delaware",111,977000,0
+"DE","Delaware",112,935000,0
+"DE","Delaware",113,1242000,1
+"DE","Delaware",114,1391000,1
+"DE","Delaware",115,1160000,0
+"DE","Delaware",116,943000,0
+"DE","Delaware",117,1688000,1
+"DE","Delaware",118,1876000,1
+"DE","Delaware",119,1184000,0
+"DC","District of Columbia",9,609000,
+"DC","District of Columbia",10,651000,1
+"DC","District of Columbia",11,854000,1
+"DC","District of Columbia",12,399000,0
+"DC","District of Columbia",13,597000,1
+"DC","District of Columbia",14,701000,1
+"DC","District of Columbia",15,856000,1
+"DC","District of Columbia",16,430000,0
+"DC","District of Columbia",17,544000,1
+"DC","District of Columbia",18,701000,1
+"DC","District of Columbia",19,833000,1
+"DC","District of Columbia",20,435000,0
+"DC","District of Columbia",21,544000,1
+"DC","District of Columbia",22,747000,1
+"DC","District of Columbia",23,898000,1
+"DC","District of Columbia",24,479000,0
+"DC","District of Columbia",25,683000,1
+"DC","District of Columbia",26,794000,1
+"DC","District of Columbia",27,919000,1
+"DC","District of Columbia",28,515000,0
+"DC","District of Columbia",29,667000,1
+"DC","District of Columbia",30,831000,1
+"DC","District of Columbia",31,894000,1
+"DC","District of Columbia",32,573000,0
+"DC","District of Columbia",33,629000,1
+"DC","District of Columbia",34,1013000,1
+"DC","District of Columbia",35,973000,0
+"DC","District of Columbia",36,583000,0
+"DC","District of Columbia",37,809000,1
+"DC","District of Columbia",38,1033000,1
+"DC","District of Columbia",39,951000,0
+"DC","District of Columbia",40,568000,0
+"DC","District of Columbia",41,774000,1
+"DC","District of Columbia",42,922000,1
+"DC","District of Columbia",43,1003000,1
+"DC","District of Columbia",44,589000,0
+"DC","District of Columbia",45,858000,1
+"DC","District of Columbia",46,881000,1
+"DC","District of Columbia",47,1128000,1
+"DC","District of Columbia",48,651000,0
+"DC","District of Columbia",49,914000,1
+"DC","District of Columbia",50,1077000,1
+"DC","District of Columbia",51,1232000,1
+"DC","District of Columbia",52,711000,0
+"DC","District of Columbia",53,1104000,1
+"DC","District of Columbia",54,1250000,1
+"DC","District of Columbia",55,1389000,1
+"DC","District of Columbia",56,729000,0
+"DC","District of Columbia",57,1118000,1
+"DC","District of Columbia",58,1196000,1
+"DC","District of Columbia",59,1392000,1
+"DC","District of Columbia",60,769000,0
+"DC","District of Columbia",61,1243000,1
+"DC","District of Columbia",62,1451000,1
+"DC","District of Columbia",63,1654000,1
+"DC","District of Columbia",64,849000,0
+"DC","District of Columbia",65,1339000,1
+"DC","District of Columbia",66,1437000,1
+"DC","District of Columbia",67,1787000,1
+"DC","District of Columbia",68,827000,0
+"DC","District of Columbia",69,1150000,1
+"DC","District of Columbia",70,1369000,1
+"DC","District of Columbia",71,1680000,1
+"DC","District of Columbia",72,746000,0
+"DC","District of Columbia",73,1209000,1
+"DC","District of Columbia",74,1281000,1
+"DC","District of Columbia",75,1763000,1
+"DC","District of Columbia",76,784000,0
+"DC","District of Columbia",77,1316000,1
+"DC","District of Columbia",78,1372000,1
+"DC","District of Columbia",79,1720000,1
+"DC","District of Columbia",80,821000,0
+"DC","District of Columbia",81,1371000,1
+"DC","District of Columbia",82,1747000,1
+"DC","District of Columbia",83,1963000,1
+"DC","District of Columbia",84,921000,0
+"DC","District of Columbia",85,1729000,1
+"DC","District of Columbia",86,1534000,0
+"DC","District of Columbia",87,2062000,1
+"DC","District of Columbia",88,950000,0
+"DC","District of Columbia",89,1618000,1
+"DC","District of Columbia",90,1675000,1
+"DC","District of Columbia",91,1996000,1
+"DC","District of Columbia",92,1192000,0
+"DC","District of Columbia",93,1710000,1
+"DC","District of Columbia",94,1917000,1
+"DC","District of Columbia",95,2329000,1
+"DC","District of Columbia",96,1150000,0
+"DC","District of Columbia",97,1835000,1
+"DC","District of Columbia",98,1879000,1
+"DC","District of Columbia",99,2376000,1
+"DC","District of Columbia",100,1187000,0
+"DC","District of Columbia",101,2084000,1
+"DC","District of Columbia",102,1842000,0
+"DC","District of Columbia",103,2529000,1
+"DC","District of Columbia",104,1306000,0
+"DC","District of Columbia",105,2130000,1
+"DC","District of Columbia",106,1912000,0
+"DC","District of Columbia",107,2597000,1
+"DC","District of Columbia",108,1274000,0
+"DC","District of Columbia",109,2359000,1
+"DC","District of Columbia",110,2141000,0
+"DC","District of Columbia",111,2886000,1
+"DC","District of Columbia",112,1403000,0
+"DC","District of Columbia",113,2408000,1
+"DC","District of Columbia",114,1677000,0
+"DC","District of Columbia",115,2955000,1
+"DC","District of Columbia",116,1310000,0
+"DC","District of Columbia",117,2352000,1
+"DC","District of Columbia",118,2273000,0
+"DC","District of Columbia",119,2957000,1
+"FL","Florida",9,4716000,
+"FL","Florida",10,5266000,1
+"FL","Florida",11,3978000,0
+"FL","Florida",12,4197000,1
+"FL","Florida",13,4996000,1
+"FL","Florida",14,5394000,1
+"FL","Florida",15,4207000,0
+"FL","Florida",16,4528000,1
+"FL","Florida",17,5292000,1
+"FL","Florida",18,5857000,1
+"FL","Florida",19,4498000,0
+"FL","Florida",20,4836000,1
+"FL","Florida",21,5573000,1
+"FL","Florida",22,6236000,1
+"FL","Florida",23,4672000,0
+"FL","Florida",24,4865000,1
+"FL","Florida",25,6346000,1
+"FL","Florida",26,6600000,1
+"FL","Florida",27,5015000,0
+"FL","Florida",28,5389000,1
+"FL","Florida",29,6286000,1
+"FL","Florida",30,6600000,1
+"FL","Florida",31,5490000,0
+"FL","Florida",32,5800000,1
+"FL","Florida",33,6665000,1
+"FL","Florida",34,6863000,1
+"FL","Florida",35,5520000,0
+"FL","Florida",36,5874000,1
+"FL","Florida",37,6581000,1
+"FL","Florida",38,6963000,1
+"FL","Florida",39,5933000,0
+"FL","Florida",40,6179000,1
+"FL","Florida",41,6635000,1
+"FL","Florida",42,6605000,0
+"FL","Florida",43,6031000,0
+"FL","Florida",44,6720000,1
+"FL","Florida",45,6744000,1
+"FL","Florida",46,7411000,1
+"FL","Florida",47,7255000,0
+"FL","Florida",48,7267000,1
+"FL","Florida",49,7888000,1
+"FL","Florida",50,8059000,1
+"FL","Florida",51,7983000,0
+"FL","Florida",52,8065000,1
+"FL","Florida",53,9399000,1
+"FL","Florida",54,10249000,1
+"FL","Florida",55,9425000,0
+"FL","Florida",56,9438000,1
+"FL","Florida",57,10244000,1
+"FL","Florida",58,10796000,1
+"FL","Florida",59,9348000,0
+"FL","Florida",60,9478000,1
+"FL","Florida",61,9802000,1
+"FL","Florida",62,10197000,1
+"FL","Florida",63,8158000,0
+"FL","Florida",64,8829000,1
+"FL","Florida",65,8915000,1
+"FL","Florida",66,9354000,1
+"FL","Florida",67,8022000,0
+"FL","Florida",68,7829000,0
+"FL","Florida",69,7894000,1
+"FL","Florida",70,8228000,1
+"FL","Florida",71,7533000,0
+"FL","Florida",72,7542000,1
+"FL","Florida",73,7886000,1
+"FL","Florida",74,8568000,1
+"FL","Florida",75,7584000,0
+"FL","Florida",76,7862000,1
+"FL","Florida",77,8254000,1
+"FL","Florida",78,8940000,1
+"FL","Florida",79,7730000,0
+"FL","Florida",80,7991000,1
+"FL","Florida",81,8672000,1
+"FL","Florida",82,9353000,1
+"FL","Florida",83,8289000,0
+"FL","Florida",84,8544000,1
+"FL","Florida",85,9223000,1
+"FL","Florida",86,9994000,1
+"FL","Florida",87,8914000,0
+"FL","Florida",88,9177000,1
+"FL","Florida",89,9120000,0
+"FL","Florida",90,10171000,1
+"FL","Florida",91,8999000,0
+"FL","Florida",92,9345000,1
+"FL","Florida",93,9594000,1
+"FL","Florida",94,10432000,1
+"FL","Florida",95,9064000,0
+"FL","Florida",96,9331000,1
+"FL","Florida",97,10018000,1
+"FL","Florida",98,10646000,1
+"FL","Florida",99,9895000,0
+"FL","Florida",100,9846000,0
+"FL","Florida",101,10450000,1
+"FL","Florida",102,10932000,1
+"FL","Florida",103,10727000,0
+"FL","Florida",104,11147000,1
+"FL","Florida",105,10978000,0
+"FL","Florida",106,11754000,1
+"FL","Florida",107,10764000,0
+"FL","Florida",108,10924000,1
+"FL","Florida",109,11257000,1
+"FL","Florida",110,12843000,1
+"FL","Florida",111,11196000,0
+"FL","Florida",112,11247000,1
+"FL","Florida",113,11734000,1
+"FL","Florida",114,9857000,0
+"FL","Florida",115,10863000,1
+"FL","Florida",116,11592000,1
+"FL","Florida",117,12120000,1
+"FL","Florida",118,14969000,1
+"FL","Florida",119,13715000,0
+"GA","Georgia",9,2289000,
+"GA","Georgia",10,2304000,1
+"GA","Georgia",11,2169000,0
+"GA","Georgia",12,2328000,1
+"GA","Georgia",13,2469000,1
+"GA","Georgia",14,2511000,1
+"GA","Georgia",15,2316000,0
+"GA","Georgia",16,2457000,1
+"GA","Georgia",17,2615000,1
+"GA","Georgia",18,2817000,1
+"GA","Georgia",19,2615000,0
+"GA","Georgia",20,2550000,0
+"GA","Georgia",21,2770000,1
+"GA","Georgia",22,2940000,1
+"GA","Georgia",23,2760000,0
+"GA","Georgia",24,2709000,0
+"GA","Georgia",25,2928000,1
+"GA","Georgia",26,3184000,1
+"GA","Georgia",27,3037000,0
+"GA","Georgia",28,2962000,0
+"GA","Georgia",29,3213000,1
+"GA","Georgia",30,3250000,1
+"GA","Georgia",31,3264000,1
+"GA","Georgia",32,3257000,0
+"GA","Georgia",33,3296000,1
+"GA","Georgia",34,3670000,1
+"GA","Georgia",35,3488000,0
+"GA","Georgia",36,3504000,1
+"GA","Georgia",37,3495000,0
+"GA","Georgia",38,3882000,1
+"GA","Georgia",39,3280000,0
+"GA","Georgia",40,3358000,1
+"GA","Georgia",41,3335000,0
+"GA","Georgia",42,3801000,1
+"GA","Georgia",43,3082000,0
+"GA","Georgia",44,3328000,1
+"GA","Georgia",45,3322000,0
+"GA","Georgia",46,3678000,1
+"GA","Georgia",47,3215000,0
+"GA","Georgia",48,3467000,1
+"GA","Georgia",49,3489000,1
+"GA","Georgia",50,4167000,1
+"GA","Georgia",51,3680000,0
+"GA","Georgia",52,3920000,1
+"GA","Georgia",53,3691000,0
+"GA","Georgia",54,4471000,1
+"GA","Georgia",55,3992000,0
+"GA","Georgia",56,4193000,1
+"GA","Georgia",57,4068000,0
+"GA","Georgia",58,4815000,1
+"GA","Georgia",59,4627000,0
+"GA","Georgia",60,4410000,0
+"GA","Georgia",61,4298000,0
+"GA","Georgia",62,5358000,1
+"GA","Georgia",63,4418000,0
+"GA","Georgia",64,4556000,1
+"GA","Georgia",65,4180000,0
+"GA","Georgia",66,5041000,1
+"GA","Georgia",67,4228000,0
+"GA","Georgia",68,4340000,1
+"GA","Georgia",69,3302000,0
+"GA","Georgia",70,4148000,1
+"GA","Georgia",71,3638000,0
+"GA","Georgia",72,3846000,1
+"GA","Georgia",73,3120000,0
+"GA","Georgia",74,4062000,1
+"GA","Georgia",75,3903000,0
+"GA","Georgia",76,4192000,1
+"GA","Georgia",77,3473000,0
+"GA","Georgia",78,4156000,1
+"GA","Georgia",79,4101000,0
+"GA","Georgia",80,4177000,1
+"GA","Georgia",81,3560000,0
+"GA","Georgia",82,4313000,1
+"GA","Georgia",83,4279000,0
+"GA","Georgia",84,4383000,1
+"GA","Georgia",85,3826000,0
+"GA","Georgia",86,4763000,1
+"GA","Georgia",87,4615000,0
+"GA","Georgia",88,4648000,1
+"GA","Georgia",89,4088000,0
+"GA","Georgia",90,4916000,1
+"GA","Georgia",91,4809000,0
+"GA","Georgia",92,4977000,1
+"GA","Georgia",93,4354000,0
+"GA","Georgia",94,5284000,1
+"GA","Georgia",95,5236000,0
+"GA","Georgia",96,5303000,1
+"GA","Georgia",97,4930000,0
+"GA","Georgia",98,5595000,1
+"GA","Georgia",99,5444000,0
+"GA","Georgia",100,5559000,1
+"GA","Georgia",101,5035000,0
+"GA","Georgia",102,5838000,1
+"GA","Georgia",103,5631000,0
+"GA","Georgia",104,5830000,1
+"GA","Georgia",105,5481000,0
+"GA","Georgia",106,6016000,1
+"GA","Georgia",107,5989000,0
+"GA","Georgia",108,6003000,1
+"GA","Georgia",109,5318000,0
+"GA","Georgia",110,6735000,1
+"GA","Georgia",111,5916000,0
+"GA","Georgia",112,6029000,1
+"GA","Georgia",113,5651000,0
+"GA","Georgia",114,5351000,0
+"GA","Georgia",115,7263000,1
+"GA","Georgia",116,6377000,0
+"GA","Georgia",117,6480000,1
+"GA","Georgia",118,7907000,1
+"GA","Georgia",119,7222000,0
+"HI","Hawaii",9,839000,
+"HI","Hawaii",10,731000,0
+"HI","Hawaii",11,768000,1
+"HI","Hawaii",12,693000,0
+"HI","Hawaii",13,738000,1
+"HI","Hawaii",14,659000,0
+"HI","Hawaii",15,774000,1
+"HI","Hawaii",16,748000,0
+"HI","Hawaii",17,804000,1
+"HI","Hawaii",18,744000,0
+"HI","Hawaii",19,825000,1
+"HI","Hawaii",20,731000,0
+"HI","Hawaii",21,767000,1
+"HI","Hawaii",22,765000,0
+"HI","Hawaii",23,781000,1
+"HI","Hawaii",24,779000,0
+"HI","Hawaii",25,796000,1
+"HI","Hawaii",26,820000,1
+"HI","Hawaii",27,814000,0
+"HI","Hawaii",28,760000,0
+"HI","Hawaii",29,768000,1
+"HI","Hawaii",30,824000,1
+"HI","Hawaii",31,823000,0
+"HI","Hawaii",32,761000,0
+"HI","Hawaii",33,861000,1
+"HI","Hawaii",34,890000,1
+"HI","Hawaii",35,858000,0
+"HI","Hawaii",36,821000,0
+"HI","Hawaii",37,919000,1
+"HI","Hawaii",38,909000,0
+"HI","Hawaii",39,875000,0
+"HI","Hawaii",40,817000,0
+"HI","Hawaii",41,844000,1
+"HI","Hawaii",42,844000,1
+"HI","Hawaii",43,925000,1
+"HI","Hawaii",44,862000,0
+"HI","Hawaii",45,870000,1
+"HI","Hawaii",46,913000,1
+"HI","Hawaii",47,923000,1
+"HI","Hawaii",48,892000,0
+"HI","Hawaii",49,990000,1
+"HI","Hawaii",50,1045000,1
+"HI","Hawaii",51,1051000,1
+"HI","Hawaii",52,977000,0
+"HI","Hawaii",53,1166000,1
+"HI","Hawaii",54,1240000,1
+"HI","Hawaii",55,1221000,0
+"HI","Hawaii",56,1094000,0
+"HI","Hawaii",57,1236000,1
+"HI","Hawaii",58,1366000,1
+"HI","Hawaii",59,1196000,0
+"HI","Hawaii",60,1213000,1
+"HI","Hawaii",61,1256000,1
+"HI","Hawaii",62,1429000,1
+"HI","Hawaii",63,1256000,0
+"HI","Hawaii",64,1252000,0
+"HI","Hawaii",65,1272000,1
+"HI","Hawaii",66,1367000,1
+"HI","Hawaii",67,1289000,0
+"HI","Hawaii",68,1174000,0
+"HI","Hawaii",69,1104000,0
+"HI","Hawaii",70,1145000,1
+"HI","Hawaii",71,1159000,1
+"HI","Hawaii",72,1100000,0
+"HI","Hawaii",73,1340000,1
+"HI","Hawaii",74,1228000,0
+"HI","Hawaii",75,1021000,0
+"HI","Hawaii",76,1214000,1
+"HI","Hawaii",77,1204000,0
+"HI","Hawaii",78,1314000,1
+"HI","Hawaii",79,1288000,0
+"HI","Hawaii",80,1257000,0
+"HI","Hawaii",81,1343000,1
+"HI","Hawaii",82,1600000,1
+"HI","Hawaii",83,1443000,0
+"HI","Hawaii",84,1432000,0
+"HI","Hawaii",85,1471000,1
+"HI","Hawaii",86,1714000,1
+"HI","Hawaii",87,1452000,0
+"HI","Hawaii",88,1441000,0
+"HI","Hawaii",89,1465000,1
+"HI","Hawaii",90,1680000,1
+"HI","Hawaii",91,1511000,0
+"HI","Hawaii",92,1596000,1
+"HI","Hawaii",93,1641000,1
+"HI","Hawaii",94,1735000,1
+"HI","Hawaii",95,1739000,1
+"HI","Hawaii",96,1616000,0
+"HI","Hawaii",97,1707000,1
+"HI","Hawaii",98,1857000,1
+"HI","Hawaii",99,1708000,0
+"HI","Hawaii",100,1647000,0
+"HI","Hawaii",101,1783000,1
+"HI","Hawaii",102,1887000,1
+"HI","Hawaii",103,1860000,0
+"HI","Hawaii",104,1720000,0
+"HI","Hawaii",105,1995000,1
+"HI","Hawaii",106,2155000,1
+"HI","Hawaii",107,1960000,0
+"HI","Hawaii",108,1884000,0
+"HI","Hawaii",109,1978000,1
+"HI","Hawaii",110,2385000,1
+"HI","Hawaii",111,2111000,0
+"HI","Hawaii",112,1957000,0
+"HI","Hawaii",113,2067000,1
+"HI","Hawaii",114,1762000,0
+"HI","Hawaii",115,1412000,0
+"HI","Hawaii",116,2176000,1
+"HI","Hawaii",117,1830000,0
+"HI","Hawaii",118,2617000,1
+"HI","Hawaii",119,2412000,0
+"ID","Idaho",9,428000,
+"ID","Idaho",10,458000,1
+"ID","Idaho",11,419000,0
+"ID","Idaho",12,569000,1
+"ID","Idaho",13,428000,0
+"ID","Idaho",14,800000,1
+"ID","Idaho",15,455000,0
+"ID","Idaho",16,493000,1
+"ID","Idaho",17,478000,0
+"ID","Idaho",18,800000,1
+"ID","Idaho",19,484000,0
+"ID","Idaho",20,458000,0
+"ID","Idaho",21,438000,0
+"ID","Idaho",22,585000,1
+"ID","Idaho",23,509000,0
+"ID","Idaho",24,522000,1
+"ID","Idaho",25,483000,0
+"ID","Idaho",26,631000,1
+"ID","Idaho",27,517000,0
+"ID","Idaho",28,535000,1
+"ID","Idaho",29,513000,0
+"ID","Idaho",30,662000,1
+"ID","Idaho",31,542000,0
+"ID","Idaho",32,545000,1
+"ID","Idaho",33,539000,0
+"ID","Idaho",34,743000,1
+"ID","Idaho",35,536000,0
+"ID","Idaho",36,621000,1
+"ID","Idaho",37,603000,0
+"ID","Idaho",38,801000,1
+"ID","Idaho",39,608000,0
+"ID","Idaho",40,614000,1
+"ID","Idaho",41,653000,1
+"ID","Idaho",42,851000,1
+"ID","Idaho",43,575000,0
+"ID","Idaho",44,574000,0
+"ID","Idaho",45,517000,0
+"ID","Idaho",46,683000,1
+"ID","Idaho",47,638000,0
+"ID","Idaho",48,630000,0
+"ID","Idaho",49,577000,0
+"ID","Idaho",50,639000,1
+"ID","Idaho",51,695000,1
+"ID","Idaho",52,683000,0
+"ID","Idaho",53,653000,0
+"ID","Idaho",54,901000,1
+"ID","Idaho",55,722000,0
+"ID","Idaho",56,727000,1
+"ID","Idaho",57,663000,0
+"ID","Idaho",58,1031000,1
+"ID","Idaho",59,776000,0
+"ID","Idaho",60,797000,1
+"ID","Idaho",61,782000,0
+"ID","Idaho",62,1182000,1
+"ID","Idaho",63,866000,0
+"ID","Idaho",64,872000,1
+"ID","Idaho",65,740000,0
+"ID","Idaho",66,1173000,1
+"ID","Idaho",67,830000,0
+"ID","Idaho",68,786000,0
+"ID","Idaho",69,635000,0
+"ID","Idaho",70,922000,1
+"ID","Idaho",71,756000,0
+"ID","Idaho",72,722000,0
+"ID","Idaho",73,608000,0
+"ID","Idaho",74,866000,1
+"ID","Idaho",75,784000,0
+"ID","Idaho",76,774000,0
+"ID","Idaho",77,746000,0
+"ID","Idaho",78,959000,1
+"ID","Idaho",79,808000,0
+"ID","Idaho",80,802000,0
+"ID","Idaho",81,737000,0
+"ID","Idaho",82,1027000,1
+"ID","Idaho",83,836000,0
+"ID","Idaho",84,867000,1
+"ID","Idaho",85,756000,0
+"ID","Idaho",86,1120000,1
+"ID","Idaho",87,887000,0
+"ID","Idaho",88,893000,1
+"ID","Idaho",89,763000,0
+"ID","Idaho",90,1092000,1
+"ID","Idaho",91,938000,0
+"ID","Idaho",92,943000,1
+"ID","Idaho",93,878000,0
+"ID","Idaho",94,1181000,1
+"ID","Idaho",95,1013000,0
+"ID","Idaho",96,1002000,0
+"ID","Idaho",97,901000,0
+"ID","Idaho",98,1257000,1
+"ID","Idaho",99,1099000,0
+"ID","Idaho",100,1079000,0
+"ID","Idaho",101,952000,0
+"ID","Idaho",102,1332000,1
+"ID","Idaho",103,1168000,0
+"ID","Idaho",104,1182000,1
+"ID","Idaho",105,1096000,0
+"ID","Idaho",106,1397000,1
+"ID","Idaho",107,1193000,0
+"ID","Idaho",108,1098000,0
+"ID","Idaho",109,989000,0
+"ID","Idaho",110,1608000,1
+"ID","Idaho",111,1240000,0
+"ID","Idaho",112,1196000,0
+"ID","Idaho",113,1169000,0
+"ID","Idaho",114,1685000,1
+"ID","Idaho",115,1451000,0
+"ID","Idaho",116,1357000,0
+"ID","Idaho",117,1358000,1
+"ID","Idaho",118,2275000,1
+"ID","Idaho",119,1627000,0
+"IL","Illinois",9,3684000,
+"IL","Illinois",10,4300000,1
+"IL","Illinois",11,3803000,0
+"IL","Illinois",12,3628000,0
+"IL","Illinois",13,4028000,1
+"IL","Illinois",14,4481000,1
+"IL","Illinois",15,4118000,0
+"IL","Illinois",16,3929000,0
+"IL","Illinois",17,4367000,1
+"IL","Illinois",18,4863000,1
+"IL","Illinois",19,4434000,0
+"IL","Illinois",20,4193000,0
+"IL","Illinois",21,4681000,1
+"IL","Illinois",22,5237000,1
+"IL","Illinois",23,4721000,0
+"IL","Illinois",24,4464000,0
+"IL","Illinois",25,4999000,1
+"IL","Illinois",26,5587000,1
+"IL","Illinois",27,4721000,0
+"IL","Illinois",28,4464000,0
+"IL","Illinois",29,4999000,1
+"IL","Illinois",30,5587000,1
+"IL","Illinois",31,5248000,0
+"IL","Illinois",32,5269000,1
+"IL","Illinois",33,6142000,1
+"IL","Illinois",34,7001000,1
+"IL","Illinois",35,5582000,0
+"IL","Illinois",36,5281000,0
+"IL","Illinois",37,5648000,1
+"IL","Illinois",38,6633000,1
+"IL","Illinois",39,5315000,0
+"IL","Illinois",40,5281000,0
+"IL","Illinois",41,5670000,1
+"IL","Illinois",42,6208000,1
+"IL","Illinois",43,5397000,0
+"IL","Illinois",44,5299000,0
+"IL","Illinois",45,5393000,1
+"IL","Illinois",46,6123000,1
+"IL","Illinois",47,5638000,0
+"IL","Illinois",48,5656000,1
+"IL","Illinois",49,6047000,1
+"IL","Illinois",50,6613000,1
+"IL","Illinois",51,6012000,0
+"IL","Illinois",52,5787000,0
+"IL","Illinois",53,6989000,1
+"IL","Illinois",54,7464000,1
+"IL","Illinois",55,6435000,0
+"IL","Illinois",56,6095000,0
+"IL","Illinois",57,6764000,1
+"IL","Illinois",58,8019000,1
+"IL","Illinois",59,6782000,0
+"IL","Illinois",60,6337000,0
+"IL","Illinois",61,7132000,1
+"IL","Illinois",62,8488000,1
+"IL","Illinois",63,6858000,0
+"IL","Illinois",64,6724000,0
+"IL","Illinois",65,7547000,1
+"IL","Illinois",66,8757000,1
+"IL","Illinois",67,6956000,0
+"IL","Illinois",68,6360000,0
+"IL","Illinois",69,6728000,1
+"IL","Illinois",70,8365000,1
+"IL","Illinois",71,6422000,0
+"IL","Illinois",72,6498000,1
+"IL","Illinois",73,7092000,1
+"IL","Illinois",74,7771000,1
+"IL","Illinois",75,7128000,0
+"IL","Illinois",76,7250000,1
+"IL","Illinois",77,7625000,1
+"IL","Illinois",78,9235000,1
+"IL","Illinois",79,8539000,0
+"IL","Illinois",80,8177000,0
+"IL","Illinois",81,9083000,1
+"IL","Illinois",82,10459000,1
+"IL","Illinois",83,8555000,0
+"IL","Illinois",84,8719000,1
+"IL","Illinois",85,9833000,1
+"IL","Illinois",86,11623000,1
+"IL","Illinois",87,9098000,0
+"IL","Illinois",88,9440000,1
+"IL","Illinois",89,10046000,1
+"IL","Illinois",90,11338000,1
+"IL","Illinois",91,9391000,0
+"IL","Illinois",92,9317000,0
+"IL","Illinois",93,9622000,1
+"IL","Illinois",94,11510000,1
+"IL","Illinois",95,9263000,0
+"IL","Illinois",96,9153000,0
+"IL","Illinois",97,9871000,1
+"IL","Illinois",98,10620000,1
+"IL","Illinois",99,9059000,0
+"IL","Illinois",100,8845000,0
+"IL","Illinois",101,8968000,1
+"IL","Illinois",102,9792000,1
+"IL","Illinois",103,9163000,0
+"IL","Illinois",104,9141000,0
+"IL","Illinois",105,10184000,1
+"IL","Illinois",106,11374000,1
+"IL","Illinois",107,10041000,0
+"IL","Illinois",108,10353000,1
+"IL","Illinois",109,10850000,1
+"IL","Illinois",110,13583000,1
+"IL","Illinois",111,10911000,0
+"IL","Illinois",112,11062000,1
+"IL","Illinois",113,12150000,1
+"IL","Illinois",114,11167000,0
+"IL","Illinois",115,13732000,1
+"IL","Illinois",116,11770000,0
+"IL","Illinois",117,12856000,1
+"IL","Illinois",118,16970000,1
+"IL","Illinois",119,13813000,0
+"IN","Indiana",9,1842000,
+"IN","Indiana",10,2139000,1
+"IN","Indiana",11,1824000,0
+"IN","Indiana",12,1745000,0
+"IN","Indiana",13,1193000,0
+"IN","Indiana",14,2322000,1
+"IN","Indiana",15,1961000,0
+"IN","Indiana",16,1790000,0
+"IN","Indiana",17,1964000,1
+"IN","Indiana",18,2452000,1
+"IN","Indiana",19,2092000,0
+"IN","Indiana",20,1790000,0
+"IN","Indiana",21,2233000,1
+"IN","Indiana",22,2670000,1
+"IN","Indiana",23,2300000,0
+"IN","Indiana",24,2096000,0
+"IN","Indiana",25,2451000,1
+"IN","Indiana",26,3088000,1
+"IN","Indiana",27,2300000,0
+"IN","Indiana",28,2493000,1
+"IN","Indiana",29,2603000,1
+"IN","Indiana",30,3312000,1
+"IN","Indiana",31,2527000,0
+"IN","Indiana",32,2296000,0
+"IN","Indiana",33,2492000,1
+"IN","Indiana",34,3162000,1
+"IN","Indiana",35,2510000,0
+"IN","Indiana",36,2350000,0
+"IN","Indiana",37,2428000,1
+"IN","Indiana",38,3158000,1
+"IN","Indiana",39,2551000,0
+"IN","Indiana",40,2312000,0
+"IN","Indiana",41,2365000,1
+"IN","Indiana",42,2972000,1
+"IN","Indiana",43,2644000,0
+"IN","Indiana",44,2500000,0
+"IN","Indiana",45,2658000,1
+"IN","Indiana",46,3414000,1
+"IN","Indiana",47,2845000,0
+"IN","Indiana",48,2780000,0
+"IN","Indiana",49,2835000,1
+"IN","Indiana",50,3498000,1
+"IN","Indiana",51,3054000,0
+"IN","Indiana",52,3013000,0
+"IN","Indiana",53,2928000,0
+"IN","Indiana",54,3860000,1
+"IN","Indiana",55,3192000,0
+"IN","Indiana",56,3213000,1
+"IN","Indiana",57,3098000,0
+"IN","Indiana",58,4123000,1
+"IN","Indiana",59,3302000,0
+"IN","Indiana",60,3130000,0
+"IN","Indiana",61,3203000,1
+"IN","Indiana",62,4370000,1
+"IN","Indiana",63,3555000,0
+"IN","Indiana",64,3513000,0
+"IN","Indiana",65,3311000,0
+"IN","Indiana",66,4538000,1
+"IN","Indiana",67,3878000,0
+"IN","Indiana",68,3519000,0
+"IN","Indiana",69,3194000,0
+"IN","Indiana",70,4107000,1
+"IN","Indiana",71,3239000,0
+"IN","Indiana",72,3198000,0
+"IN","Indiana",73,3122000,0
+"IN","Indiana",74,4050000,1
+"IN","Indiana",75,3429000,0
+"IN","Indiana",76,3397000,0
+"IN","Indiana",77,3432000,1
+"IN","Indiana",78,4456000,1
+"IN","Indiana",79,3702000,0
+"IN","Indiana",80,3661000,0
+"IN","Indiana",81,3472000,0
+"IN","Indiana",82,4665000,1
+"IN","Indiana",83,4261000,0
+"IN","Indiana",84,3939000,0
+"IN","Indiana",85,3780000,0
+"IN","Indiana",86,4958000,1
+"IN","Indiana",87,4110000,0
+"IN","Indiana",88,3915000,0
+"IN","Indiana",89,3702000,0
+"IN","Indiana",90,4736000,1
+"IN","Indiana",91,4181000,0
+"IN","Indiana",92,4052000,0
+"IN","Indiana",93,4392000,1
+"IN","Indiana",94,5817000,1
+"IN","Indiana",95,4730000,0
+"IN","Indiana",96,4685000,0
+"IN","Indiana",97,4537000,0
+"IN","Indiana",98,5816000,1
+"IN","Indiana",99,4956000,0
+"IN","Indiana",100,4813000,0
+"IN","Indiana",101,4673000,0
+"IN","Indiana",102,6003000,1
+"IN","Indiana",103,5219000,0
+"IN","Indiana",104,5046000,0
+"IN","Indiana",105,5081000,1
+"IN","Indiana",106,6471000,1
+"IN","Indiana",107,5373000,0
+"IN","Indiana",108,5191000,0
+"IN","Indiana",109,4915000,0
+"IN","Indiana",110,6703000,1
+"IN","Indiana",111,5639000,0
+"IN","Indiana",112,5518000,0
+"IN","Indiana",113,5245000,0
+"IN","Indiana",114,5311000,1
+"IN","Indiana",115,5845000,1
+"IN","Indiana",116,5638000,0
+"IN","Indiana",117,5716000,1
+"IN","Indiana",118,8120000,1
+"IN","Indiana",119,6616000,0
+"IA","Iowa",9,1066000,
+"IA","Iowa",10,1100000,1
+"IA","Iowa",11,1059000,0
+"IA","Iowa",12,1076000,1
+"IA","Iowa",13,1137000,1
+"IA","Iowa",14,1131000,0
+"IA","Iowa",15,846000,0
+"IA","Iowa",16,1107000,1
+"IA","Iowa",17,1227000,1
+"IA","Iowa",18,1262000,1
+"IA","Iowa",19,868000,0
+"IA","Iowa",20,1163000,1
+"IA","Iowa",21,1228000,1
+"IA","Iowa",22,1429000,1
+"IA","Iowa",23,1252000,0
+"IA","Iowa",24,844000,0
+"IA","Iowa",25,1314000,1
+"IA","Iowa",26,1393000,1
+"IA","Iowa",27,977000,0
+"IA","Iowa",28,1220000,1
+"IA","Iowa",29,1397000,1
+"IA","Iowa",30,1280000,0
+"IA","Iowa",31,956000,0
+"IA","Iowa",32,1362000,1
+"IA","Iowa",33,1363000,1
+"IA","Iowa",34,1505000,1
+"IA","Iowa",35,976000,0
+"IA","Iowa",36,1306000,1
+"IA","Iowa",37,1346000,1
+"IA","Iowa",38,1530000,1
+"IA","Iowa",39,1016000,0
+"IA","Iowa",40,1313000,1
+"IA","Iowa",41,1284000,0
+"IA","Iowa",42,1392000,1
+"IA","Iowa",43,983000,0
+"IA","Iowa",44,1355000,1
+"IA","Iowa",45,1284000,0
+"IA","Iowa",46,1335000,1
+"IA","Iowa",47,971000,0
+"IA","Iowa",48,1378000,1
+"IA","Iowa",49,1305000,0
+"IA","Iowa",50,1577000,1
+"IA","Iowa",51,1018000,0
+"IA","Iowa",52,1358000,1
+"IA","Iowa",53,1273000,0
+"IA","Iowa",54,1581000,1
+"IA","Iowa",55,1072000,0
+"IA","Iowa",56,1333000,1
+"IA","Iowa",57,1329000,0
+"IA","Iowa",58,1611000,1
+"IA","Iowa",59,1159000,0
+"IA","Iowa",60,1470000,1
+"IA","Iowa",61,1515000,1
+"IA","Iowa",62,1867000,1
+"IA","Iowa",63,1231000,0
+"IA","Iowa",64,1640000,1
+"IA","Iowa",65,1619000,0
+"IA","Iowa",66,2019000,1
+"IA","Iowa",67,1360000,0
+"IA","Iowa",68,1655000,1
+"IA","Iowa",69,1678000,1
+"IA","Iowa",70,1827000,1
+"IA","Iowa",71,1227000,0
+"IA","Iowa",72,1665000,1
+"IA","Iowa",73,1588000,0
+"IA","Iowa",74,1846000,1
+"IA","Iowa",75,1338000,0
+"IA","Iowa",76,1735000,1
+"IA","Iowa",77,1726000,0
+"IA","Iowa",78,1992000,1
+"IA","Iowa",79,1388000,0
+"IA","Iowa",80,1892000,1
+"IA","Iowa",81,1811000,0
+"IA","Iowa",82,2209000,1
+"IA","Iowa",83,1428000,0
+"IA","Iowa",84,2057000,1
+"IA","Iowa",85,1897000,0
+"IA","Iowa",86,2383000,1
+"IA","Iowa",87,1545000,0
+"IA","Iowa",88,2023000,1
+"IA","Iowa",89,1941000,0
+"IA","Iowa",90,2228000,1
+"IA","Iowa",91,1625000,0
+"IA","Iowa",92,2270000,1
+"IA","Iowa",93,2062000,0
+"IA","Iowa",94,3156000,1
+"IA","Iowa",95,1734000,0
+"IA","Iowa",96,2403000,1
+"IA","Iowa",97,2192000,0
+"IA","Iowa",98,2698000,1
+"IA","Iowa",99,2255000,0
+"IA","Iowa",100,2442000,1
+"IA","Iowa",101,2501000,1
+"IA","Iowa",102,2656000,1
+"IA","Iowa",103,2120000,0
+"IA","Iowa",104,2459000,1
+"IA","Iowa",105,2570000,1
+"IA","Iowa",106,2794000,1
+"IA","Iowa",107,1955000,0
+"IA","Iowa",108,2575000,1
+"IA","Iowa",109,2474000,0
+"IA","Iowa",110,3595000,1
+"IA","Iowa",111,2060000,0
+"IA","Iowa",112,2672000,1
+"IA","Iowa",113,2536000,0
+"IA","Iowa",114,3278000,1
+"IA","Iowa",115,2160000,0
+"IA","Iowa",116,2842000,1
+"IA","Iowa",117,2797000,0
+"IA","Iowa",118,4012000,1
+"IA","Iowa",119,2329000,0
+"KS","Kansas",9,851000,
+"KS","Kansas",10,1114000,1
+"KS","Kansas",11,893000,0
+"KS","Kansas",12,883000,0
+"KS","Kansas",13,868000,0
+"KS","Kansas",14,1121000,1
+"KS","Kansas",15,896000,0
+"KS","Kansas",16,960000,1
+"KS","Kansas",17,909000,0
+"KS","Kansas",18,1214000,1
+"KS","Kansas",19,951000,0
+"KS","Kansas",20,1012000,1
+"KS","Kansas",21,999000,0
+"KS","Kansas",22,1267000,1
+"KS","Kansas",23,1064000,0
+"KS","Kansas",24,1114000,1
+"KS","Kansas",25,1097000,0
+"KS","Kansas",26,1374000,1
+"KS","Kansas",27,1101000,0
+"KS","Kansas",28,1079000,0
+"KS","Kansas",29,1086000,1
+"KS","Kansas",30,1324000,1
+"KS","Kansas",31,1121000,0
+"KS","Kansas",32,1091000,0
+"KS","Kansas",33,1104000,1
+"KS","Kansas",34,1490000,1
+"KS","Kansas",35,1191000,0
+"KS","Kansas",36,1111000,0
+"KS","Kansas",37,1139000,1
+"KS","Kansas",38,1551000,1
+"KS","Kansas",39,1204000,0
+"KS","Kansas",40,1109000,0
+"KS","Kansas",41,1118000,1
+"KS","Kansas",42,1377000,1
+"KS","Kansas",43,1213000,0
+"KS","Kansas",44,1209000,0
+"KS","Kansas",45,1158000,0
+"KS","Kansas",46,1428000,1
+"KS","Kansas",47,1288000,0
+"KS","Kansas",48,1282000,0
+"KS","Kansas",49,1192000,0
+"KS","Kansas",50,1521000,1
+"KS","Kansas",51,1310000,0
+"KS","Kansas",52,1322000,1
+"KS","Kansas",53,1299000,0
+"KS","Kansas",54,1707000,1
+"KS","Kansas",55,1425000,0
+"KS","Kansas",56,1438000,1
+"KS","Kansas",57,1435000,0
+"KS","Kansas",58,1973000,1
+"KS","Kansas",59,1558000,0
+"KS","Kansas",60,1553000,0
+"KS","Kansas",61,1527000,0
+"KS","Kansas",62,2255000,1
+"KS","Kansas",63,1630000,0
+"KS","Kansas",64,1652000,1
+"KS","Kansas",65,1652000,1
+"KS","Kansas",66,2237000,1
+"KS","Kansas",67,1646000,0
+"KS","Kansas",68,1631000,0
+"KS","Kansas",69,1469000,0
+"KS","Kansas",70,1912000,1
+"KS","Kansas",71,1465000,0
+"KS","Kansas",72,1544000,1
+"KS","Kansas",73,1453000,0
+"KS","Kansas",74,2034000,1
+"KS","Kansas",75,1611000,0
+"KS","Kansas",76,1583000,0
+"KS","Kansas",77,1534000,0
+"KS","Kansas",78,2086000,1
+"KS","Kansas",79,1710000,0
+"KS","Kansas",80,1762000,1
+"KS","Kansas",81,1635000,0
+"KS","Kansas",82,2287000,1
+"KS","Kansas",83,1864000,0
+"KS","Kansas",84,1924000,1
+"KS","Kansas",85,1645000,0
+"KS","Kansas",86,2237000,1
+"KS","Kansas",87,1763000,0
+"KS","Kansas",88,1734000,0
+"KS","Kansas",89,2031000,1
+"KS","Kansas",90,1940000,0
+"KS","Kansas",91,1736000,0
+"KS","Kansas",92,1690000,0
+"KS","Kansas",93,2076000,1
+"KS","Kansas",94,2378000,1
+"KS","Kansas",95,1773000,0
+"KS","Kansas",96,1802000,1
+"KS","Kansas",97,2186000,1
+"KS","Kansas",98,2298000,1
+"KS","Kansas",99,1769000,0
+"KS","Kansas",100,1808000,1
+"KS","Kansas",101,2208000,1
+"KS","Kansas",102,2368000,1
+"KS","Kansas",103,1920000,0
+"KS","Kansas",104,2053000,1
+"KS","Kansas",105,2620000,1
+"KS","Kansas",106,2956000,1
+"KS","Kansas",107,2184000,0
+"KS","Kansas",108,2092000,0
+"KS","Kansas",109,2449000,1
+"KS","Kansas",110,3301000,1
+"KS","Kansas",111,2239000,0
+"KS","Kansas",112,2249000,1
+"KS","Kansas",113,2730000,1
+"KS","Kansas",114,2452000,0
+"KS","Kansas",115,2770000,1
+"KS","Kansas",116,2322000,0
+"KS","Kansas",117,2876000,1
+"KS","Kansas",118,3659000,1
+"KS","Kansas",119,2677000,0
+"KY","Kentucky",9,1377000,
+"KY","Kentucky",10,1440000,1
+"KY","Kentucky",11,1357000,0
+"KY","Kentucky",12,1426000,1
+"KY","Kentucky",13,1505000,1
+"KY","Kentucky",14,1518000,1
+"KY","Kentucky",15,1392000,0
+"KY","Kentucky",16,1539000,1
+"KY","Kentucky",17,1462000,0
+"KY","Kentucky",18,1600000,1
+"KY","Kentucky",19,1477000,0
+"KY","Kentucky",20,1580000,1
+"KY","Kentucky",21,1532000,0
+"KY","Kentucky",22,1750000,1
+"KY","Kentucky",23,1599000,0
+"KY","Kentucky",24,1712000,1
+"KY","Kentucky",25,1711000,0
+"KY","Kentucky",26,1882000,1
+"KY","Kentucky",27,1522000,0
+"KY","Kentucky",28,1644000,1
+"KY","Kentucky",29,1524000,0
+"KY","Kentucky",30,1820000,1
+"KY","Kentucky",31,1821000,1
+"KY","Kentucky",32,1956000,1
+"KY","Kentucky",33,1727000,0
+"KY","Kentucky",34,2162000,1
+"KY","Kentucky",35,2009000,0
+"KY","Kentucky",36,1970000,0
+"KY","Kentucky",37,1712000,0
+"KY","Kentucky",38,2156000,1
+"KY","Kentucky",39,2039000,0
+"KY","Kentucky",40,1949000,0
+"KY","Kentucky",41,1675000,0
+"KY","Kentucky",42,2178000,1
+"KY","Kentucky",43,1919000,0
+"KY","Kentucky",44,2093000,1
+"KY","Kentucky",45,1796000,0
+"KY","Kentucky",46,2046000,1
+"KY","Kentucky",47,1915000,0
+"KY","Kentucky",48,2055000,1
+"KY","Kentucky",49,1829000,0
+"KY","Kentucky",50,2171000,1
+"KY","Kentucky",51,2017000,0
+"KY","Kentucky",52,2183000,1
+"KY","Kentucky",53,1916000,0
+"KY","Kentucky",54,2352000,1
+"KY","Kentucky",55,2318000,0
+"KY","Kentucky",56,2499000,1
+"KY","Kentucky",57,2136000,0
+"KY","Kentucky",58,2669000,1
+"KY","Kentucky",59,2374000,0
+"KY","Kentucky",60,2552000,1
+"KY","Kentucky",61,2221000,0
+"KY","Kentucky",62,2654000,1
+"KY","Kentucky",63,2427000,0
+"KY","Kentucky",64,2508000,1
+"KY","Kentucky",65,2314000,0
+"KY","Kentucky",66,2768000,1
+"KY","Kentucky",67,2425000,0
+"KY","Kentucky",68,2556000,1
+"KY","Kentucky",69,2208000,0
+"KY","Kentucky",70,2547000,1
+"KY","Kentucky",71,2303000,0
+"KY","Kentucky",72,2472000,1
+"KY","Kentucky",73,2216000,0
+"KY","Kentucky",74,2572000,1
+"KY","Kentucky",75,2428000,0
+"KY","Kentucky",76,2633000,1
+"KY","Kentucky",77,2329000,0
+"KY","Kentucky",78,2810000,1
+"KY","Kentucky",79,2474000,0
+"KY","Kentucky",80,2676000,1
+"KY","Kentucky",81,2486000,0
+"KY","Kentucky",82,2860000,1
+"KY","Kentucky",83,2572000,0
+"KY","Kentucky",84,2811000,1
+"KY","Kentucky",85,2491000,0
+"KY","Kentucky",86,2941000,1
+"KY","Kentucky",87,2670000,0
+"KY","Kentucky",88,2811000,1
+"KY","Kentucky",89,2565000,0
+"KY","Kentucky",90,2962000,1
+"KY","Kentucky",91,2698000,0
+"KY","Kentucky",92,2951000,1
+"KY","Kentucky",93,2673000,0
+"KY","Kentucky",94,3182000,1
+"KY","Kentucky",95,2796000,0
+"KY","Kentucky",96,3033000,1
+"KY","Kentucky",97,2774000,0
+"KY","Kentucky",98,3179000,1
+"KY","Kentucky",99,2895000,0
+"KY","Kentucky",100,3124000,1
+"KY","Kentucky",101,2745000,0
+"KY","Kentucky",102,3245000,1
+"KY","Kentucky",103,2970000,0
+"KY","Kentucky",104,3217000,1
+"KY","Kentucky",105,2878000,0
+"KY","Kentucky",106,3342000,1
+"KY","Kentucky",107,3072000,0
+"KY","Kentucky",108,3260000,1
+"KY","Kentucky",109,2991000,0
+"KY","Kentucky",110,3542000,1
+"KY","Kentucky",111,3121000,0
+"KY","Kentucky",112,3364000,1
+"KY","Kentucky",113,3180000,0
+"KY","Kentucky",114,3355000,1
+"KY","Kentucky",115,3227000,0
+"KY","Kentucky",116,3536000,1
+"KY","Kentucky",117,3337000,0
+"KY","Kentucky",118,4177000,1
+"KY","Kentucky",119,3571000,0
+"LA","Louisiana",9,1048000,
+"LA","Louisiana",10,1423000,1
+"LA","Louisiana",11,1203000,0
+"LA","Louisiana",12,1225000,1
+"LA","Louisiana",13,1106000,0
+"LA","Louisiana",14,1595000,1
+"LA","Louisiana",15,1222000,0
+"LA","Louisiana",16,1192000,0
+"LA","Louisiana",17,1190000,0
+"LA","Louisiana",18,1618000,1
+"LA","Louisiana",19,1333000,0
+"LA","Louisiana",20,1234000,0
+"LA","Louisiana",21,1277000,1
+"LA","Louisiana",22,1690000,1
+"LA","Louisiana",23,1424000,0
+"LA","Louisiana",24,1372000,0
+"LA","Louisiana",25,1374000,1
+"LA","Louisiana",26,1895000,1
+"LA","Louisiana",27,1365000,0
+"LA","Louisiana",28,1318000,0
+"LA","Louisiana",29,1293000,0
+"LA","Louisiana",30,1782000,1
+"LA","Louisiana",31,1491000,0
+"LA","Louisiana",32,1455000,0
+"LA","Louisiana",33,1495000,1
+"LA","Louisiana",34,1979000,1
+"LA","Louisiana",35,1639000,0
+"LA","Louisiana",36,1530000,0
+"LA","Louisiana",37,1651000,1
+"LA","Louisiana",38,2171000,1
+"LA","Louisiana",39,1708000,0
+"LA","Louisiana",40,1867000,1
+"LA","Louisiana",41,1679000,0
+"LA","Louisiana",42,2104000,1
+"LA","Louisiana",43,1783000,0
+"LA","Louisiana",44,1674000,0
+"LA","Louisiana",45,1841000,1
+"LA","Louisiana",46,2143000,1
+"LA","Louisiana",47,1756000,0
+"LA","Louisiana",48,1660000,0
+"LA","Louisiana",49,1712000,1
+"LA","Louisiana",50,2311000,1
+"LA","Louisiana",51,1885000,0
+"LA","Louisiana",52,1880000,0
+"LA","Louisiana",53,1811000,0
+"LA","Louisiana",54,2621000,1
+"LA","Louisiana",55,1515000,0
+"LA","Louisiana",56,2027000,1
+"LA","Louisiana",57,2192000,1
+"LA","Louisiana",58,2797000,1
+"LA","Louisiana",59,2408000,0
+"LA","Louisiana",60,2408000,1
+"LA","Louisiana",61,2316000,0
+"LA","Louisiana",62,3117000,1
+"LA","Louisiana",63,2572000,0
+"LA","Louisiana",64,2470000,0
+"LA","Louisiana",65,2420000,0
+"LA","Louisiana",66,3187000,1
+"LA","Louisiana",67,2601000,0
+"LA","Louisiana",68,2502000,0
+"LA","Louisiana",69,2215000,0
+"LA","Louisiana",70,2620000,1
+"LA","Louisiana",71,2286000,0
+"LA","Louisiana",72,2366000,1
+"LA","Louisiana",73,1670000,0
+"LA","Louisiana",74,2104000,1
+"LA","Louisiana",75,2159000,1
+"LA","Louisiana",76,2077000,0
+"LA","Louisiana",77,1835000,0
+"LA","Louisiana",78,2429000,1
+"LA","Louisiana",79,2230000,0
+"LA","Louisiana",80,1986000,0
+"LA","Louisiana",81,1872000,0
+"LA","Louisiana",82,2605000,1
+"LA","Louisiana",83,2346000,0
+"LA","Louisiana",84,2208000,0
+"LA","Louisiana",85,2008000,0
+"LA","Louisiana",86,2648000,1
+"LA","Louisiana",87,2555000,0
+"LA","Louisiana",88,2564000,1
+"LA","Louisiana",89,2246000,0
+"LA","Louisiana",90,2586000,1
+"LA","Louisiana",91,2683000,1
+"LA","Louisiana",92,2619000,0
+"LA","Louisiana",93,2115000,0
+"LA","Louisiana",94,2670000,1
+"LA","Louisiana",95,2354000,0
+"LA","Louisiana",96,2267000,0
+"LA","Louisiana",97,2469000,1
+"LA","Louisiana",98,2612000,1
+"LA","Louisiana",99,2814000,1
+"LA","Louisiana",100,2497000,0
+"LA","Louisiana",101,2970000,1
+"LA","Louisiana",102,3054000,1
+"LA","Louisiana",103,2856000,0
+"LA","Louisiana",104,2818000,0
+"LA","Louisiana",105,2868000,1
+"LA","Louisiana",106,3187000,1
+"LA","Louisiana",107,2938000,0
+"LA","Louisiana",108,3107000,1
+"LA","Louisiana",109,2605000,0
+"LA","Louisiana",110,3507000,1
+"LA","Louisiana",111,3236000,0
+"LA","Louisiana",112,3245000,1
+"LA","Louisiana",113,2708000,0
+"LA","Louisiana",114,2703000,0
+"LA","Louisiana",115,3664000,1
+"LA","Louisiana",116,2986000,0
+"LA","Louisiana",117,2968000,0
+"LA","Louisiana",118,4064000,1
+"LA","Louisiana",119,3771000,0
+"ME","Maine",9,394000,
+"ME","Maine",10,503000,1
+"ME","Maine",11,485000,0
+"ME","Maine",12,428000,0
+"ME","Maine",13,373000,0
+"ME","Maine",14,522000,1
+"ME","Maine",15,475000,0
+"ME","Maine",16,455000,0
+"ME","Maine",17,421000,0
+"ME","Maine",18,546000,1
+"ME","Maine",19,504000,0
+"ME","Maine",20,490000,0
+"ME","Maine",21,425000,0
+"ME","Maine",22,601000,1
+"ME","Maine",23,570000,0
+"ME","Maine",24,547000,0
+"ME","Maine",25,503000,0
+"ME","Maine",26,752000,1
+"ME","Maine",27,588000,0
+"ME","Maine",28,588000,1
+"ME","Maine",29,533000,0
+"ME","Maine",30,890000,1
+"ME","Maine",31,528000,0
+"ME","Maine",32,617000,1
+"ME","Maine",33,584000,0
+"ME","Maine",34,931000,1
+"ME","Maine",35,525000,0
+"ME","Maine",36,613000,1
+"ME","Maine",37,572000,0
+"ME","Maine",38,958000,1
+"ME","Maine",39,508000,0
+"ME","Maine",40,640000,1
+"ME","Maine",41,538000,0
+"ME","Maine",42,941000,1
+"ME","Maine",43,534000,0
+"ME","Maine",44,659000,1
+"ME","Maine",45,548000,0
+"ME","Maine",46,957000,1
+"ME","Maine",47,569000,0
+"ME","Maine",48,713000,1
+"ME","Maine",49,595000,0
+"ME","Maine",50,1021000,1
+"ME","Maine",51,608000,0
+"ME","Maine",52,739000,1
+"ME","Maine",53,624000,0
+"ME","Maine",54,1103000,1
+"ME","Maine",55,672000,0
+"ME","Maine",56,833000,1
+"ME","Maine",57,715000,0
+"ME","Maine",58,1262000,1
+"ME","Maine",59,761000,0
+"ME","Maine",60,864000,1
+"ME","Maine",61,744000,0
+"ME","Maine",62,1146000,1
+"ME","Maine",63,730000,0
+"ME","Maine",64,853000,1
+"ME","Maine",65,724000,0
+"ME","Maine",66,1361000,1
+"ME","Maine",67,734000,0
+"ME","Maine",68,835000,1
+"ME","Maine",69,644000,0
+"ME","Maine",70,1152000,1
+"ME","Maine",71,732000,0
+"ME","Maine",72,862000,1
+"ME","Maine",73,691000,0
+"ME","Maine",74,1194000,1
+"ME","Maine",75,773000,0
+"ME","Maine",76,906000,1
+"ME","Maine",77,758000,0
+"ME","Maine",78,1240000,1
+"ME","Maine",79,803000,0
+"ME","Maine",80,933000,1
+"ME","Maine",81,764000,0
+"ME","Maine",82,1277000,1
+"ME","Maine",83,792000,0
+"ME","Maine",84,948000,1
+"ME","Maine",85,775000,0
+"ME","Maine",86,1370000,1
+"ME","Maine",87,799000,0
+"ME","Maine",88,953000,1
+"ME","Maine",89,771000,0
+"ME","Maine",90,1324000,1
+"ME","Maine",91,849000,0
+"ME","Maine",92,1005000,1
+"ME","Maine",93,812000,0
+"ME","Maine",94,1399000,1
+"ME","Maine",95,1063000,0
+"ME","Maine",96,1034000,0
+"ME","Maine",97,842000,0
+"ME","Maine",98,1191000,1
+"ME","Maine",99,1114000,0
+"ME","Maine",100,1047000,0
+"ME","Maine",101,843000,0
+"ME","Maine",102,1232000,1
+"ME","Maine",103,1139000,0
+"ME","Maine",104,1091000,0
+"ME","Maine",105,887000,0
+"ME","Maine",106,1294000,1
+"ME","Maine",107,1225000,0
+"ME","Maine",108,1146000,0
+"ME","Maine",109,908000,0
+"ME","Maine",110,1401000,1
+"ME","Maine",111,1292000,0
+"ME","Maine",112,1192000,0
+"ME","Maine",113,975000,0
+"ME","Maine",114,1408000,1
+"ME","Maine",115,1260000,0
+"ME","Maine",116,1306000,1
+"ME","Maine",117,1096000,0
+"ME","Maine",118,1789000,1
+"ME","Maine",119,1552000,0
+"MD","Maryland",9,1875000,
+"MD","Maryland",10,1956000,1
+"MD","Maryland",11,1557000,0
+"MD","Maryland",12,1804000,1
+"MD","Maryland",13,1879000,1
+"MD","Maryland",14,2310000,1
+"MD","Maryland",15,1679000,0
+"MD","Maryland",16,1962000,1
+"MD","Maryland",17,1832000,0
+"MD","Maryland",18,2384000,1
+"MD","Maryland",19,1684000,0
+"MD","Maryland",20,2144000,1
+"MD","Maryland",21,1624000,0
+"MD","Maryland",22,2768000,1
+"MD","Maryland",23,2121000,0
+"MD","Maryland",24,2180000,1
+"MD","Maryland",25,1962000,0
+"MD","Maryland",26,2929000,1
+"MD","Maryland",27,2265000,0
+"MD","Maryland",28,2297000,1
+"MD","Maryland",29,2150000,0
+"MD","Maryland",30,2973000,1
+"MD","Maryland",31,2295000,0
+"MD","Maryland",32,2515000,1
+"MD","Maryland",33,2267000,0
+"MD","Maryland",34,3477000,1
+"MD","Maryland",35,2044000,0
+"MD","Maryland",36,2776000,1
+"MD","Maryland",37,2349000,0
+"MD","Maryland",38,3617000,1
+"MD","Maryland",39,2521000,0
+"MD","Maryland",40,2674000,1
+"MD","Maryland",41,2180000,0
+"MD","Maryland",42,3446000,1
+"MD","Maryland",43,2600000,0
+"MD","Maryland",44,2760000,1
+"MD","Maryland",45,2186000,0
+"MD","Maryland",46,3414000,1
+"MD","Maryland",47,2767000,0
+"MD","Maryland",48,2962000,1
+"MD","Maryland",49,2748000,0
+"MD","Maryland",50,3836000,1
+"MD","Maryland",51,3061000,0
+"MD","Maryland",52,3417000,1
+"MD","Maryland",53,2699000,0
+"MD","Maryland",54,4209000,1
+"MD","Maryland",55,3631000,0
+"MD","Maryland",56,3370000,0
+"MD","Maryland",57,2942000,0
+"MD","Maryland",58,4665000,1
+"MD","Maryland",59,3555000,0
+"MD","Maryland",60,3551000,0
+"MD","Maryland",61,3038000,0
+"MD","Maryland",62,4949000,1
+"MD","Maryland",63,3558000,0
+"MD","Maryland",64,3996000,1
+"MD","Maryland",65,3150000,0
+"MD","Maryland",66,5872000,1
+"MD","Maryland",67,3973000,0
+"MD","Maryland",68,3902000,0
+"MD","Maryland",69,3113000,0
+"MD","Maryland",70,4801000,1
+"MD","Maryland",71,3659000,0
+"MD","Maryland",72,3897000,1
+"MD","Maryland",73,2810000,0
+"MD","Maryland",74,4604000,1
+"MD","Maryland",75,3620000,0
+"MD","Maryland",76,4040000,1
+"MD","Maryland",77,3046000,0
+"MD","Maryland",78,5307000,1
+"MD","Maryland",79,3700000,0
+"MD","Maryland",80,4150000,1
+"MD","Maryland",81,3397000,0
+"MD","Maryland",82,5798000,1
+"MD","Maryland",83,3708000,0
+"MD","Maryland",84,3936000,1
+"MD","Maryland",85,4350000,1
+"MD","Maryland",86,6163000,1
+"MD","Maryland",87,4060000,0
+"MD","Maryland",88,4202000,1
+"MD","Maryland",89,4351000,1
+"MD","Maryland",90,6317000,1
+"MD","Maryland",91,4153000,0
+"MD","Maryland",92,4485000,1
+"MD","Maryland",93,4588000,1
+"MD","Maryland",94,6707000,1
+"MD","Maryland",95,4391000,0
+"MD","Maryland",96,4913000,1
+"MD","Maryland",97,4920000,1
+"MD","Maryland",98,6670000,1
+"MD","Maryland",99,4658000,0
+"MD","Maryland",100,4737000,1
+"MD","Maryland",101,4997000,1
+"MD","Maryland",102,7157000,1
+"MD","Maryland",103,4649000,0
+"MD","Maryland",104,5055000,1
+"MD","Maryland",105,5226000,1
+"MD","Maryland",106,7497000,1
+"MD","Maryland",107,4968000,0
+"MD","Maryland",108,5199000,1
+"MD","Maryland",109,5373000,1
+"MD","Maryland",110,8386000,1
+"MD","Maryland",111,5166000,0
+"MD","Maryland",112,5618000,1
+"MD","Maryland",113,5644000,1
+"MD","Maryland",114,7388000,1
+"MD","Maryland",115,5037000,0
+"MD","Maryland",116,5874000,1
+"MD","Maryland",117,5721000,0
+"MD","Maryland",118,8595000,1
+"MD","Maryland",119,4989000,0
+"MA","Massachusetts",9,2755000,
+"MA","Massachusetts",10,3174000,1
+"MA","Massachusetts",11,2670000,0
+"MA","Massachusetts",12,2509000,0
+"MA","Massachusetts",13,3060000,1
+"MA","Massachusetts",14,3330000,1
+"MA","Massachusetts",15,2894000,0
+"MA","Massachusetts",16,2675000,0
+"MA","Massachusetts",17,3128000,1
+"MA","Massachusetts",18,3756000,1
+"MA","Massachusetts",19,2954000,0
+"MA","Massachusetts",20,3052000,1
+"MA","Massachusetts",21,3303000,1
+"MA","Massachusetts",22,3997000,1
+"MA","Massachusetts",23,3194000,0
+"MA","Massachusetts",24,3194000,1
+"MA","Massachusetts",25,3657000,1
+"MA","Massachusetts",26,4449000,1
+"MA","Massachusetts",27,3536000,0
+"MA","Massachusetts",28,3370000,0
+"MA","Massachusetts",29,3652000,1
+"MA","Massachusetts",30,4449000,1
+"MA","Massachusetts",31,3603000,0
+"MA","Massachusetts",32,3657000,1
+"MA","Massachusetts",33,4056000,1
+"MA","Massachusetts",34,4833000,1
+"MA","Massachusetts",35,4036000,0
+"MA","Massachusetts",36,3741000,0
+"MA","Massachusetts",37,4410000,1
+"MA","Massachusetts",38,5063000,1
+"MA","Massachusetts",39,3766000,0
+"MA","Massachusetts",40,3494000,0
+"MA","Massachusetts",41,3772000,1
+"MA","Massachusetts",42,3789000,1
+"MA","Massachusetts",43,3820000,1
+"MA","Massachusetts",44,3564000,0
+"MA","Massachusetts",45,3995000,1
+"MA","Massachusetts",46,4230000,1
+"MA","Massachusetts",47,3957000,0
+"MA","Massachusetts",48,3788000,0
+"MA","Massachusetts",49,4000000,1
+"MA","Massachusetts",50,4954000,1
+"MA","Massachusetts",51,4189000,0
+"MA","Massachusetts",52,4042000,0
+"MA","Massachusetts",53,4335000,1
+"MA","Massachusetts",54,5296000,1
+"MA","Massachusetts",55,4376000,0
+"MA","Massachusetts",56,4487000,1
+"MA","Massachusetts",57,4590000,1
+"MA","Massachusetts",58,5842000,1
+"MA","Massachusetts",59,4645000,0
+"MA","Massachusetts",60,4466000,0
+"MA","Massachusetts",61,5010000,1
+"MA","Massachusetts",62,6383000,1
+"MA","Massachusetts",63,5108000,0
+"MA","Massachusetts",64,4577000,0
+"MA","Massachusetts",65,5519000,1
+"MA","Massachusetts",66,6788000,1
+"MA","Massachusetts",67,5065000,0
+"MA","Massachusetts",68,4619000,0
+"MA","Massachusetts",69,4618000,0
+"MA","Massachusetts",70,5184000,1
+"MA","Massachusetts",71,4603000,0
+"MA","Massachusetts",72,4767000,1
+"MA","Massachusetts",73,4776000,1
+"MA","Massachusetts",74,5729000,1
+"MA","Massachusetts",75,5063000,0
+"MA","Massachusetts",76,5231000,1
+"MA","Massachusetts",77,5105000,0
+"MA","Massachusetts",78,6527000,1
+"MA","Massachusetts",79,5367000,0
+"MA","Massachusetts",80,5144000,0
+"MA","Massachusetts",81,5196000,1
+"MA","Massachusetts",82,6863000,1
+"MA","Massachusetts",83,5397000,0
+"MA","Massachusetts",84,5400000,1
+"MA","Massachusetts",85,5594000,1
+"MA","Massachusetts",86,7296000,1
+"MA","Massachusetts",87,5864000,0
+"MA","Massachusetts",88,5650000,0
+"MA","Massachusetts",89,6049000,1
+"MA","Massachusetts",90,7340000,1
+"MA","Massachusetts",91,6033000,0
+"MA","Massachusetts",92,6111000,1
+"MA","Massachusetts",93,6506000,1
+"MA","Massachusetts",94,8024000,1
+"MA","Massachusetts",95,6372000,0
+"MA","Massachusetts",96,6182000,0
+"MA","Massachusetts",97,6542000,1
+"MA","Massachusetts",98,8012000,1
+"MA","Massachusetts",99,6521000,0
+"MA","Massachusetts",100,6180000,0
+"MA","Massachusetts",101,6505000,1
+"MA","Massachusetts",102,7981000,1
+"MA","Massachusetts",103,6692000,0
+"MA","Massachusetts",104,6981000,1
+"MA","Massachusetts",105,6830000,0
+"MA","Massachusetts",106,8838000,1
+"MA","Massachusetts",107,7382000,0
+"MA","Massachusetts",108,6817000,0
+"MA","Massachusetts",109,7249000,1
+"MA","Massachusetts",110,10008000,1
+"MA","Massachusetts",111,7616000,0
+"MA","Massachusetts",112,7164000,0
+"MA","Massachusetts",113,7530000,1
+"MA","Massachusetts",114,8915000,1
+"MA","Massachusetts",115,7642000,0
+"MA","Massachusetts",116,7527000,0
+"MA","Massachusetts",117,8690000,1
+"MA","Massachusetts",118,12090000,1
+"MA","Massachusetts",119,9054000,0
+"MI","Michigan",9,3070000,
+"MI","Michigan",10,3399000,1
+"MI","Michigan",11,4165000,1
+"MI","Michigan",12,2857000,0
+"MI","Michigan",13,3070000,1
+"MI","Michigan",14,3399000,1
+"MI","Michigan",15,4165000,1
+"MI","Michigan",16,2857000,0
+"MI","Michigan",17,5394000,1
+"MI","Michigan",18,4054000,0
+"MI","Michigan",19,4466000,1
+"MI","Michigan",20,5273000,1
+"MI","Michigan",21,5394000,1
+"MI","Michigan",22,4555000,0
+"MI","Michigan",23,4732000,1
+"MI","Michigan",24,4848000,1
+"MI","Michigan",25,4884000,1
+"MI","Michigan",26,5152000,1
+"MI","Michigan",27,4817000,0
+"MI","Michigan",28,5485000,1
+"MI","Michigan",29,4710000,0
+"MI","Michigan",30,5799000,1
+"MI","Michigan",31,5127000,0
+"MI","Michigan",32,5050000,0
+"MI","Michigan",33,6828000,1
+"MI","Michigan",34,5740000,0
+"MI","Michigan",35,5619000,0
+"MI","Michigan",36,4929000,0
+"MI","Michigan",37,5581000,1
+"MI","Michigan",38,5398000,0
+"MI","Michigan",39,6274000,1
+"MI","Michigan",40,5429000,0
+"MI","Michigan",41,5134000,0
+"MI","Michigan",42,5093000,0
+"MI","Michigan",43,6208000,1
+"MI","Michigan",44,6109000,0
+"MI","Michigan",45,4935000,0
+"MI","Michigan",46,4952000,1
+"MI","Michigan",47,6063000,1
+"MI","Michigan",48,7443000,1
+"MI","Michigan",49,3420000,0
+"MI","Michigan",50,5271000,1
+"MI","Michigan",51,6128000,1
+"MI","Michigan",52,6748000,1
+"MI","Michigan",53,4308000,0
+"MI","Michigan",54,4385000,1
+"MI","Michigan",55,8813000,1
+"MI","Michigan",56,6883000,0
+"MI","Michigan",57,2969000,0
+"MI","Michigan",58,5780000,1
+"MI","Michigan",59,8082000,1
+"MI","Michigan",60,6442000,0
+"MI","Michigan",61,3381000,0
+"MI","Michigan",62,5985000,1
+"MI","Michigan",63,8041000,1
+"MI","Michigan",64,6749000,0
+"MI","Michigan",65,3875000,0
+"MI","Michigan",66,6204000,1
+"MI","Michigan",67,8664000,1
+"MI","Michigan",68,6549000,0
+"MI","Michigan",69,3234000,0
+"MI","Michigan",70,5769000,1
+"MI","Michigan",71,7206000,1
+"MI","Michigan",72,6247000,0
+"MI","Michigan",73,3286000,0
+"MI","Michigan",74,5500000,1
+"MI","Michigan",75,7172000,1
+"MI","Michigan",76,6177000,0
+"MI","Michigan",77,3974000,0
+"MI","Michigan",78,5985000,1
+"MI","Michigan",79,7686000,1
+"MI","Michigan",80,6570000,0
+"MI","Michigan",81,4847000,0
+"MI","Michigan",82,4942000,1
+"MI","Michigan",83,7561000,1
+"MI","Michigan",84,6440000,0
+"MI","Michigan",85,5190000,0
+"MI","Michigan",86,5518000,1
+"MI","Michigan",87,7788000,1
+"MI","Michigan",88,6315000,0
+"MI","Michigan",89,4454000,0
+"MI","Michigan",90,6036000,1
+"MI","Michigan",91,8294000,1
+"MI","Michigan",92,6721000,0
+"MI","Michigan",93,5449000,0
+"MI","Michigan",94,5533000,1
+"MI","Michigan",95,9254000,1
+"MI","Michigan",96,6945000,0
+"MI","Michigan",97,4699000,0
+"MI","Michigan",98,6370000,1
+"MI","Michigan",99,9595000,1
+"MI","Michigan",100,7274000,0
+"MI","Michigan",101,4833000,0
+"MI","Michigan",102,7194000,1
+"MI","Michigan",103,9142000,1
+"MI","Michigan",104,7313000,0
+"MI","Michigan",105,6256000,0
+"MI","Michigan",106,7489000,1
+"MI","Michigan",107,8747000,1
+"MI","Michigan",108,7988000,0
+"MI","Michigan",109,6413000,0
+"MI","Michigan",110,6615000,1
+"MI","Michigan",111,9185000,1
+"MI","Michigan",112,8501000,0
+"MI","Michigan",113,4352000,0
+"MI","Michigan",114,5773000,1
+"MI","Michigan",115,10238000,1
+"MI","Michigan",116,8790000,0
+"MI","Michigan",117,6968000,0
+"MI","Michigan",118,9487000,1
+"MI","Michigan",119,10089000,1
+"MN","Minnesota",9,2137000,
+"MN","Minnesota",10,2430000,1
+"MN","Minnesota",11,2106000,0
+"MN","Minnesota",12,2268000,1
+"MN","Minnesota",13,2324000,1
+"MN","Minnesota",14,2654000,1
+"MN","Minnesota",15,2316000,0
+"MN","Minnesota",16,2505000,1
+"MN","Minnesota",17,2533000,1
+"MN","Minnesota",18,2891000,1
+"MN","Minnesota",19,2235000,0
+"MN","Minnesota",20,2667000,1
+"MN","Minnesota",21,2212000,0
+"MN","Minnesota",22,3435000,1
+"MN","Minnesota",23,2235000,0
+"MN","Minnesota",24,2979000,1
+"MN","Minnesota",25,2350000,0
+"MN","Minnesota",26,4108000,1
+"MN","Minnesota",27,2105000,0
+"MN","Minnesota",28,3332000,1
+"MN","Minnesota",29,2989000,0
+"MN","Minnesota",30,4054000,1
+"MN","Minnesota",31,2197000,0
+"MN","Minnesota",32,3005000,1
+"MN","Minnesota",33,3719000,1
+"MN","Minnesota",34,4410000,1
+"MN","Minnesota",35,2284000,0
+"MN","Minnesota",36,3481000,1
+"MN","Minnesota",37,3329000,0
+"MN","Minnesota",38,4441000,1
+"MN","Minnesota",39,3111000,0
+"MN","Minnesota",40,3162000,1
+"MN","Minnesota",41,3203000,1
+"MN","Minnesota",42,3847000,1
+"MN","Minnesota",43,3322000,0
+"MN","Minnesota",44,3474000,1
+"MN","Minnesota",45,3169000,0
+"MN","Minnesota",46,4018000,1
+"MN","Minnesota",47,3381000,0
+"MN","Minnesota",48,3672000,1
+"MN","Minnesota",49,3253000,0
+"MN","Minnesota",50,4430000,1
+"MN","Minnesota",51,3491000,0
+"MN","Minnesota",52,3864000,1
+"MN","Minnesota",53,3674000,0
+"MN","Minnesota",54,4856000,1
+"MN","Minnesota",55,3965000,0
+"MN","Minnesota",56,4108000,1
+"MN","Minnesota",57,3916000,0
+"MN","Minnesota",58,5341000,1
+"MN","Minnesota",59,3951000,0
+"MN","Minnesota",60,4342000,1
+"MN","Minnesota",61,4021000,0
+"MN","Minnesota",62,5454000,1
+"MN","Minnesota",63,4096000,0
+"MN","Minnesota",64,4392000,1
+"MN","Minnesota",65,4085000,0
+"MN","Minnesota",66,5748000,1
+"MN","Minnesota",67,4173000,0
+"MN","Minnesota",68,4291000,1
+"MN","Minnesota",69,3688000,0
+"MN","Minnesota",70,5009000,1
+"MN","Minnesota",71,3882000,0
+"MN","Minnesota",72,4223000,1
+"MN","Minnesota",73,3871000,0
+"MN","Minnesota",74,5234000,1
+"MN","Minnesota",75,4396000,0
+"MN","Minnesota",76,4594000,1
+"MN","Minnesota",77,4273000,0
+"MN","Minnesota",78,5703000,1
+"MN","Minnesota",79,4747000,0
+"MN","Minnesota",80,5048000,1
+"MN","Minnesota",81,4493000,0
+"MN","Minnesota",82,6273000,1
+"MN","Minnesota",83,4951000,0
+"MN","Minnesota",84,4955000,1
+"MN","Minnesota",85,6244000,1
+"MN","Minnesota",86,6746000,1
+"MN","Minnesota",87,5232000,0
+"MN","Minnesota",88,5664000,1
+"MN","Minnesota",89,5226000,0
+"MN","Minnesota",90,7123000,1
+"MN","Minnesota",91,5421000,0
+"MN","Minnesota",92,5969000,1
+"MN","Minnesota",93,5450000,0
+"MN","Minnesota",94,7639000,1
+"MN","Minnesota",95,5631000,0
+"MN","Minnesota",96,6194000,1
+"MN","Minnesota",97,5600000,0
+"MN","Minnesota",98,7765000,1
+"MN","Minnesota",99,5716000,0
+"MN","Minnesota",100,6203000,1
+"MN","Minnesota",101,5943000,0
+"MN","Minnesota",102,7733000,1
+"MN","Minnesota",103,5804000,0
+"MN","Minnesota",104,6743000,1
+"MN","Minnesota",105,6356000,0
+"MN","Minnesota",106,7976000,1
+"MN","Minnesota",107,6313000,0
+"MN","Minnesota",108,6482000,1
+"MN","Minnesota",109,6214000,0
+"MN","Minnesota",110,9167000,1
+"MN","Minnesota",111,6671000,0
+"MN","Minnesota",112,6820000,1
+"MN","Minnesota",113,5982000,0
+"MN","Minnesota",114,6920000,1
+"MN","Minnesota",115,7602000,1
+"MN","Minnesota",116,7071000,0
+"MN","Minnesota",117,6799000,0
+"MN","Minnesota",118,10549000,1
+"MN","Minnesota",119,7322000,0
+"MS","Mississippi",9,773000,
+"MS","Mississippi",10,854000,1
+"MS","Mississippi",11,848000,0
+"MS","Mississippi",12,802000,0
+"MS","Mississippi",13,809000,1
+"MS","Mississippi",14,957000,1
+"MS","Mississippi",15,850000,0
+"MS","Mississippi",16,832000,0
+"MS","Mississippi",17,893000,1
+"MS","Mississippi",18,1057000,1
+"MS","Mississippi",19,896000,0
+"MS","Mississippi",20,861000,0
+"MS","Mississippi",21,893000,1
+"MS","Mississippi",22,1037000,1
+"MS","Mississippi",23,942000,0
+"MS","Mississippi",24,940000,0
+"MS","Mississippi",25,855000,0
+"MS","Mississippi",26,1617000,1
+"MS","Mississippi",27,942000,0
+"MS","Mississippi",28,1030000,1
+"MS","Mississippi",29,947000,0
+"MS","Mississippi",30,1070000,1
+"MS","Mississippi",31,1061000,0
+"MS","Mississippi",32,1024000,0
+"MS","Mississippi",33,930000,0
+"MS","Mississippi",34,1078000,1
+"MS","Mississippi",35,1239000,1
+"MS","Mississippi",36,1206000,0
+"MS","Mississippi",37,1020000,0
+"MS","Mississippi",38,1296000,1
+"MS","Mississippi",39,1340000,1
+"MS","Mississippi",40,1209000,0
+"MS","Mississippi",41,1250000,1
+"MS","Mississippi",42,1330000,1
+"MS","Mississippi",43,1175000,0
+"MS","Mississippi",44,1176000,1
+"MS","Mississippi",45,1177000,1
+"MS","Mississippi",46,1424000,1
+"MS","Mississippi",47,1158000,0
+"MS","Mississippi",48,1279000,1
+"MS","Mississippi",49,1188000,0
+"MS","Mississippi",50,1486000,1
+"MS","Mississippi",51,1226000,0
+"MS","Mississippi",52,1310000,1
+"MS","Mississippi",53,1265000,0
+"MS","Mississippi",54,1643000,1
+"MS","Mississippi",55,1226000,0
+"MS","Mississippi",56,1447000,1
+"MS","Mississippi",57,1508000,1
+"MS","Mississippi",58,1821000,1
+"MS","Mississippi",59,1447000,0
+"MS","Mississippi",60,1515000,1
+"MS","Mississippi",61,1550000,1
+"MS","Mississippi",62,1974000,1
+"MS","Mississippi",63,1511000,0
+"MS","Mississippi",64,1593000,1
+"MS","Mississippi",65,1617000,1
+"MS","Mississippi",66,2054000,1
+"MS","Mississippi",67,1536000,0
+"MS","Mississippi",68,1588000,1
+"MS","Mississippi",69,1508000,0
+"MS","Mississippi",70,1887000,1
+"MS","Mississippi",71,1349000,0
+"MS","Mississippi",72,1490000,1
+"MS","Mississippi",73,1420000,0
+"MS","Mississippi",74,2033000,1
+"MS","Mississippi",75,1397000,0
+"MS","Mississippi",76,1590000,1
+"MS","Mississippi",77,1524000,0
+"MS","Mississippi",78,1978000,1
+"MS","Mississippi",79,1442000,0
+"MS","Mississippi",80,1667000,1
+"MS","Mississippi",81,1687000,1
+"MS","Mississippi",82,2077000,1
+"MS","Mississippi",83,1456000,0
+"MS","Mississippi",84,1845000,1
+"MS","Mississippi",85,1787000,0
+"MS","Mississippi",86,2246000,1
+"MS","Mississippi",87,1572000,0
+"MS","Mississippi",88,1924000,1
+"MS","Mississippi",89,1806000,0
+"MS","Mississippi",90,2190000,1
+"MS","Mississippi",91,1690000,0
+"MS","Mississippi",92,1933000,1
+"MS","Mississippi",93,1937000,1
+"MS","Mississippi",94,2230000,1
+"MS","Mississippi",95,1671000,0
+"MS","Mississippi",96,1927000,1
+"MS","Mississippi",97,1959000,1
+"MS","Mississippi",98,2275000,1
+"MS","Mississippi",99,1702000,0
+"MS","Mississippi",100,1865000,1
+"MS","Mississippi",101,1724000,0
+"MS","Mississippi",102,2382000,1
+"MS","Mississippi",103,1731000,0
+"MS","Mississippi",104,1877000,1
+"MS","Mississippi",105,1759000,0
+"MS","Mississippi",106,2433000,1
+"MS","Mississippi",107,1790000,0
+"MS","Mississippi",108,1948000,1
+"MS","Mississippi",109,1830000,0
+"MS","Mississippi",110,2638000,1
+"MS","Mississippi",111,1830000,0
+"MS","Mississippi",112,2038000,1
+"MS","Mississippi",113,1914000,0
+"MS","Mississippi",114,2231000,1
+"MS","Mississippi",115,2098000,0
+"MS","Mississippi",116,2136000,1
+"MS","Mississippi",117,2157000,1
+"MS","Mississippi",118,2975000,1
+"MS","Mississippi",119,2343000,0
+"MO","Missouri",9,1455000,
+"MO","Missouri",10,1669000,1
+"MO","Missouri",11,1589000,0
+"MO","Missouri",12,1537000,0
+"MO","Missouri",13,1455000,0
+"MO","Missouri",14,1997000,1
+"MO","Missouri",15,1714000,0
+"MO","Missouri",16,1679000,0
+"MO","Missouri",17,1681000,1
+"MO","Missouri",18,2137000,1
+"MO","Missouri",19,1859000,0
+"MO","Missouri",20,1805000,0
+"MO","Missouri",21,1834000,1
+"MO","Missouri",22,2319000,1
+"MO","Missouri",23,1967000,0
+"MO","Missouri",24,1884000,0
+"MO","Missouri",25,1907000,1
+"MO","Missouri",26,2468000,1
+"MO","Missouri",27,2022000,0
+"MO","Missouri",28,1884000,0
+"MO","Missouri",29,1907000,1
+"MO","Missouri",30,2623000,1
+"MO","Missouri",31,2004000,0
+"MO","Missouri",32,2065000,1
+"MO","Missouri",33,1880000,0
+"MO","Missouri",34,2632000,1
+"MO","Missouri",35,2092000,0
+"MO","Missouri",36,2049000,0
+"MO","Missouri",37,2005000,0
+"MO","Missouri",38,2705000,1
+"MO","Missouri",39,2138000,0
+"MO","Missouri",40,2191000,1
+"MO","Missouri",41,1903000,0
+"MO","Missouri",42,2440000,1
+"MO","Missouri",43,2166000,0
+"MO","Missouri",44,2231000,1
+"MO","Missouri",45,1906000,0
+"MO","Missouri",46,2324000,1
+"MO","Missouri",47,2279000,0
+"MO","Missouri",48,2225000,0
+"MO","Missouri",49,2034000,0
+"MO","Missouri",50,2581000,1
+"MO","Missouri",51,2358000,0
+"MO","Missouri",52,2299000,0
+"MO","Missouri",53,2112000,0
+"MO","Missouri",54,2775000,1
+"MO","Missouri",55,2447000,0
+"MO","Missouri",56,2359000,0
+"MO","Missouri",57,2252000,0
+"MO","Missouri",58,3122000,1
+"MO","Missouri",59,2564000,0
+"MO","Missouri",60,2460000,0
+"MO","Missouri",61,2387000,0
+"MO","Missouri",62,3292000,1
+"MO","Missouri",63,2669000,0
+"MO","Missouri",64,2547000,0
+"MO","Missouri",65,2430000,0
+"MO","Missouri",66,3318000,1
+"MO","Missouri",67,2639000,0
+"MO","Missouri",68,2554000,0
+"MO","Missouri",69,2399000,0
+"MO","Missouri",70,2752000,1
+"MO","Missouri",71,2450000,0
+"MO","Missouri",72,2323000,0
+"MO","Missouri",73,2091000,0
+"MO","Missouri",74,2872000,1
+"MO","Missouri",75,2507000,0
+"MO","Missouri",76,2452000,0
+"MO","Missouri",77,2242000,0
+"MO","Missouri",78,2941000,1
+"MO","Missouri",79,2537000,0
+"MO","Missouri",80,2486000,0
+"MO","Missouri",81,2380000,0
+"MO","Missouri",82,3434000,1
+"MO","Missouri",83,2629000,0
+"MO","Missouri",84,2633000,1
+"MO","Missouri",85,2512000,0
+"MO","Missouri",86,3409000,1
+"MO","Missouri",87,2762000,0
+"MO","Missouri",88,2708000,0
+"MO","Missouri",89,2536000,0
+"MO","Missouri",90,3280000,1
+"MO","Missouri",91,2840000,0
+"MO","Missouri",92,2862000,1
+"MO","Missouri",93,2677000,0
+"MO","Missouri",94,3624000,1
+"MO","Missouri",95,2975000,0
+"MO","Missouri",96,2956000,0
+"MO","Missouri",97,2897000,0
+"MO","Missouri",98,3466000,1
+"MO","Missouri",99,3046000,0
+"MO","Missouri",100,2937000,0
+"MO","Missouri",101,3083000,1
+"MO","Missouri",102,3526000,1
+"MO","Missouri",103,3101000,0
+"MO","Missouri",104,3054000,0
+"MO","Missouri",105,3209000,1
+"MO","Missouri",106,3661000,1
+"MO","Missouri",107,3067000,0
+"MO","Missouri",108,3037000,0
+"MO","Missouri",109,3024000,0
+"MO","Missouri",110,4054000,1
+"MO","Missouri",111,3213000,0
+"MO","Missouri",112,3142000,0
+"MO","Missouri",113,3167000,1
+"MO","Missouri",114,2887000,0
+"MO","Missouri",115,4036000,1
+"MO","Missouri",116,3236000,0
+"MO","Missouri",117,3367000,1
+"MO","Missouri",118,4453000,1
+"MO","Missouri",119,3855000,0
+"MT","Montana",9,272000,
+"MT","Montana",10,386000,1
+"MT","Montana",11,228000,0
+"MT","Montana",12,267000,1
+"MT","Montana",13,275000,1
+"MT","Montana",14,386000,1
+"MT","Montana",15,233000,0
+"MT","Montana",16,256000,1
+"MT","Montana",17,321000,1
+"MT","Montana",18,444000,1
+"MT","Montana",19,261000,0
+"MT","Montana",20,262000,1
+"MT","Montana",21,301000,1
+"MT","Montana",22,483000,1
+"MT","Montana",23,247000,0
+"MT","Montana",24,267000,1
+"MT","Montana",25,318000,1
+"MT","Montana",26,501000,1
+"MT","Montana",27,247000,0
+"MT","Montana",28,267000,1
+"MT","Montana",29,318000,1
+"MT","Montana",30,501000,1
+"MT","Montana",31,247000,0
+"MT","Montana",32,267000,1
+"MT","Montana",33,318000,1
+"MT","Montana",34,601000,1
+"MT","Montana",35,249000,0
+"MT","Montana",36,297000,1
+"MT","Montana",37,331000,1
+"MT","Montana",38,619000,1
+"MT","Montana",39,259000,0
+"MT","Montana",40,298000,1
+"MT","Montana",41,334000,1
+"MT","Montana",42,551000,1
+"MT","Montana",43,268000,0
+"MT","Montana",44,299000,1
+"MT","Montana",45,334000,1
+"MT","Montana",46,587000,1
+"MT","Montana",47,290000,0
+"MT","Montana",48,339000,1
+"MT","Montana",49,334000,0
+"MT","Montana",50,707000,1
+"MT","Montana",51,323000,0
+"MT","Montana",52,348000,1
+"MT","Montana",53,405000,1
+"MT","Montana",54,799000,1
+"MT","Montana",55,348000,0
+"MT","Montana",56,414000,1
+"MT","Montana",57,437000,1
+"MT","Montana",58,927000,1
+"MT","Montana",59,388000,0
+"MT","Montana",60,373000,0
+"MT","Montana",61,522000,1
+"MT","Montana",62,854000,1
+"MT","Montana",63,497000,0
+"MT","Montana",64,567000,1
+"MT","Montana",65,507000,0
+"MT","Montana",66,887000,1
+"MT","Montana",67,558000,0
+"MT","Montana",68,596000,1
+"MT","Montana",69,523000,0
+"MT","Montana",70,730000,1
+"MT","Montana",71,431000,0
+"MT","Montana",72,503000,1
+"MT","Montana",73,454000,0
+"MT","Montana",74,755000,1
+"MT","Montana",75,473000,0
+"MT","Montana",76,540000,1
+"MT","Montana",77,479000,0
+"MT","Montana",78,812000,1
+"MT","Montana",79,532000,0
+"MT","Montana",80,610000,1
+"MT","Montana",81,481000,0
+"MT","Montana",82,836000,1
+"MT","Montana",83,533000,0
+"MT","Montana",84,643000,1
+"MT","Montana",85,537000,0
+"MT","Montana",86,932000,1
+"MT","Montana",87,558000,0
+"MT","Montana",88,647000,1
+"MT","Montana",89,545000,0
+"MT","Montana",90,891000,1
+"MT","Montana",91,601000,0
+"MT","Montana",92,670000,1
+"MT","Montana",93,610000,0
+"MT","Montana",94,962000,1
+"MT","Montana",95,568000,0
+"MT","Montana",96,690000,1
+"MT","Montana",97,547000,0
+"MT","Montana",98,809000,1
+"MT","Montana",99,639000,0
+"MT","Montana",100,656000,1
+"MT","Montana",101,615000,0
+"MT","Montana",102,824000,1
+"MT","Montana",103,592000,0
+"MT","Montana",104,785000,1
+"MT","Montana",105,658000,0
+"MT","Montana",106,971000,1
+"MT","Montana",107,649000,0
+"MT","Montana",108,815000,1
+"MT","Montana",109,646000,0
+"MT","Montana",110,1058000,1
+"MT","Montana",111,689000,0
+"MT","Montana",112,859000,1
+"MT","Montana",113,729000,0
+"MT","Montana",114,893000,1
+"MT","Montana",115,842000,0
+"MT","Montana",116,875000,1
+"MT","Montana",117,818000,0
+"MT","Montana",118,1303000,1
+"MT","Montana",119,827000,0
+"NE","Nebraska",9,533000,
+"NE","Nebraska",10,605000,1
+"NE","Nebraska",11,557000,0
+"NE","Nebraska",12,505000,0
+"NE","Nebraska",13,537000,1
+"NE","Nebraska",14,614000,1
+"NE","Nebraska",15,582000,0
+"NE","Nebraska",16,524000,0
+"NE","Nebraska",17,570000,1
+"NE","Nebraska",18,687000,1
+"NE","Nebraska",19,606000,0
+"NE","Nebraska",20,580000,0
+"NE","Nebraska",21,629000,1
+"NE","Nebraska",22,726000,1
+"NE","Nebraska",23,652000,0
+"NE","Nebraska",24,602000,0
+"NE","Nebraska",25,645000,1
+"NE","Nebraska",26,740000,1
+"NE","Nebraska",27,657000,0
+"NE","Nebraska",28,581000,0
+"NE","Nebraska",29,634000,1
+"NE","Nebraska",30,783000,1
+"NE","Nebraska",31,701000,0
+"NE","Nebraska",32,651000,0
+"NE","Nebraska",33,722000,1
+"NE","Nebraska",34,905000,1
+"NE","Nebraska",35,745000,0
+"NE","Nebraska",36,672000,0
+"NE","Nebraska",37,732000,1
+"NE","Nebraska",38,887000,1
+"NE","Nebraska",39,762000,0
+"NE","Nebraska",40,691000,0
+"NE","Nebraska",41,704000,1
+"NE","Nebraska",42,835000,1
+"NE","Nebraska",43,786000,0
+"NE","Nebraska",44,721000,0
+"NE","Nebraska",45,938000,1
+"NE","Nebraska",46,906000,0
+"NE","Nebraska",47,858000,0
+"NE","Nebraska",48,769000,0
+"NE","Nebraska",49,795000,1
+"NE","Nebraska",50,1219000,1
+"NE","Nebraska",51,890000,0
+"NE","Nebraska",52,865000,0
+"NE","Nebraska",53,855000,0
+"NE","Nebraska",54,1067000,1
+"NE","Nebraska",55,996000,0
+"NE","Nebraska",56,911000,0
+"NE","Nebraska",57,892000,0
+"NE","Nebraska",58,1162000,1
+"NE","Nebraska",59,991000,0
+"NE","Nebraska",60,921000,0
+"NE","Nebraska",61,951000,1
+"NE","Nebraska",62,1207000,1
+"NE","Nebraska",63,1083000,0
+"NE","Nebraska",64,949000,0
+"NE","Nebraska",65,922000,0
+"NE","Nebraska",66,1225000,1
+"NE","Nebraska",67,1036000,0
+"NE","Nebraska",68,962000,0
+"NE","Nebraska",69,870000,0
+"NE","Nebraska",70,1086000,1
+"NE","Nebraska",71,923000,0
+"NE","Nebraska",72,895000,0
+"NE","Nebraska",73,827000,0
+"NE","Nebraska",74,1060000,1
+"NE","Nebraska",75,968000,0
+"NE","Nebraska",76,905000,0
+"NE","Nebraska",77,915000,1
+"NE","Nebraska",78,1247000,1
+"NE","Nebraska",79,1063000,0
+"NE","Nebraska",80,1014000,0
+"NE","Nebraska",81,998000,0
+"NE","Nebraska",82,1288000,1
+"NE","Nebraska",83,1122000,0
+"NE","Nebraska",84,1050000,0
+"NE","Nebraska",85,991000,0
+"NE","Nebraska",86,1528000,1
+"NE","Nebraska",87,1165000,0
+"NE","Nebraska",88,1092000,0
+"NE","Nebraska",89,1213000,1
+"NE","Nebraska",90,1413000,1
+"NE","Nebraska",91,1274000,0
+"NE","Nebraska",92,1133000,0
+"NE","Nebraska",93,1183000,1
+"NE","Nebraska",94,1495000,1
+"NE","Nebraska",95,1272000,0
+"NE","Nebraska",96,1187000,0
+"NE","Nebraska",97,1201000,1
+"NE","Nebraska",98,1444000,1
+"NE","Nebraska",99,1281000,0
+"NE","Nebraska",100,1150000,0
+"NE","Nebraska",101,1206000,1
+"NE","Nebraska",102,1468000,1
+"NE","Nebraska",103,1327000,0
+"NE","Nebraska",104,1249000,0
+"NE","Nebraska",105,1291000,1
+"NE","Nebraska",106,1526000,1
+"NE","Nebraska",107,1430000,0
+"NE","Nebraska",108,1251000,0
+"NE","Nebraska",109,1294000,1
+"NE","Nebraska",110,1780000,1
+"NE","Nebraska",111,1542000,0
+"NE","Nebraska",112,1402000,0
+"NE","Nebraska",113,1439000,1
+"NE","Nebraska",114,1428000,0
+"NE","Nebraska",115,1898000,1
+"NE","Nebraska",116,1484000,0
+"NE","Nebraska",117,1536000,1
+"NE","Nebraska",118,2043000,1
+"NE","Nebraska",119,1765000,0
+"NV","Nevada",9,584000,
+"NV","Nevada",10,594000,1
+"NV","Nevada",11,630000,1
+"NV","Nevada",12,644000,1
+"NV","Nevada",13,618000,0
+"NV","Nevada",14,777000,1
+"NV","Nevada",15,529000,0
+"NV","Nevada",16,762000,1
+"NV","Nevada",17,692000,0
+"NV","Nevada",18,782000,1
+"NV","Nevada",19,653000,0
+"NV","Nevada",20,724000,1
+"NV","Nevada",21,735000,1
+"NV","Nevada",22,923000,1
+"NV","Nevada",23,675000,0
+"NV","Nevada",24,763000,1
+"NV","Nevada",25,748000,0
+"NV","Nevada",26,937000,1
+"NV","Nevada",27,704000,0
+"NV","Nevada",28,816000,1
+"NV","Nevada",29,833000,1
+"NV","Nevada",30,937000,1
+"NV","Nevada",31,607000,0
+"NV","Nevada",32,708000,1
+"NV","Nevada",33,626000,0
+"NV","Nevada",34,1008000,1
+"NV","Nevada",35,761000,0
+"NV","Nevada",36,947000,1
+"NV","Nevada",37,870000,0
+"NV","Nevada",38,885000,1
+"NV","Nevada",39,825000,0
+"NV","Nevada",40,912000,1
+"NV","Nevada",41,880000,0
+"NV","Nevada",42,1037000,1
+"NV","Nevada",43,699000,0
+"NV","Nevada",44,1081000,1
+"NV","Nevada",45,1044000,0
+"NV","Nevada",46,1245000,1
+"NV","Nevada",47,353000,0
+"NV","Nevada",48,928000,1
+"NV","Nevada",49,1390000,1
+"NV","Nevada",50,1543000,1
+"NV","Nevada",51,483000,0
+"NV","Nevada",52,1350000,1
+"NV","Nevada",53,1510000,1
+"NV","Nevada",54,2327000,1
+"NV","Nevada",55,575000,0
+"NV","Nevada",56,1428000,1
+"NV","Nevada",57,1577000,1
+"NV","Nevada",58,2574000,1
+"NV","Nevada",59,586000,0
+"NV","Nevada",60,1507000,1
+"NV","Nevada",61,1569000,1
+"NV","Nevada",62,2642000,1
+"NV","Nevada",63,522000,0
+"NV","Nevada",64,1571000,1
+"NV","Nevada",65,1527000,0
+"NV","Nevada",66,2525000,1
+"NV","Nevada",67,521000,0
+"NV","Nevada",68,1470000,1
+"NV","Nevada",69,1550000,1
+"NV","Nevada",70,2367000,1
+"NV","Nevada",71,532000,0
+"NV","Nevada",72,1487000,1
+"NV","Nevada",73,1515000,1
+"NV","Nevada",74,2387000,1
+"NV","Nevada",75,497000,0
+"NV","Nevada",76,1453000,1
+"NV","Nevada",77,1578000,1
+"NV","Nevada",78,2807000,1
+"NV","Nevada",79,619000,0
+"NV","Nevada",80,1504000,1
+"NV","Nevada",81,1494000,0
+"NV","Nevada",82,2845000,1
+"NV","Nevada",83,618000,0
+"NV","Nevada",84,1596000,1
+"NV","Nevada",85,1805000,1
+"NV","Nevada",86,2998000,1
+"NV","Nevada",87,657000,0
+"NV","Nevada",88,1718000,1
+"NV","Nevada",89,1874000,1
+"NV","Nevada",90,2893000,1
+"NV","Nevada",91,656000,0
+"NV","Nevada",92,1864000,1
+"NV","Nevada",93,1930000,1
+"NV","Nevada",94,3083000,1
+"NV","Nevada",95,734000,0
+"NV","Nevada",96,1946000,1
+"NV","Nevada",97,2071000,1
+"NV","Nevada",98,3274000,1
+"NV","Nevada",99,1138000,0
+"NV","Nevada",100,2067000,1
+"NV","Nevada",101,2146000,1
+"NV","Nevada",102,3411000,1
+"NV","Nevada",103,1152000,0
+"NV","Nevada",104,2174000,1
+"NV","Nevada",105,2294000,1
+"NV","Nevada",106,3949000,1
+"NV","Nevada",107,1168000,0
+"NV","Nevada",108,2281000,1
+"NV","Nevada",109,2481000,1
+"NV","Nevada",110,4082000,1
+"NV","Nevada",111,1255000,0
+"NV","Nevada",112,2451000,1
+"NV","Nevada",113,2577000,1
+"NV","Nevada",114,3591000,1
+"NV","Nevada",115,1292000,0
+"NV","Nevada",116,2543000,1
+"NV","Nevada",117,2237000,0
+"NV","Nevada",118,4503000,1
+"NV","Nevada",119,1233000,0
+"NH","New Hampshire",9,218000,
+"NH","New Hampshire",10,236000,1
+"NH","New Hampshire",11,206000,0
+"NH","New Hampshire",12,247000,1
+"NH","New Hampshire",13,202000,0
+"NH","New Hampshire",14,263000,1
+"NH","New Hampshire",15,221000,0
+"NH","New Hampshire",16,214000,0
+"NH","New Hampshire",17,187000,0
+"NH","New Hampshire",18,227000,1
+"NH","New Hampshire",19,203000,0
+"NH","New Hampshire",20,227000,1
+"NH","New Hampshire",21,219000,0
+"NH","New Hampshire",22,279000,1
+"NH","New Hampshire",23,235000,0
+"NH","New Hampshire",24,249000,1
+"NH","New Hampshire",25,245000,0
+"NH","New Hampshire",26,292000,1
+"NH","New Hampshire",27,240000,0
+"NH","New Hampshire",28,275000,1
+"NH","New Hampshire",29,253000,0
+"NH","New Hampshire",30,323000,1
+"NH","New Hampshire",31,247000,0
+"NH","New Hampshire",32,289000,1
+"NH","New Hampshire",33,288000,0
+"NH","New Hampshire",34,349000,1
+"NH","New Hampshire",35,273000,0
+"NH","New Hampshire",36,333000,1
+"NH","New Hampshire",37,330000,0
+"NH","New Hampshire",38,824000,1
+"NH","New Hampshire",39,320000,0
+"NH","New Hampshire",40,379000,1
+"NH","New Hampshire",41,823000,1
+"NH","New Hampshire",42,365000,0
+"NH","New Hampshire",43,339000,0
+"NH","New Hampshire",44,412000,1
+"NH","New Hampshire",45,819000,1
+"NH","New Hampshire",46,387000,0
+"NH","New Hampshire",47,354000,0
+"NH","New Hampshire",48,427000,1
+"NH","New Hampshire",49,825000,1
+"NH","New Hampshire",50,447000,0
+"NH","New Hampshire",51,372000,0
+"NH","New Hampshire",52,449000,1
+"NH","New Hampshire",53,754000,1
+"NH","New Hampshire",54,468000,0
+"NH","New Hampshire",55,427000,0
+"NH","New Hampshire",56,457000,1
+"NH","New Hampshire",57,725000,1
+"NH","New Hampshire",58,501000,0
+"NH","New Hampshire",59,400000,0
+"NH","New Hampshire",60,460000,1
+"NH","New Hampshire",61,847000,1
+"NH","New Hampshire",62,514000,0
+"NH","New Hampshire",63,403000,0
+"NH","New Hampshire",64,499000,1
+"NH","New Hampshire",65,839000,1
+"NH","New Hampshire",66,538000,0
+"NH","New Hampshire",67,410000,0
+"NH","New Hampshire",68,379000,0
+"NH","New Hampshire",69,818000,1
+"NH","New Hampshire",70,485000,0
+"NH","New Hampshire",71,416000,0
+"NH","New Hampshire",72,401000,0
+"NH","New Hampshire",73,811000,1
+"NH","New Hampshire",74,532000,0
+"NH","New Hampshire",75,463000,0
+"NH","New Hampshire",76,406000,0
+"NH","New Hampshire",77,825000,1
+"NH","New Hampshire",78,623000,0
+"NH","New Hampshire",79,412000,0
+"NH","New Hampshire",80,414000,1
+"NH","New Hampshire",81,811000,1
+"NH","New Hampshire",82,539000,0
+"NH","New Hampshire",83,441000,0
+"NH","New Hampshire",84,477000,1
+"NH","New Hampshire",85,826000,1
+"NH","New Hampshire",86,584000,0
+"NH","New Hampshire",87,472000,0
+"NH","New Hampshire",88,387000,0
+"NH","New Hampshire",89,811000,1
+"NH","New Hampshire",90,573000,0
+"NH","New Hampshire",91,484000,0
+"NH","New Hampshire",92,443000,0
+"NH","New Hampshire",93,901000,1
+"NH","New Hampshire",94,645000,0
+"NH","New Hampshire",95,497000,0
+"NH","New Hampshire",96,486000,0
+"NH","New Hampshire",97,964000,1
+"NH","New Hampshire",98,656000,0
+"NH","New Hampshire",99,522000,0
+"NH","New Hampshire",100,481000,0
+"NH","New Hampshire",101,913000,1
+"NH","New Hampshire",102,556000,0
+"NH","New Hampshire",103,530000,0
+"NH","New Hampshire",104,517000,0
+"NH","New Hampshire",105,959000,1
+"NH","New Hampshire",106,760000,0
+"NH","New Hampshire",107,583000,0
+"NH","New Hampshire",108,607000,1
+"NH","New Hampshire",109,957000,1
+"NH","New Hampshire",110,758000,0
+"NH","New Hampshire",111,547000,0
+"NH","New Hampshire",112,639000,1
+"NH","New Hampshire",113,978000,1
+"NH","New Hampshire",114,608000,0
+"NH","New Hampshire",115,625000,1
+"NH","New Hampshire",116,569000,0
+"NH","New Hampshire",117,1042000,1
+"NH","New Hampshire",118,910000,0
+"NH","New Hampshire",119,699000,0
+"NJ","New Jersey",9,3357000,
+"NJ","New Jersey",10,4666000,1
+"NJ","New Jersey",11,2953000,0
+"NJ","New Jersey",12,3339000,1
+"NJ","New Jersey",13,2953000,0
+"NJ","New Jersey",14,4300000,1
+"NJ","New Jersey",15,2948000,0
+"NJ","New Jersey",16,3228000,1
+"NJ","New Jersey",17,2759000,0
+"NJ","New Jersey",18,5388000,1
+"NJ","New Jersey",19,2980000,0
+"NJ","New Jersey",20,3253000,1
+"NJ","New Jersey",21,2973000,0
+"NJ","New Jersey",22,5197000,1
+"NJ","New Jersey",23,3054000,0
+"NJ","New Jersey",24,3434000,1
+"NJ","New Jersey",25,3551000,1
+"NJ","New Jersey",26,5550000,1
+"NJ","New Jersey",27,3394000,0
+"NJ","New Jersey",28,3880000,1
+"NJ","New Jersey",29,3832000,0
+"NJ","New Jersey",30,5536000,1
+"NJ","New Jersey",31,3551000,0
+"NJ","New Jersey",32,4227000,1
+"NJ","New Jersey",33,4030000,0
+"NJ","New Jersey",34,6289000,1
+"NJ","New Jersey",35,3923000,0
+"NJ","New Jersey",36,4502000,1
+"NJ","New Jersey",37,4522000,1
+"NJ","New Jersey",38,6297000,1
+"NJ","New Jersey",39,4112000,0
+"NJ","New Jersey",40,4161000,1
+"NJ","New Jersey",41,4258000,1
+"NJ","New Jersey",42,5829000,1
+"NJ","New Jersey",43,4142000,0
+"NJ","New Jersey",44,4696000,1
+"NJ","New Jersey",45,4340000,0
+"NJ","New Jersey",46,6756000,1
+"NJ","New Jersey",47,4326000,0
+"NJ","New Jersey",48,5046000,1
+"NJ","New Jersey",49,4825000,0
+"NJ","New Jersey",50,7135000,1
+"NJ","New Jersey",51,4799000,0
+"NJ","New Jersey",52,5458000,1
+"NJ","New Jersey",53,5303000,0
+"NJ","New Jersey",54,8719000,1
+"NJ","New Jersey",55,5416000,0
+"NJ","New Jersey",56,5865000,1
+"NJ","New Jersey",57,5897000,1
+"NJ","New Jersey",58,9460000,1
+"NJ","New Jersey",59,5562000,0
+"NJ","New Jersey",60,6500000,1
+"NJ","New Jersey",61,6780000,1
+"NJ","New Jersey",62,10644000,1
+"NJ","New Jersey",63,6075000,0
+"NJ","New Jersey",64,6945000,1
+"NJ","New Jersey",65,6557000,0
+"NJ","New Jersey",66,11039000,1
+"NJ","New Jersey",67,6087000,0
+"NJ","New Jersey",68,6257000,1
+"NJ","New Jersey",69,5520000,0
+"NJ","New Jersey",70,9210000,1
+"NJ","New Jersey",71,5501000,0
+"NJ","New Jersey",72,5812000,1
+"NJ","New Jersey",73,5594000,0
+"NJ","New Jersey",74,8995000,1
+"NJ","New Jersey",75,5481000,0
+"NJ","New Jersey",76,6285000,1
+"NJ","New Jersey",77,6047000,0
+"NJ","New Jersey",78,9370000,1
+"NJ","New Jersey",79,4575000,0
+"NJ","New Jersey",80,6206000,1
+"NJ","New Jersey",81,6433000,1
+"NJ","New Jersey",82,10242000,1
+"NJ","New Jersey",83,4676000,0
+"NJ","New Jersey",84,6116000,1
+"NJ","New Jersey",85,7050000,1
+"NJ","New Jersey",86,11235000,1
+"NJ","New Jersey",87,4930000,0
+"NJ","New Jersey",88,6466000,1
+"NJ","New Jersey",89,7278000,1
+"NJ","New Jersey",90,10892000,1
+"NJ","New Jersey",91,5277000,0
+"NJ","New Jersey",92,6988000,1
+"NJ","New Jersey",93,7457000,1
+"NJ","New Jersey",94,11845000,1
+"NJ","New Jersey",95,5491000,0
+"NJ","New Jersey",96,7089000,1
+"NJ","New Jersey",97,7410000,1
+"NJ","New Jersey",98,11581000,1
+"NJ","New Jersey",99,5507000,0
+"NJ","New Jersey",100,7306000,1
+"NJ","New Jersey",101,7845000,1
+"NJ","New Jersey",102,12219000,1
+"NJ","New Jersey",103,5791000,0
+"NJ","New Jersey",104,8019000,1
+"NJ","New Jersey",105,8112000,1
+"NJ","New Jersey",106,13605000,1
+"NJ","New Jersey",107,6360000,0
+"NJ","New Jersey",108,7803000,1
+"NJ","New Jersey",109,8870000,1
+"NJ","New Jersey",110,15024000,1
+"NJ","New Jersey",111,6812000,0
+"NJ","New Jersey",112,8305000,1
+"NJ","New Jersey",113,9199000,1
+"NJ","New Jersey",114,13611000,1
+"NJ","New Jersey",115,6145000,0
+"NJ","New Jersey",116,9719000,1
+"NJ","New Jersey",117,10341000,1
+"NJ","New Jersey",118,17720000,1
+"NJ","New Jersey",119,7987000,0
+"NM","New Mexico",9,606000,
+"NM","New Mexico",10,597000,0
+"NM","New Mexico",11,709000,1
+"NM","New Mexico",12,535000,0
+"NM","New Mexico",13,606000,1
+"NM","New Mexico",14,597000,0
+"NM","New Mexico",15,880000,1
+"NM","New Mexico",16,667000,0
+"NM","New Mexico",17,757000,1
+"NM","New Mexico",18,736000,0
+"NM","New Mexico",19,709000,0
+"NM","New Mexico",20,667000,0
+"NM","New Mexico",21,757000,1
+"NM","New Mexico",22,736000,0
+"NM","New Mexico",23,996000,1
+"NM","New Mexico",24,783000,0
+"NM","New Mexico",25,881000,1
+"NM","New Mexico",26,915000,1
+"NM","New Mexico",27,996000,1
+"NM","New Mexico",28,783000,0
+"NM","New Mexico",29,881000,1
+"NM","New Mexico",30,915000,1
+"NM","New Mexico",31,871000,0
+"NM","New Mexico",32,904000,1
+"NM","New Mexico",33,832000,0
+"NM","New Mexico",34,1066000,1
+"NM","New Mexico",35,1013000,0
+"NM","New Mexico",36,1007000,0
+"NM","New Mexico",37,1129000,1
+"NM","New Mexico",38,1028000,0
+"NM","New Mexico",39,876000,0
+"NM","New Mexico",40,892000,1
+"NM","New Mexico",41,967000,1
+"NM","New Mexico",42,894000,0
+"NM","New Mexico",43,1080000,1
+"NM","New Mexico",44,888000,0
+"NM","New Mexico",45,909000,1
+"NM","New Mexico",46,979000,1
+"NM","New Mexico",47,1221000,1
+"NM","New Mexico",48,987000,0
+"NM","New Mexico",49,981000,0
+"NM","New Mexico",50,1106000,1
+"NM","New Mexico",51,1273000,1
+"NM","New Mexico",52,1132000,0
+"NM","New Mexico",53,1157000,1
+"NM","New Mexico",54,1222000,1
+"NM","New Mexico",55,1199000,0
+"NM","New Mexico",56,920000,0
+"NM","New Mexico",57,1570000,1
+"NM","New Mexico",58,1393000,0
+"NM","New Mexico",59,1158000,0
+"NM","New Mexico",60,1230000,1
+"NM","New Mexico",61,1202000,0
+"NM","New Mexico",62,1472000,1
+"NM","New Mexico",63,1210000,0
+"NM","New Mexico",64,1267000,1
+"NM","New Mexico",65,1138000,0
+"NM","New Mexico",66,1562000,1
+"NM","New Mexico",67,1185000,0
+"NM","New Mexico",68,1267000,1
+"NM","New Mexico",69,1181000,0
+"NM","New Mexico",70,1081000,0
+"NM","New Mexico",71,1120000,1
+"NM","New Mexico",72,1128000,1
+"NM","New Mexico",73,1055000,0
+"NM","New Mexico",74,1319000,1
+"NM","New Mexico",75,1091000,0
+"NM","New Mexico",76,1314000,1
+"NM","New Mexico",77,1206000,0
+"NM","New Mexico",78,1465000,1
+"NM","New Mexico",79,1304000,0
+"NM","New Mexico",80,1378000,1
+"NM","New Mexico",81,1297000,0
+"NM","New Mexico",82,1547000,1
+"NM","New Mexico",83,1269000,0
+"NM","New Mexico",84,1367000,1
+"NM","New Mexico",85,1326000,0
+"NM","New Mexico",86,1494000,1
+"NM","New Mexico",87,1363000,0
+"NM","New Mexico",88,1510000,1
+"NM","New Mexico",89,1311000,0
+"NM","New Mexico",90,1627000,1
+"NM","New Mexico",91,1552000,0
+"NM","New Mexico",92,1554000,1
+"NM","New Mexico",93,1361000,0
+"NM","New Mexico",94,1637000,1
+"NM","New Mexico",95,1282000,0
+"NM","New Mexico",96,1380000,1
+"NM","New Mexico",97,1276000,0
+"NM","New Mexico",98,1321000,1
+"NM","New Mexico",99,1363000,1
+"NM","New Mexico",100,1422000,1
+"NM","New Mexico",101,1187000,0
+"NM","New Mexico",102,1326000,1
+"NM","New Mexico",103,1507000,1
+"NM","New Mexico",104,1566000,1
+"NM","New Mexico",105,1181000,0
+"NM","New Mexico",106,1847000,1
+"NM","New Mexico",107,1737000,0
+"NM","New Mexico",108,1810000,1
+"NM","New Mexico",109,1858000,1
+"NM","New Mexico",110,2172000,1
+"NM","New Mexico",111,1881000,0
+"NM","New Mexico",112,1903000,1
+"NM","New Mexico",113,1749000,0
+"NM","New Mexico",114,1798000,1
+"NM","New Mexico",115,1722000,0
+"NM","New Mexico",116,1977000,1
+"NM","New Mexico",117,1810000,0
+"NM","New Mexico",118,2288000,1
+"NM","New Mexico",119,1566000,0
+"NY","New York",9,7824000,
+"NY","New York",10,9399000,1
+"NY","New York",11,8126000,0
+"NY","New York",12,7962000,0
+"NY","New York",13,7812000,0
+"NY","New York",14,8406000,1
+"NY","New York",15,8356000,0
+"NY","New York",16,8127000,0
+"NY","New York",17,9121000,1
+"NY","New York",18,8548000,0
+"NY","New York",19,8684000,1
+"NY","New York",20,8399000,0
+"NY","New York",21,9428000,1
+"NY","New York",22,8755000,0
+"NY","New York",23,8656000,0
+"NY","New York",24,8734000,1
+"NY","New York",25,9998000,1
+"NY","New York",26,9837000,0
+"NY","New York",27,9193000,0
+"NY","New York",28,9175000,0
+"NY","New York",29,10482000,1
+"NY","New York",30,10286000,0
+"NY","New York",31,9562000,0
+"NY","New York",32,10008000,1
+"NY","New York",33,11763000,1
+"NY","New York",34,11531000,0
+"NY","New York",35,10337000,0
+"NY","New York",36,10207000,0
+"NY","New York",37,12753000,1
+"NY","New York",38,12355000,0
+"NY","New York",39,9514000,0
+"NY","New York",40,10358000,1
+"NY","New York",41,11141000,1
+"NY","New York",42,10054000,0
+"NY","New York",43,9881000,0
+"NY","New York",44,9467000,0
+"NY","New York",45,11049000,1
+"NY","New York",46,9564000,0
+"NY","New York",47,11369000,1
+"NY","New York",48,11316000,0
+"NY","New York",49,13518000,1
+"NY","New York",50,12095000,0
+"NY","New York",51,11535000,0
+"NY","New York",52,11862000,1
+"NY","New York",53,14577000,1
+"NY","New York",54,14136000,0
+"NY","New York",55,12693000,0
+"NY","New York",56,12196000,0
+"NY","New York",57,15519000,1
+"NY","New York",58,15739000,1
+"NY","New York",59,13133000,0
+"NY","New York",60,13273000,1
+"NY","New York",61,17381000,1
+"NY","New York",62,15905000,0
+"NY","New York",63,14151000,0
+"NY","New York",64,13191000,0
+"NY","New York",65,18257000,1
+"NY","New York",66,18097000,0
+"NY","New York",67,14763000,0
+"NY","New York",68,13168000,0
+"NY","New York",69,15200000,1
+"NY","New York",70,14119000,0
+"NY","New York",71,13413000,0
+"NY","New York",72,12932000,0
+"NY","New York",73,17542000,1
+"NY","New York",74,14315000,0
+"NY","New York",75,14145000,0
+"NY","New York",76,15328000,1
+"NY","New York",77,20216000,1
+"NY","New York",78,18728000,0
+"NY","New York",79,16263000,0
+"NY","New York",80,16030000,0
+"NY","New York",81,20109000,1
+"NY","New York",82,18477000,0
+"NY","New York",83,16424000,0
+"NY","New York",84,16569000,1
+"NY","New York",85,21647000,1
+"NY","New York",86,20972000,0
+"NY","New York",87,16934000,0
+"NY","New York",88,16446000,0
+"NY","New York",89,22418000,1
+"NY","New York",90,20568000,0
+"NY","New York",91,17332000,0
+"NY","New York",92,17354000,1
+"NY","New York",93,23060000,1
+"NY","New York",94,22466000,0
+"NY","New York",95,19465000,0
+"NY","New York",96,18074000,0
+"NY","New York",97,22069000,1
+"NY","New York",98,21707000,0
+"NY","New York",99,18902000,0
+"NY","New York",100,18268000,0
+"NY","New York",101,22876000,1
+"NY","New York",102,20624000,0
+"NY","New York",103,19374000,0
+"NY","New York",104,20747000,1
+"NY","New York",105,26223000,1
+"NY","New York",106,22123000,0
+"NY","New York",107,19534000,0
+"NY","New York",108,17810000,0
+"NY","New York",109,24617000,1
+"NY","New York",110,26062000,1
+"NY","New York",111,20406000,0
+"NY","New York",112,18865000,0
+"NY","New York",113,25970000,1
+"NY","New York",114,15644000,0
+"NY","New York",115,27584000,1
+"NY","New York",116,19242000,0
+"NY","New York",117,27989000,1
+"NY","New York",118,33218000,1
+"NY","New York",119,24432000,0
+"NC","North Carolina",9,2464000,
+"NC","North Carolina",10,3099000,1
+"NC","North Carolina",11,2638000,0
+"NC","North Carolina",12,2704000,1
+"NC","North Carolina",13,2785000,1
+"NC","North Carolina",14,3025000,1
+"NC","North Carolina",15,2840000,0
+"NC","North Carolina",16,2819000,0
+"NC","North Carolina",17,2894000,1
+"NC","North Carolina",18,3448000,1
+"NC","North Carolina",19,2947000,0
+"NC","North Carolina",20,3065000,1
+"NC","North Carolina",21,3060000,0
+"NC","North Carolina",22,3710000,1
+"NC","North Carolina",23,3044000,0
+"NC","North Carolina",24,3359000,1
+"NC","North Carolina",25,3183000,0
+"NC","North Carolina",26,4048000,1
+"NC","North Carolina",27,3541000,0
+"NC","North Carolina",28,3463000,0
+"NC","North Carolina",29,3468000,1
+"NC","North Carolina",30,4259000,1
+"NC","North Carolina",31,3614000,0
+"NC","North Carolina",32,3644000,1
+"NC","North Carolina",33,3695000,1
+"NC","North Carolina",34,4352000,1
+"NC","North Carolina",35,3674000,0
+"NC","North Carolina",36,3749000,1
+"NC","North Carolina",37,3638000,0
+"NC","North Carolina",38,4612000,1
+"NC","North Carolina",39,3711000,0
+"NC","North Carolina",40,3806000,1
+"NC","North Carolina",41,3731000,0
+"NC","North Carolina",42,4288000,1
+"NC","North Carolina",43,3980000,0
+"NC","North Carolina",44,3920000,0
+"NC","North Carolina",45,3668000,0
+"NC","North Carolina",46,4281000,1
+"NC","North Carolina",47,4089000,0
+"NC","North Carolina",48,4211000,1
+"NC","North Carolina",49,3884000,0
+"NC","North Carolina",50,4652000,1
+"NC","North Carolina",51,4317000,0
+"NC","North Carolina",52,4490000,1
+"NC","North Carolina",53,4165000,0
+"NC","North Carolina",54,5665000,1
+"NC","North Carolina",55,4636000,0
+"NC","North Carolina",56,5033000,1
+"NC","North Carolina",57,4662000,0
+"NC","North Carolina",58,6272000,1
+"NC","North Carolina",59,5127000,0
+"NC","North Carolina",60,5425000,1
+"NC","North Carolina",61,5136000,0
+"NC","North Carolina",62,6923000,1
+"NC","North Carolina",63,5367000,0
+"NC","North Carolina",64,5448000,1
+"NC","North Carolina",65,5079000,0
+"NC","North Carolina",66,6886000,1
+"NC","North Carolina",67,5190000,0
+"NC","North Carolina",68,5236000,1
+"NC","North Carolina",69,4691000,0
+"NC","North Carolina",70,5380000,1
+"NC","North Carolina",71,5017000,0
+"NC","North Carolina",72,5756000,1
+"NC","North Carolina",73,5037000,0
+"NC","North Carolina",74,5670000,1
+"NC","North Carolina",75,5374000,0
+"NC","North Carolina",76,5577000,1
+"NC","North Carolina",77,5172000,0
+"NC","North Carolina",78,6247000,1
+"NC","North Carolina",79,5530000,0
+"NC","North Carolina",80,5552000,1
+"NC","North Carolina",81,5218000,0
+"NC","North Carolina",82,6382000,1
+"NC","North Carolina",83,5692000,0
+"NC","North Carolina",84,5807000,1
+"NC","North Carolina",85,5341000,0
+"NC","North Carolina",86,6899000,1
+"NC","North Carolina",87,5882000,0
+"NC","North Carolina",88,5906000,1
+"NC","North Carolina",89,5185000,0
+"NC","North Carolina",90,6392000,1
+"NC","North Carolina",91,5595000,0
+"NC","North Carolina",92,5761000,1
+"NC","North Carolina",93,6004000,1
+"NC","North Carolina",94,7552000,1
+"NC","North Carolina",95,6093000,0
+"NC","North Carolina",96,6061000,0
+"NC","North Carolina",97,6191000,1
+"NC","North Carolina",98,7752000,1
+"NC","North Carolina",99,6333000,0
+"NC","North Carolina",100,6371000,1
+"NC","North Carolina",101,6410000,1
+"NC","North Carolina",102,7637000,1
+"NC","North Carolina",103,6323000,0
+"NC","North Carolina",104,6495000,1
+"NC","North Carolina",105,6952000,1
+"NC","North Carolina",106,7973000,1
+"NC","North Carolina",107,6637000,0
+"NC","North Carolina",108,6751000,1
+"NC","North Carolina",109,6732000,0
+"NC","North Carolina",110,9083000,1
+"NC","North Carolina",111,6895000,0
+"NC","North Carolina",112,7014000,1
+"NC","North Carolina",113,6925000,0
+"NC","North Carolina",114,7338000,1
+"NC","North Carolina",115,8473000,1
+"NC","North Carolina",116,7377000,0
+"NC","North Carolina",117,7721000,1
+"NC","North Carolina",118,11038000,1
+"NC","North Carolina",119,8289000,0
+"ND","North Dakota",9,214000,
+"ND","North Dakota",10,241000,1
+"ND","North Dakota",11,232000,0
+"ND","North Dakota",12,216000,0
+"ND","North Dakota",13,267000,1
+"ND","North Dakota",14,239000,0
+"ND","North Dakota",15,203000,0
+"ND","North Dakota",16,214000,1
+"ND","North Dakota",17,223000,1
+"ND","North Dakota",18,255000,1
+"ND","North Dakota",19,234000,0
+"ND","North Dakota",20,224000,0
+"ND","North Dakota",21,231000,1
+"ND","North Dakota",22,273000,1
+"ND","North Dakota",23,233000,0
+"ND","North Dakota",24,233000,1
+"ND","North Dakota",25,240000,1
+"ND","North Dakota",26,267000,1
+"ND","North Dakota",27,241000,0
+"ND","North Dakota",28,233000,0
+"ND","North Dakota",29,238000,1
+"ND","North Dakota",30,282000,1
+"ND","North Dakota",31,245000,0
+"ND","North Dakota",32,266000,1
+"ND","North Dakota",33,274000,1
+"ND","North Dakota",34,299000,1
+"ND","North Dakota",35,275000,0
+"ND","North Dakota",36,247000,0
+"ND","North Dakota",37,306000,1
+"ND","North Dakota",38,336000,1
+"ND","North Dakota",39,256000,0
+"ND","North Dakota",40,278000,1
+"ND","North Dakota",41,282000,1
+"ND","North Dakota",42,302000,1
+"ND","North Dakota",43,292000,0
+"ND","North Dakota",44,271000,0
+"ND","North Dakota",45,319000,1
+"ND","North Dakota",46,314000,0
+"ND","North Dakota",47,289000,0
+"ND","North Dakota",48,291000,1
+"ND","North Dakota",49,314000,1
+"ND","North Dakota",50,334000,1
+"ND","North Dakota",51,314000,0
+"ND","North Dakota",52,332000,1
+"ND","North Dakota",53,353000,1
+"ND","North Dakota",54,405000,1
+"ND","North Dakota",55,360000,0
+"ND","North Dakota",56,394000,1
+"ND","North Dakota",57,405000,1
+"ND","North Dakota",58,463000,1
+"ND","North Dakota",59,423000,0
+"ND","North Dakota",60,401000,0
+"ND","North Dakota",61,431000,1
+"ND","North Dakota",62,527000,1
+"ND","North Dakota",63,465000,0
+"ND","North Dakota",64,553000,1
+"ND","North Dakota",65,563000,1
+"ND","North Dakota",66,731000,1
+"ND","North Dakota",67,677000,0
+"ND","North Dakota",68,630000,0
+"ND","North Dakota",69,495000,0
+"ND","North Dakota",70,613000,1
+"ND","North Dakota",71,548000,0
+"ND","North Dakota",72,606000,1
+"ND","North Dakota",73,657000,1
+"ND","North Dakota",74,835000,1
+"ND","North Dakota",75,711000,0
+"ND","North Dakota",76,859000,1
+"ND","North Dakota",77,959000,1
+"ND","North Dakota",78,1294000,1
+"ND","North Dakota",79,1054000,0
+"ND","North Dakota",80,1282000,1
+"ND","North Dakota",81,1060000,0
+"ND","North Dakota",82,1245000,1
+"ND","North Dakota",83,1142000,0
+"ND","North Dakota",84,1004000,0
+"ND","North Dakota",85,1561000,1
+"ND","North Dakota",86,1593000,1
+"ND","North Dakota",87,1482000,0
+"ND","North Dakota",88,1491000,1
+"ND","North Dakota",89,1423000,0
+"ND","North Dakota",90,1724000,1
+"ND","North Dakota",91,1695000,0
+"ND","North Dakota",92,1560000,0
+"ND","North Dakota",93,1274000,0
+"ND","North Dakota",94,1340000,1
+"ND","North Dakota",95,1156000,0
+"ND","North Dakota",96,1018000,0
+"ND","North Dakota",97,892000,0
+"ND","North Dakota",98,903000,1
+"ND","North Dakota",99,919000,1
+"ND","North Dakota",100,868000,0
+"ND","North Dakota",101,930000,1
+"ND","North Dakota",102,996000,1
+"ND","North Dakota",103,945000,0
+"ND","North Dakota",104,1040000,1
+"ND","North Dakota",105,1152000,1
+"ND","North Dakota",106,1319000,1
+"ND","North Dakota",107,1296000,0
+"ND","North Dakota",108,1272000,0
+"ND","North Dakota",109,1057000,0
+"ND","North Dakota",110,1336000,1
+"ND","North Dakota",111,1269000,0
+"ND","North Dakota",112,1205000,0
+"ND","North Dakota",113,1199000,0
+"ND","North Dakota",114,663000,0
+"ND","North Dakota",115,969000,1
+"ND","North Dakota",116,852000,0
+"ND","North Dakota",117,992000,1
+"ND","North Dakota",118,1267000,1
+"ND","North Dakota",119,1297000,1
+"OH","Ohio",9,3780000,
+"OH","Ohio",10,4170000,1
+"OH","Ohio",11,2959000,0
+"OH","Ohio",12,3391000,1
+"OH","Ohio",13,3780000,1
+"OH","Ohio",14,4170000,1
+"OH","Ohio",15,2959000,0
+"OH","Ohio",16,3506000,1
+"OH","Ohio",17,4261000,1
+"OH","Ohio",18,4682000,1
+"OH","Ohio",19,3550000,0
+"OH","Ohio",20,3652000,1
+"OH","Ohio",21,4502000,1
+"OH","Ohio",22,4716000,1
+"OH","Ohio",23,3687000,0
+"OH","Ohio",24,3964000,1
+"OH","Ohio",25,4770000,1
+"OH","Ohio",26,5320000,1
+"OH","Ohio",27,4147000,0
+"OH","Ohio",28,4219000,1
+"OH","Ohio",29,5244000,1
+"OH","Ohio",30,5962000,1
+"OH","Ohio",31,4074000,0
+"OH","Ohio",32,4176000,1
+"OH","Ohio",33,5758000,1
+"OH","Ohio",34,6500000,1
+"OH","Ohio",35,4460000,0
+"OH","Ohio",36,4488000,1
+"OH","Ohio",37,4846000,1
+"OH","Ohio",38,6002000,1
+"OH","Ohio",39,4501000,0
+"OH","Ohio",40,4583000,1
+"OH","Ohio",41,4841000,1
+"OH","Ohio",42,6205000,1
+"OH","Ohio",43,4899000,0
+"OH","Ohio",44,4844000,0
+"OH","Ohio",45,5095000,1
+"OH","Ohio",46,5814000,1
+"OH","Ohio",47,5299000,0
+"OH","Ohio",48,4791000,0
+"OH","Ohio",49,5688000,1
+"OH","Ohio",50,6671000,1
+"OH","Ohio",51,5800000,0
+"OH","Ohio",52,5809000,1
+"OH","Ohio",53,5797000,0
+"OH","Ohio",54,5894000,1
+"OH","Ohio",55,5921000,1
+"OH","Ohio",56,5810000,0
+"OH","Ohio",57,5760000,0
+"OH","Ohio",58,7025000,1
+"OH","Ohio",59,5756000,0
+"OH","Ohio",60,5948000,1
+"OH","Ohio",61,5947000,0
+"OH","Ohio",62,7494000,1
+"OH","Ohio",63,6275000,0
+"OH","Ohio",64,6269000,0
+"OH","Ohio",65,7064000,1
+"OH","Ohio",66,7992000,1
+"OH","Ohio",67,5995000,0
+"OH","Ohio",68,6023000,1
+"OH","Ohio",69,5639000,0
+"OH","Ohio",70,6350000,1
+"OH","Ohio",71,5450000,0
+"OH","Ohio",72,5933000,1
+"OH","Ohio",73,5338000,0
+"OH","Ohio",74,6707000,1
+"OH","Ohio",75,5812000,0
+"OH","Ohio",76,5843000,1
+"OH","Ohio",77,6424000,1
+"OH","Ohio",78,7164000,1
+"OH","Ohio",79,5889000,0
+"OH","Ohio",80,6311000,1
+"OH","Ohio",81,6179000,0
+"OH","Ohio",82,7495000,1
+"OH","Ohio",83,5975000,0
+"OH","Ohio",84,6430000,1
+"OH","Ohio",85,6472000,1
+"OH","Ohio",86,8365000,1
+"OH","Ohio",87,6446000,0
+"OH","Ohio",88,6520000,1
+"OH","Ohio",89,6602000,1
+"OH","Ohio",90,7452000,1
+"OH","Ohio",91,6583000,0
+"OH","Ohio",92,6819000,1
+"OH","Ohio",93,6545000,0
+"OH","Ohio",94,8350000,1
+"OH","Ohio",95,7011000,0
+"OH","Ohio",96,7081000,1
+"OH","Ohio",97,6495000,0
+"OH","Ohio",98,8108000,1
+"OH","Ohio",99,6832000,0
+"OH","Ohio",100,7223000,1
+"OH","Ohio",101,6932000,0
+"OH","Ohio",102,8420000,1
+"OH","Ohio",103,6903000,0
+"OH","Ohio",104,7205000,1
+"OH","Ohio",105,6838000,0
+"OH","Ohio",106,7967000,1
+"OH","Ohio",107,7140000,0
+"OH","Ohio",108,7852000,1
+"OH","Ohio",109,7097000,0
+"OH","Ohio",110,8615000,1
+"OH","Ohio",111,7710000,0
+"OH","Ohio",112,7970000,1
+"OH","Ohio",113,7515000,0
+"OH","Ohio",114,7386000,0
+"OH","Ohio",115,8522000,1
+"OH","Ohio",116,8372000,0
+"OH","Ohio",117,8060000,0
+"OH","Ohio",118,9920000,1
+"OH","Ohio",119,8603000,0
+"OK","Oklahoma",9,1039000,
+"OK","Oklahoma",10,1143000,1
+"OK","Oklahoma",11,1087000,0
+"OK","Oklahoma",12,1001000,0
+"OK","Oklahoma",13,1083000,1
+"OK","Oklahoma",14,1204000,1
+"OK","Oklahoma",15,1140000,0
+"OK","Oklahoma",16,1129000,0
+"OK","Oklahoma",17,1117000,0
+"OK","Oklahoma",18,1326000,1
+"OK","Oklahoma",19,1240000,0
+"OK","Oklahoma",20,1160000,0
+"OK","Oklahoma",21,1117000,0
+"OK","Oklahoma",22,1397000,1
+"OK","Oklahoma",23,1291000,0
+"OK","Oklahoma",24,1238000,0
+"OK","Oklahoma",25,1215000,0
+"OK","Oklahoma",26,1557000,1
+"OK","Oklahoma",27,1291000,0
+"OK","Oklahoma",28,1238000,0
+"OK","Oklahoma",29,1215000,0
+"OK","Oklahoma",30,1553000,1
+"OK","Oklahoma",31,1409000,0
+"OK","Oklahoma",32,1259000,0
+"OK","Oklahoma",33,1355000,1
+"OK","Oklahoma",34,1664000,1
+"OK","Oklahoma",35,1537000,0
+"OK","Oklahoma",36,1430000,0
+"OK","Oklahoma",37,1473000,1
+"OK","Oklahoma",38,1809000,1
+"OK","Oklahoma",39,1547000,0
+"OK","Oklahoma",40,1385000,0
+"OK","Oklahoma",41,1354000,0
+"OK","Oklahoma",42,1685000,1
+"OK","Oklahoma",43,1466000,0
+"OK","Oklahoma",44,1396000,0
+"OK","Oklahoma",45,1298000,0
+"OK","Oklahoma",46,1687000,1
+"OK","Oklahoma",47,1634000,0
+"OK","Oklahoma",48,1504000,0
+"OK","Oklahoma",49,1477000,0
+"OK","Oklahoma",50,1756000,1
+"OK","Oklahoma",51,1681000,0
+"OK","Oklahoma",52,1639000,0
+"OK","Oklahoma",53,1574000,0
+"OK","Oklahoma",54,1953000,1
+"OK","Oklahoma",55,1887000,0
+"OK","Oklahoma",56,1876000,0
+"OK","Oklahoma",57,1829000,0
+"OK","Oklahoma",58,2262000,1
+"OK","Oklahoma",59,2041000,0
+"OK","Oklahoma",60,1935000,0
+"OK","Oklahoma",61,1906000,0
+"OK","Oklahoma",62,2279000,1
+"OK","Oklahoma",63,2115000,0
+"OK","Oklahoma",64,1976000,0
+"OK","Oklahoma",65,1875000,0
+"OK","Oklahoma",66,2431000,1
+"OK","Oklahoma",67,2362000,0
+"OK","Oklahoma",68,2146000,0
+"OK","Oklahoma",69,1638000,0
+"OK","Oklahoma",70,1902000,1
+"OK","Oklahoma",71,1757000,0
+"OK","Oklahoma",72,1699000,0
+"OK","Oklahoma",73,1588000,0
+"OK","Oklahoma",74,1980000,1
+"OK","Oklahoma",75,1900000,0
+"OK","Oklahoma",76,1807000,0
+"OK","Oklahoma",77,1756000,0
+"OK","Oklahoma",78,2280000,1
+"OK","Oklahoma",79,2160000,0
+"OK","Oklahoma",80,2069000,0
+"OK","Oklahoma",81,1917000,0
+"OK","Oklahoma",82,2429000,1
+"OK","Oklahoma",83,2127000,0
+"OK","Oklahoma",84,2123000,0
+"OK","Oklahoma",85,1894000,0
+"OK","Oklahoma",86,2514000,1
+"OK","Oklahoma",87,2174000,0
+"OK","Oklahoma",88,2216000,1
+"OK","Oklahoma",89,1993000,0
+"OK","Oklahoma",90,2584000,1
+"OK","Oklahoma",91,2388000,0
+"OK","Oklahoma",92,2298000,0
+"OK","Oklahoma",93,2096000,0
+"OK","Oklahoma",94,2509000,1
+"OK","Oklahoma",95,2248000,0
+"OK","Oklahoma",96,2013000,0
+"OK","Oklahoma",97,1809000,0
+"OK","Oklahoma",98,2276000,1
+"OK","Oklahoma",99,2042000,0
+"OK","Oklahoma",100,1939000,0
+"OK","Oklahoma",101,1819000,0
+"OK","Oklahoma",102,2409000,1
+"OK","Oklahoma",103,2224000,0
+"OK","Oklahoma",104,2183000,0
+"OK","Oklahoma",105,2130000,0
+"OK","Oklahoma",106,2798000,1
+"OK","Oklahoma",107,2533000,0
+"OK","Oklahoma",108,2567000,1
+"OK","Oklahoma",109,2402000,0
+"OK","Oklahoma",110,3113000,1
+"OK","Oklahoma",111,2663000,0
+"OK","Oklahoma",112,2637000,0
+"OK","Oklahoma",113,2364000,0
+"OK","Oklahoma",114,2399000,1
+"OK","Oklahoma",115,2846000,1
+"OK","Oklahoma",116,2625000,0
+"OK","Oklahoma",117,2265000,0
+"OK","Oklahoma",118,3274000,1
+"OK","Oklahoma",119,2958000,0
+"OR","Oregon",9,956000,
+"OR","Oregon",10,1276000,1
+"OR","Oregon",11,980000,0
+"OR","Oregon",12,996000,1
+"OR","Oregon",13,954000,0
+"OR","Oregon",14,1356000,1
+"OR","Oregon",15,1019000,0
+"OR","Oregon",16,952000,0
+"OR","Oregon",17,1059000,1
+"OR","Oregon",18,1399000,1
+"OR","Oregon",19,1125000,0
+"OR","Oregon",20,1060000,0
+"OR","Oregon",21,1173000,1
+"OR","Oregon",22,1589000,1
+"OR","Oregon",23,1345000,0
+"OR","Oregon",24,843000,0
+"OR","Oregon",25,1108000,1
+"OR","Oregon",26,1693000,1
+"OR","Oregon",27,1261000,0
+"OR","Oregon",28,1282000,1
+"OR","Oregon",29,983000,0
+"OR","Oregon",30,1661000,1
+"OR","Oregon",31,1336000,0
+"OR","Oregon",32,1298000,0
+"OR","Oregon",33,1307000,1
+"OR","Oregon",34,1930000,1
+"OR","Oregon",35,1495000,0
+"OR","Oregon",36,1419000,0
+"OR","Oregon",37,1406000,0
+"OR","Oregon",38,1865000,1
+"OR","Oregon",39,1272000,0
+"OR","Oregon",40,1193000,0
+"OR","Oregon",41,1240000,1
+"OR","Oregon",42,1521000,1
+"OR","Oregon",43,1419000,0
+"OR","Oregon",44,1408000,0
+"OR","Oregon",45,1207000,0
+"OR","Oregon",46,1644000,1
+"OR","Oregon",47,1538000,0
+"OR","Oregon",48,1524000,0
+"OR","Oregon",49,1301000,0
+"OR","Oregon",50,1740000,1
+"OR","Oregon",51,1575000,0
+"OR","Oregon",52,1504000,0
+"OR","Oregon",53,1434000,0
+"OR","Oregon",54,2399000,1
+"OR","Oregon",55,1722000,0
+"OR","Oregon",56,1769000,1
+"OR","Oregon",57,1671000,0
+"OR","Oregon",58,2449000,1
+"OR","Oregon",59,1805000,0
+"OR","Oregon",60,1805000,1
+"OR","Oregon",61,1577000,0
+"OR","Oregon",62,2561000,1
+"OR","Oregon",63,1867000,0
+"OR","Oregon",64,835000,0
+"OR","Oregon",65,1726000,1
+"OR","Oregon",66,2787000,1
+"OR","Oregon",67,2014000,0
+"OR","Oregon",68,1966000,0
+"OR","Oregon",69,1398000,0
+"OR","Oregon",70,2026000,1
+"OR","Oregon",71,1851000,0
+"OR","Oregon",72,1677000,0
+"OR","Oregon",73,1484000,0
+"OR","Oregon",74,2243000,1
+"OR","Oregon",75,1904000,0
+"OR","Oregon",76,1697000,0
+"OR","Oregon",77,1752000,1
+"OR","Oregon",78,2562000,1
+"OR","Oregon",79,2127000,0
+"OR","Oregon",80,2015000,0
+"OR","Oregon",81,1703000,0
+"OR","Oregon",82,2772000,1
+"OR","Oregon",83,2221000,0
+"OR","Oregon",84,2170000,0
+"OR","Oregon",85,1820000,0
+"OR","Oregon",86,2996000,1
+"OR","Oregon",87,2270000,0
+"OR","Oregon",88,2190000,0
+"OR","Oregon",89,1954000,0
+"OR","Oregon",90,3170000,1
+"OR","Oregon",91,2403000,0
+"OR","Oregon",92,2419000,1
+"OR","Oregon",93,2557000,1
+"OR","Oregon",94,3436000,1
+"OR","Oregon",95,2686000,0
+"OR","Oregon",96,2610000,0
+"OR","Oregon",97,2233000,0
+"OR","Oregon",98,3091000,1
+"OR","Oregon",99,2754000,0
+"OR","Oregon",100,2531000,0
+"OR","Oregon",101,2440000,0
+"OR","Oregon",102,3509000,1
+"OR","Oregon",103,2839000,0
+"OR","Oregon",104,2797000,0
+"OR","Oregon",105,2616000,0
+"OR","Oregon",106,3767000,1
+"OR","Oregon",107,3192000,0
+"OR","Oregon",108,2806000,0
+"OR","Oregon",109,2588000,0
+"OR","Oregon",110,4336000,1
+"OR","Oregon",111,3381000,0
+"OR","Oregon",112,2964000,0
+"OR","Oregon",113,2378000,0
+"OR","Oregon",114,2939000,1
+"OR","Oregon",115,3963000,1
+"OR","Oregon",116,3121000,0
+"OR","Oregon",117,2748000,0
+"OR","Oregon",118,4490000,1
+"OR","Oregon",119,3649000,0
+"PA","Pennsylvania",9,4976000,
+"PA","Pennsylvania",10,4864000,0
+"PA","Pennsylvania",11,4000000,0
+"PA","Pennsylvania",12,3888000,0
+"PA","Pennsylvania",13,5184000,1
+"PA","Pennsylvania",14,5141000,0
+"PA","Pennsylvania",15,4067000,0
+"PA","Pennsylvania",16,3778000,0
+"PA","Pennsylvania",17,5032000,1
+"PA","Pennsylvania",18,5185000,1
+"PA","Pennsylvania",19,4304000,0
+"PA","Pennsylvania",20,4056000,0
+"PA","Pennsylvania",21,5386000,1
+"PA","Pennsylvania",22,5514000,1
+"PA","Pennsylvania",23,4501000,0
+"PA","Pennsylvania",24,4072000,0
+"PA","Pennsylvania",25,5557000,1
+"PA","Pennsylvania",26,5714000,1
+"PA","Pennsylvania",27,4766000,0
+"PA","Pennsylvania",28,4544000,0
+"PA","Pennsylvania",29,5785000,1
+"PA","Pennsylvania",30,6309000,1
+"PA","Pennsylvania",31,4960000,0
+"PA","Pennsylvania",32,4761000,0
+"PA","Pennsylvania",33,6049000,1
+"PA","Pennsylvania",34,6650000,1
+"PA","Pennsylvania",35,5180000,0
+"PA","Pennsylvania",36,4593000,0
+"PA","Pennsylvania",37,6240000,1
+"PA","Pennsylvania",38,6559000,1
+"PA","Pennsylvania",39,5102000,0
+"PA","Pennsylvania",40,4751000,0
+"PA","Pennsylvania",41,6063000,1
+"PA","Pennsylvania",42,6219000,1
+"PA","Pennsylvania",43,5342000,0
+"PA","Pennsylvania",44,5046000,0
+"PA","Pennsylvania",45,6480000,1
+"PA","Pennsylvania",46,6319000,0
+"PA","Pennsylvania",47,5537000,0
+"PA","Pennsylvania",48,5332000,0
+"PA","Pennsylvania",49,7018000,1
+"PA","Pennsylvania",50,7237000,1
+"PA","Pennsylvania",51,6124000,0
+"PA","Pennsylvania",52,5743000,0
+"PA","Pennsylvania",53,7616000,1
+"PA","Pennsylvania",54,7779000,1
+"PA","Pennsylvania",55,6513000,0
+"PA","Pennsylvania",56,6039000,0
+"PA","Pennsylvania",57,8052000,1
+"PA","Pennsylvania",58,8446000,1
+"PA","Pennsylvania",59,6742000,0
+"PA","Pennsylvania",60,6370000,0
+"PA","Pennsylvania",61,8759000,1
+"PA","Pennsylvania",62,8967000,1
+"PA","Pennsylvania",63,7248000,0
+"PA","Pennsylvania",64,6722000,0
+"PA","Pennsylvania",65,9029000,1
+"PA","Pennsylvania",66,9125000,1
+"PA","Pennsylvania",67,7085000,0
+"PA","Pennsylvania",68,6478000,0
+"PA","Pennsylvania",69,8534000,1
+"PA","Pennsylvania",70,7904000,0
+"PA","Pennsylvania",71,6644000,0
+"PA","Pennsylvania",72,6315000,0
+"PA","Pennsylvania",73,8517000,1
+"PA","Pennsylvania",74,9039000,1
+"PA","Pennsylvania",75,7006000,0
+"PA","Pennsylvania",76,6751000,0
+"PA","Pennsylvania",77,9503000,1
+"PA","Pennsylvania",78,9085000,0
+"PA","Pennsylvania",79,7213000,0
+"PA","Pennsylvania",80,6856000,0
+"PA","Pennsylvania",81,9892000,1
+"PA","Pennsylvania",82,9016000,0
+"PA","Pennsylvania",83,7337000,0
+"PA","Pennsylvania",84,7253000,0
+"PA","Pennsylvania",85,10045000,1
+"PA","Pennsylvania",86,9284000,0
+"PA","Pennsylvania",87,7486000,0
+"PA","Pennsylvania",88,7316000,0
+"PA","Pennsylvania",89,10071000,1
+"PA","Pennsylvania",90,9256000,0
+"PA","Pennsylvania",91,7946000,0
+"PA","Pennsylvania",92,7888000,0
+"PA","Pennsylvania",93,10441000,1
+"PA","Pennsylvania",94,9766000,0
+"PA","Pennsylvania",95,8275000,0
+"PA","Pennsylvania",96,7926000,0
+"PA","Pennsylvania",97,11240000,1
+"PA","Pennsylvania",98,9881000,0
+"PA","Pennsylvania",99,8209000,0
+"PA","Pennsylvania",100,8171000,0
+"PA","Pennsylvania",101,10981000,1
+"PA","Pennsylvania",102,10399000,0
+"PA","Pennsylvania",103,8727000,0
+"PA","Pennsylvania",104,8815000,1
+"PA","Pennsylvania",105,11081000,1
+"PA","Pennsylvania",106,10770000,0
+"PA","Pennsylvania",107,9397000,0
+"PA","Pennsylvania",108,8971000,0
+"PA","Pennsylvania",109,11311000,1
+"PA","Pennsylvania",110,11703000,1
+"PA","Pennsylvania",111,9860000,0
+"PA","Pennsylvania",112,9502000,0
+"PA","Pennsylvania",113,11541000,1
+"PA","Pennsylvania",114,8184000,0
+"PA","Pennsylvania",115,11850000,1
+"PA","Pennsylvania",116,9952000,0
+"PA","Pennsylvania",117,12173000,1
+"PA","Pennsylvania",118,13359000,1
+"PA","Pennsylvania",119,11351000,0
+"RI","Rhode Island",9,372000,
+"RI","Rhode Island",10,416000,1
+"RI","Rhode Island",11,345000,0
+"RI","Rhode Island",12,348000,1
+"RI","Rhode Island",13,370000,1
+"RI","Rhode Island",14,427000,1
+"RI","Rhode Island",15,339000,0
+"RI","Rhode Island",16,342000,1
+"RI","Rhode Island",17,385000,1
+"RI","Rhode Island",18,496000,1
+"RI","Rhode Island",19,365000,0
+"RI","Rhode Island",20,364000,0
+"RI","Rhode Island",21,385000,1
+"RI","Rhode Island",22,530000,1
+"RI","Rhode Island",23,397000,0
+"RI","Rhode Island",24,394000,0
+"RI","Rhode Island",25,449000,1
+"RI","Rhode Island",26,543000,1
+"RI","Rhode Island",27,440000,0
+"RI","Rhode Island",28,398000,0
+"RI","Rhode Island",29,451000,1
+"RI","Rhode Island",30,574000,1
+"RI","Rhode Island",31,445000,0
+"RI","Rhode Island",32,433000,0
+"RI","Rhode Island",33,508000,1
+"RI","Rhode Island",34,607000,1
+"RI","Rhode Island",35,490000,0
+"RI","Rhode Island",36,535000,1
+"RI","Rhode Island",37,563000,1
+"RI","Rhode Island",38,658000,1
+"RI","Rhode Island",39,447000,0
+"RI","Rhode Island",40,532000,1
+"RI","Rhode Island",41,505000,0
+"RI","Rhode Island",42,643000,1
+"RI","Rhode Island",43,513000,0
+"RI","Rhode Island",44,557000,1
+"RI","Rhode Island",45,531000,0
+"RI","Rhode Island",46,655000,1
+"RI","Rhode Island",47,547000,0
+"RI","Rhode Island",48,575000,1
+"RI","Rhode Island",49,572000,0
+"RI","Rhode Island",50,708000,1
+"RI","Rhode Island",51,598000,0
+"RI","Rhode Island",52,635000,1
+"RI","Rhode Island",53,625000,0
+"RI","Rhode Island",54,774000,1
+"RI","Rhode Island",55,616000,0
+"RI","Rhode Island",56,642000,1
+"RI","Rhode Island",57,674000,1
+"RI","Rhode Island",58,812000,1
+"RI","Rhode Island",59,642000,0
+"RI","Rhode Island",60,580000,0
+"RI","Rhode Island",61,681000,1
+"RI","Rhode Island",62,864000,1
+"RI","Rhode Island",63,682000,0
+"RI","Rhode Island",64,586000,0
+"RI","Rhode Island",65,646000,1
+"RI","Rhode Island",66,847000,1
+"RI","Rhode Island",67,670000,0
+"RI","Rhode Island",68,566000,0
+"RI","Rhode Island",69,565000,0
+"RI","Rhode Island",70,772000,1
+"RI","Rhode Island",71,681000,0
+"RI","Rhode Island",72,555000,0
+"RI","Rhode Island",73,594000,1
+"RI","Rhode Island",74,733000,1
+"RI","Rhode Island",75,735000,1
+"RI","Rhode Island",76,574000,0
+"RI","Rhode Island",77,619000,1
+"RI","Rhode Island",78,786000,1
+"RI","Rhode Island",79,765000,0
+"RI","Rhode Island",80,614000,0
+"RI","Rhode Island",81,672000,1
+"RI","Rhode Island",82,820000,1
+"RI","Rhode Island",83,767000,0
+"RI","Rhode Island",84,655000,0
+"RI","Rhode Island",85,642000,0
+"RI","Rhode Island",86,870000,1
+"RI","Rhode Island",87,799000,0
+"RI","Rhode Island",88,640000,0
+"RI","Rhode Island",89,671000,1
+"RI","Rhode Island",90,867000,1
+"RI","Rhode Island",91,821000,0
+"RI","Rhode Island",92,690000,0
+"RI","Rhode Island",93,712000,1
+"RI","Rhode Island",94,975000,1
+"RI","Rhode Island",95,873000,0
+"RI","Rhode Island",96,699000,0
+"RI","Rhode Island",97,761000,1
+"RI","Rhode Island",98,934000,1
+"RI","Rhode Island",99,899000,0
+"RI","Rhode Island",100,694000,0
+"RI","Rhode Island",101,722000,1
+"RI","Rhode Island",102,996000,1
+"RI","Rhode Island",103,970000,0
+"RI","Rhode Island",104,756000,0
+"RI","Rhode Island",105,764000,1
+"RI","Rhode Island",106,1026000,1
+"RI","Rhode Island",107,984000,0
+"RI","Rhode Island",108,811000,0
+"RI","Rhode Island",109,777000,0
+"RI","Rhode Island",110,1113000,1
+"RI","Rhode Island",111,1038000,0
+"RI","Rhode Island",112,867000,0
+"RI","Rhode Island",113,841000,0
+"RI","Rhode Island",114,818000,0
+"RI","Rhode Island",115,1153000,1
+"RI","Rhode Island",116,929000,0
+"RI","Rhode Island",117,882000,0
+"RI","Rhode Island",118,1208000,1
+"RI","Rhode Island",119,1079000,0
+"SC","South Carolina",9,1062000,
+"SC","South Carolina",10,1254000,1
+"SC","South Carolina",11,1086000,0
+"SC","South Carolina",12,1229000,1
+"SC","South Carolina",13,1080000,0
+"SC","South Carolina",14,1400000,1
+"SC","South Carolina",15,1138000,0
+"SC","South Carolina",16,1288000,1
+"SC","South Carolina",17,1142000,0
+"SC","South Carolina",18,1546000,1
+"SC","South Carolina",19,1172000,0
+"SC","South Carolina",20,1380000,1
+"SC","South Carolina",21,1167000,0
+"SC","South Carolina",22,1675000,1
+"SC","South Carolina",23,1228000,0
+"SC","South Carolina",24,1434000,1
+"SC","South Carolina",25,1199000,0
+"SC","South Carolina",26,1816000,1
+"SC","South Carolina",27,1296000,0
+"SC","South Carolina",28,1544000,1
+"SC","South Carolina",29,1323000,0
+"SC","South Carolina",30,1632000,1
+"SC","South Carolina",31,1378000,0
+"SC","South Carolina",32,1662000,1
+"SC","South Carolina",33,1326000,0
+"SC","South Carolina",34,2036000,1
+"SC","South Carolina",35,1421000,0
+"SC","South Carolina",36,1649000,1
+"SC","South Carolina",37,1362000,0
+"SC","South Carolina",38,1983000,1
+"SC","South Carolina",39,1435000,0
+"SC","South Carolina",40,1206000,0
+"SC","South Carolina",41,1251000,1
+"SC","South Carolina",42,1859000,1
+"SC","South Carolina",43,1069000,0
+"SC","South Carolina",44,1231000,1
+"SC","South Carolina",45,1207000,0
+"SC","South Carolina",46,2015000,1
+"SC","South Carolina",47,1185000,0
+"SC","South Carolina",48,1890000,1
+"SC","South Carolina",49,1445000,0
+"SC","South Carolina",50,2285000,1
+"SC","South Carolina",51,1124000,0
+"SC","South Carolina",52,2037000,1
+"SC","South Carolina",53,1545000,0
+"SC","South Carolina",54,2537000,1
+"SC","South Carolina",55,1439000,0
+"SC","South Carolina",56,2120000,1
+"SC","South Carolina",57,1697000,0
+"SC","South Carolina",58,2863000,1
+"SC","South Carolina",59,1529000,0
+"SC","South Carolina",60,2287000,1
+"SC","South Carolina",61,1895000,0
+"SC","South Carolina",62,2998000,1
+"SC","South Carolina",63,1574000,0
+"SC","South Carolina",64,2345000,1
+"SC","South Carolina",65,1562000,0
+"SC","South Carolina",66,2728000,1
+"SC","South Carolina",67,1403000,0
+"SC","South Carolina",68,2054000,1
+"SC","South Carolina",69,1398000,0
+"SC","South Carolina",70,2145000,1
+"SC","South Carolina",71,1332000,0
+"SC","South Carolina",72,1906000,1
+"SC","South Carolina",73,1308000,0
+"SC","South Carolina",74,2184000,1
+"SC","South Carolina",75,1390000,0
+"SC","South Carolina",76,2076000,1
+"SC","South Carolina",77,1337000,0
+"SC","South Carolina",78,2378000,1
+"SC","South Carolina",79,1450000,0
+"SC","South Carolina",80,2110000,1
+"SC","South Carolina",81,1444000,0
+"SC","South Carolina",82,2512000,1
+"SC","South Carolina",83,2053000,0
+"SC","South Carolina",84,2283000,1
+"SC","South Carolina",85,1569000,0
+"SC","South Carolina",86,2683000,1
+"SC","South Carolina",87,2001000,0
+"SC","South Carolina",88,2298000,1
+"SC","South Carolina",89,1622000,0
+"SC","South Carolina",90,2691000,1
+"SC","South Carolina",91,2502000,0
+"SC","South Carolina",92,2346000,0
+"SC","South Carolina",93,1651000,0
+"SC","South Carolina",94,2735000,1
+"SC","South Carolina",95,2553000,0
+"SC","South Carolina",96,2477000,0
+"SC","South Carolina",97,1802000,0
+"SC","South Carolina",98,2777000,1
+"SC","South Carolina",99,2737000,0
+"SC","South Carolina",100,2629000,0
+"SC","South Carolina",101,1767000,0
+"SC","South Carolina",102,2959000,1
+"SC","South Carolina",103,2735000,0
+"SC","South Carolina",104,2879000,1
+"SC","South Carolina",105,2004000,0
+"SC","South Carolina",106,3272000,1
+"SC","South Carolina",107,3108000,0
+"SC","South Carolina",108,2698000,0
+"SC","South Carolina",109,2052000,0
+"SC","South Carolina",110,3500000,1
+"SC","South Carolina",111,3276000,0
+"SC","South Carolina",112,2983000,0
+"SC","South Carolina",113,2247000,0
+"SC","South Carolina",114,2799000,1
+"SC","South Carolina",115,3751000,1
+"SC","South Carolina",116,3332000,0
+"SC","South Carolina",117,2605000,0
+"SC","South Carolina",118,3283000,1
+"SC","South Carolina",119,3956000,1
+"SD","South Dakota",9,146000,
+"SD","South Dakota",10,152000,1
+"SD","South Dakota",11,164000,1
+"SD","South Dakota",12,175000,1
+"SD","South Dakota",13,138000,0
+"SD","South Dakota",14,145000,1
+"SD","South Dakota",15,170000,1
+"SD","South Dakota",16,165000,0
+"SD","South Dakota",17,157000,0
+"SD","South Dakota",18,151000,0
+"SD","South Dakota",19,174000,1
+"SD","South Dakota",20,166000,0
+"SD","South Dakota",21,163000,0
+"SD","South Dakota",22,150000,0
+"SD","South Dakota",23,241000,1
+"SD","South Dakota",24,210000,0
+"SD","South Dakota",25,195000,0
+"SD","South Dakota",26,166000,0
+"SD","South Dakota",27,189000,1
+"SD","South Dakota",28,186000,0
+"SD","South Dakota",29,175000,0
+"SD","South Dakota",30,180000,1
+"SD","South Dakota",31,210000,1
+"SD","South Dakota",32,199000,0
+"SD","South Dakota",33,191000,0
+"SD","South Dakota",34,192000,1
+"SD","South Dakota",35,234000,1
+"SD","South Dakota",36,249000,1
+"SD","South Dakota",37,220000,0
+"SD","South Dakota",38,215000,0
+"SD","South Dakota",39,239000,1
+"SD","South Dakota",40,258000,1
+"SD","South Dakota",41,226000,0
+"SD","South Dakota",42,222000,0
+"SD","South Dakota",43,274000,1
+"SD","South Dakota",44,265000,0
+"SD","South Dakota",45,234000,0
+"SD","South Dakota",46,243000,1
+"SD","South Dakota",47,273000,1
+"SD","South Dakota",48,274000,1
+"SD","South Dakota",49,262000,0
+"SD","South Dakota",50,264000,1
+"SD","South Dakota",51,287000,1
+"SD","South Dakota",52,282000,0
+"SD","South Dakota",53,277000,0
+"SD","South Dakota",54,274000,0
+"SD","South Dakota",55,300000,1
+"SD","South Dakota",56,297000,0
+"SD","South Dakota",57,290000,0
+"SD","South Dakota",58,294000,1
+"SD","South Dakota",59,317000,1
+"SD","South Dakota",60,312000,0
+"SD","South Dakota",61,306000,0
+"SD","South Dakota",62,313000,1
+"SD","South Dakota",63,343000,1
+"SD","South Dakota",64,351000,1
+"SD","South Dakota",65,338000,0
+"SD","South Dakota",66,282000,0
+"SD","South Dakota",67,361000,1
+"SD","South Dakota",68,367000,1
+"SD","South Dakota",69,317000,0
+"SD","South Dakota",70,280000,0
+"SD","South Dakota",71,352000,1
+"SD","South Dakota",72,339000,0
+"SD","South Dakota",73,303000,0
+"SD","South Dakota",74,310000,1
+"SD","South Dakota",75,356000,1
+"SD","South Dakota",76,342000,0
+"SD","South Dakota",77,335000,0
+"SD","South Dakota",78,331000,0
+"SD","South Dakota",79,404000,1
+"SD","South Dakota",80,377000,0
+"SD","South Dakota",81,374000,0
+"SD","South Dakota",82,351000,0
+"SD","South Dakota",83,377000,1
+"SD","South Dakota",84,375000,0
+"SD","South Dakota",85,374000,0
+"SD","South Dakota",86,392000,1
+"SD","South Dakota",87,399000,1
+"SD","South Dakota",88,407000,1
+"SD","South Dakota",89,392000,0
+"SD","South Dakota",90,394000,1
+"SD","South Dakota",91,424000,1
+"SD","South Dakota",92,414000,0
+"SD","South Dakota",93,385000,0
+"SD","South Dakota",94,406000,1
+"SD","South Dakota",95,456000,1
+"SD","South Dakota",96,458000,1
+"SD","South Dakota",97,410000,0
+"SD","South Dakota",98,408000,0
+"SD","South Dakota",99,492000,1
+"SD","South Dakota",100,471000,0
+"SD","South Dakota",101,434000,0
+"SD","South Dakota",102,429000,0
+"SD","South Dakota",103,491000,1
+"SD","South Dakota",104,496000,1
+"SD","South Dakota",105,463000,0
+"SD","South Dakota",106,457000,0
+"SD","South Dakota",107,516000,1
+"SD","South Dakota",108,480000,0
+"SD","South Dakota",109,466000,0
+"SD","South Dakota",110,477000,1
+"SD","South Dakota",111,531000,1
+"SD","South Dakota",112,514000,0
+"SD","South Dakota",113,494000,0
+"SD","South Dakota",114,486000,0
+"SD","South Dakota",115,445000,0
+"SD","South Dakota",116,583000,1
+"SD","South Dakota",117,537000,0
+"SD","South Dakota",118,575000,1
+"SD","South Dakota",119,629000,1
+"TN","Tennessee",9,1350000,
+"TN","Tennessee",10,1572000,1
+"TN","Tennessee",11,1381000,0
+"TN","Tennessee",12,1362000,0
+"TN","Tennessee",13,1515000,1
+"TN","Tennessee",14,1743000,1
+"TN","Tennessee",15,1523000,0
+"TN","Tennessee",16,1447000,0
+"TN","Tennessee",17,1495000,1
+"TN","Tennessee",18,1825000,1
+"TN","Tennessee",19,1574000,0
+"TN","Tennessee",20,1547000,0
+"TN","Tennessee",21,1592000,1
+"TN","Tennessee",22,1935000,1
+"TN","Tennessee",23,1623000,0
+"TN","Tennessee",24,1617000,0
+"TN","Tennessee",25,1702000,1
+"TN","Tennessee",26,2032000,1
+"TN","Tennessee",27,1700000,0
+"TN","Tennessee",28,1647000,0
+"TN","Tennessee",29,1770000,1
+"TN","Tennessee",30,2084000,1
+"TN","Tennessee",31,1817000,0
+"TN","Tennessee",32,1724000,0
+"TN","Tennessee",33,1926000,1
+"TN","Tennessee",34,2304000,1
+"TN","Tennessee",35,1984000,0
+"TN","Tennessee",36,1758000,0
+"TN","Tennessee",37,1898000,1
+"TN","Tennessee",38,2392000,1
+"TN","Tennessee",39,1945000,0
+"TN","Tennessee",40,1707000,0
+"TN","Tennessee",41,1868000,1
+"TN","Tennessee",42,2281000,1
+"TN","Tennessee",43,2160000,0
+"TN","Tennessee",44,1948000,0
+"TN","Tennessee",45,2102000,1
+"TN","Tennessee",46,2624000,1
+"TN","Tennessee",47,2346000,0
+"TN","Tennessee",48,2090000,0
+"TN","Tennessee",49,2264000,1
+"TN","Tennessee",50,2829000,1
+"TN","Tennessee",51,2352000,0
+"TN","Tennessee",52,2196000,0
+"TN","Tennessee",53,2412000,1
+"TN","Tennessee",54,3047000,1
+"TN","Tennessee",55,2603000,0
+"TN","Tennessee",56,2382000,0
+"TN","Tennessee",57,2517000,1
+"TN","Tennessee",58,3271000,1
+"TN","Tennessee",59,2661000,0
+"TN","Tennessee",60,2491000,0
+"TN","Tennessee",61,2722000,1
+"TN","Tennessee",62,3486000,1
+"TN","Tennessee",63,2800000,0
+"TN","Tennessee",64,2478000,0
+"TN","Tennessee",65,2748000,1
+"TN","Tennessee",66,3494000,1
+"TN","Tennessee",67,2682000,0
+"TN","Tennessee",68,2300000,0
+"TN","Tennessee",69,2469000,1
+"TN","Tennessee",70,3099000,1
+"TN","Tennessee",71,2531000,0
+"TN","Tennessee",72,2267000,0
+"TN","Tennessee",73,2478000,1
+"TN","Tennessee",74,3180000,1
+"TN","Tennessee",75,2666000,0
+"TN","Tennessee",76,2410000,0
+"TN","Tennessee",77,2662000,1
+"TN","Tennessee",78,3370000,1
+"TN","Tennessee",79,2941000,0
+"TN","Tennessee",80,2728000,0
+"TN","Tennessee",81,2978000,1
+"TN","Tennessee",82,3702000,1
+"TN","Tennessee",83,2987000,0
+"TN","Tennessee",84,2810000,0
+"TN","Tennessee",85,3041000,1
+"TN","Tennessee",86,3846000,1
+"TN","Tennessee",87,3058000,0
+"TN","Tennessee",88,2842000,0
+"TN","Tennessee",89,3057000,1
+"TN","Tennessee",90,3848000,1
+"TN","Tennessee",91,3198000,0
+"TN","Tennessee",92,2893000,0
+"TN","Tennessee",93,3342000,1
+"TN","Tennessee",94,4211000,1
+"TN","Tennessee",95,3367000,0
+"TN","Tennessee",96,3294000,0
+"TN","Tennessee",97,3466000,1
+"TN","Tennessee",98,4439000,1
+"TN","Tennessee",99,3542000,0
+"TN","Tennessee",100,3462000,0
+"TN","Tennessee",101,3582000,1
+"TN","Tennessee",102,4667000,1
+"TN","Tennessee",103,3571000,0
+"TN","Tennessee",104,3573000,1
+"TN","Tennessee",105,3586000,1
+"TN","Tennessee",106,4850000,1
+"TN","Tennessee",107,3916000,0
+"TN","Tennessee",108,3618000,0
+"TN","Tennessee",109,3831000,1
+"TN","Tennessee",110,5124000,1
+"TN","Tennessee",111,4191000,0
+"TN","Tennessee",112,3914000,0
+"TN","Tennessee",113,4279000,1
+"TN","Tennessee",114,4236000,0
+"TN","Tennessee",115,4985000,1
+"TN","Tennessee",116,4221000,0
+"TN","Tennessee",117,4533000,1
+"TN","Tennessee",118,6285000,1
+"TN","Tennessee",119,5200000,0
+"TX","Texas",9,4049000,
+"TX","Texas",10,5118000,1
+"TX","Texas",11,4464000,0
+"TX","Texas",12,4283000,0
+"TX","Texas",13,4274000,0
+"TX","Texas",14,5407000,1
+"TX","Texas",15,4799000,0
+"TX","Texas",16,4279000,0
+"TX","Texas",17,4659000,1
+"TX","Texas",18,5844000,1
+"TX","Texas",19,4792000,0
+"TX","Texas",20,4532000,0
+"TX","Texas",21,5127000,1
+"TX","Texas",22,6432000,1
+"TX","Texas",23,5115000,0
+"TX","Texas",24,5014000,0
+"TX","Texas",25,5318000,1
+"TX","Texas",26,6552000,1
+"TX","Texas",27,5568000,0
+"TX","Texas",28,5142000,0
+"TX","Texas",29,5409000,1
+"TX","Texas",30,7382000,1
+"TX","Texas",31,6508000,0
+"TX","Texas",32,6169000,0
+"TX","Texas",33,6503000,1
+"TX","Texas",34,8131000,1
+"TX","Texas",35,6877000,0
+"TX","Texas",36,6684000,0
+"TX","Texas",37,7186000,1
+"TX","Texas",38,7649000,1
+"TX","Texas",39,7171000,0
+"TX","Texas",40,6612000,0
+"TX","Texas",41,6896000,1
+"TX","Texas",42,7885000,1
+"TX","Texas",43,7352000,0
+"TX","Texas",44,6563000,0
+"TX","Texas",45,6886000,1
+"TX","Texas",46,7896000,1
+"TX","Texas",47,7313000,0
+"TX","Texas",48,6959000,0
+"TX","Texas",49,7461000,1
+"TX","Texas",50,8638000,1
+"TX","Texas",51,7736000,0
+"TX","Texas",52,7343000,0
+"TX","Texas",53,7914000,1
+"TX","Texas",54,9137000,1
+"TX","Texas",55,8618000,0
+"TX","Texas",56,8287000,0
+"TX","Texas",57,8915000,1
+"TX","Texas",58,10399000,1
+"TX","Texas",59,9312000,0
+"TX","Texas",60,8746000,0
+"TX","Texas",61,9677000,1
+"TX","Texas",62,11536000,1
+"TX","Texas",63,10355000,0
+"TX","Texas",64,9708000,0
+"TX","Texas",65,10137000,1
+"TX","Texas",66,14016000,1
+"TX","Texas",67,11134000,0
+"TX","Texas",68,9614000,0
+"TX","Texas",69,9235000,0
+"TX","Texas",70,12541000,1
+"TX","Texas",71,9307000,0
+"TX","Texas",72,8482000,0
+"TX","Texas",73,9165000,1
+"TX","Texas",74,12508000,1
+"TX","Texas",75,9737000,0
+"TX","Texas",76,9285000,0
+"TX","Texas",77,9975000,1
+"TX","Texas",78,13561000,1
+"TX","Texas",79,10813000,0
+"TX","Texas",80,10421000,0
+"TX","Texas",81,11176000,1
+"TX","Texas",82,15373000,1
+"TX","Texas",83,11982000,0
+"TX","Texas",84,11019000,0
+"TX","Texas",85,11859000,1
+"TX","Texas",86,16032000,1
+"TX","Texas",87,12749000,0
+"TX","Texas",88,11645000,0
+"TX","Texas",89,12831000,1
+"TX","Texas",90,16921000,1
+"TX","Texas",91,13749000,0
+"TX","Texas",92,12312000,0
+"TX","Texas",93,13233000,1
+"TX","Texas",94,16437000,1
+"TX","Texas",95,13105000,0
+"TX","Texas",96,11720000,0
+"TX","Texas",97,12612000,1
+"TX","Texas",98,15121000,1
+"TX","Texas",99,12680000,0
+"TX","Texas",100,11652000,0
+"TX","Texas",101,13109000,1
+"TX","Texas",102,15529000,1
+"TX","Texas",103,13323000,0
+"TX","Texas",104,13083000,0
+"TX","Texas",105,14370000,1
+"TX","Texas",106,17524000,1
+"TX","Texas",107,15350000,0
+"TX","Texas",108,13978000,0
+"TX","Texas",109,15217000,1
+"TX","Texas",110,18320000,1
+"TX","Texas",111,15842000,0
+"TX","Texas",112,14689000,0
+"TX","Texas",113,15718000,1
+"TX","Texas",114,12278000,0
+"TX","Texas",115,17848000,1
+"TX","Texas",116,13463000,0
+"TX","Texas",117,14782000,1
+"TX","Texas",118,20298000,1
+"TX","Texas",119,18402000,0
+"UT","Utah",9,583000,
+"UT","Utah",10,1035000,1
+"UT","Utah",11,322000,0
+"UT","Utah",12,617000,1
+"UT","Utah",13,974000,1
+"UT","Utah",14,766000,0
+"UT","Utah",15,579000,0
+"UT","Utah",16,711000,1
+"UT","Utah",17,686000,0
+"UT","Utah",18,766000,1
+"UT","Utah",19,758000,0
+"UT","Utah",20,711000,0
+"UT","Utah",21,686000,0
+"UT","Utah",22,840000,1
+"UT","Utah",23,804000,0
+"UT","Utah",24,814000,1
+"UT","Utah",25,878000,1
+"UT","Utah",26,1342000,1
+"UT","Utah",27,996000,0
+"UT","Utah",28,1030000,1
+"UT","Utah",29,878000,0
+"UT","Utah",30,1342000,1
+"UT","Utah",31,897000,0
+"UT","Utah",32,950000,1
+"UT","Utah",33,868000,0
+"UT","Utah",34,1152000,1
+"UT","Utah",35,1039000,0
+"UT","Utah",36,962000,0
+"UT","Utah",37,914000,0
+"UT","Utah",38,1155000,1
+"UT","Utah",39,989000,0
+"UT","Utah",40,1060000,1
+"UT","Utah",41,787000,0
+"UT","Utah",42,1092000,1
+"UT","Utah",43,994000,0
+"UT","Utah",44,1019000,1
+"UT","Utah",45,851000,0
+"UT","Utah",46,1092000,1
+"UT","Utah",47,1014000,0
+"UT","Utah",48,1134000,1
+"UT","Utah",49,859000,0
+"UT","Utah",50,1197000,1
+"UT","Utah",51,1103000,0
+"UT","Utah",52,1232000,1
+"UT","Utah",53,961000,0
+"UT","Utah",54,1370000,1
+"UT","Utah",55,1241000,0
+"UT","Utah",56,1376000,1
+"UT","Utah",57,1159000,0
+"UT","Utah",58,1722000,1
+"UT","Utah",59,1404000,0
+"UT","Utah",60,1493000,1
+"UT","Utah",61,1199000,0
+"UT","Utah",62,1976000,1
+"UT","Utah",63,1423000,0
+"UT","Utah",64,1607000,1
+"UT","Utah",65,1167000,0
+"UT","Utah",66,1909000,1
+"UT","Utah",67,1387000,0
+"UT","Utah",68,1336000,0
+"UT","Utah",69,1127000,0
+"UT","Utah",70,1566000,1
+"UT","Utah",71,1137000,0
+"UT","Utah",72,1324000,1
+"UT","Utah",73,1105000,0
+"UT","Utah",74,1527000,1
+"UT","Utah",75,1305000,0
+"UT","Utah",76,1308000,1
+"UT","Utah",77,1196000,0
+"UT","Utah",78,1661000,1
+"UT","Utah",79,1357000,0
+"UT","Utah",80,1349000,0
+"UT","Utah",81,1322000,0
+"UT","Utah",82,1782000,1
+"UT","Utah",83,1442000,0
+"UT","Utah",84,1509000,1
+"UT","Utah",85,1319000,0
+"UT","Utah",86,2056000,1
+"UT","Utah",87,1443000,0
+"UT","Utah",88,1515000,1
+"UT","Utah",89,1391000,0
+"UT","Utah",90,1957000,1
+"UT","Utah",91,1540000,0
+"UT","Utah",92,1627000,1
+"UT","Utah",93,1431000,0
+"UT","Utah",94,2100000,1
+"UT","Utah",95,1730000,0
+"UT","Utah",96,1701000,0
+"UT","Utah",97,1494000,0
+"UT","Utah",98,2117000,1
+"UT","Utah",99,1620000,0
+"UT","Utah",100,1803000,1
+"UT","Utah",101,1587000,0
+"UT","Utah",102,2280000,1
+"UT","Utah",103,1894000,0
+"UT","Utah",104,2243000,1
+"UT","Utah",105,2224000,0
+"UT","Utah",106,2794000,1
+"UT","Utah",107,2101000,0
+"UT","Utah",108,2209000,1
+"UT","Utah",109,2084000,0
+"UT","Utah",110,3248000,1
+"UT","Utah",111,2151000,0
+"UT","Utah",112,2372000,1
+"UT","Utah",113,2244000,0
+"UT","Utah",114,2174000,0
+"UT","Utah",115,3098000,1
+"UT","Utah",116,2623000,0
+"UT","Utah",117,2591000,0
+"UT","Utah",118,4208000,1
+"UT","Utah",119,2832000,0
+"VT","Vermont",9,205000,
+"VT","Vermont",10,227000,1
+"VT","Vermont",11,196000,0
+"VT","Vermont",12,196000,1
+"VT","Vermont",13,199000,1
+"VT","Vermont",14,227000,1
+"VT","Vermont",15,199000,0
+"VT","Vermont",16,198000,0
+"VT","Vermont",17,204000,1
+"VT","Vermont",18,240000,1
+"VT","Vermont",19,204000,0
+"VT","Vermont",20,216000,1
+"VT","Vermont",21,219000,1
+"VT","Vermont",22,261000,1
+"VT","Vermont",23,217000,0
+"VT","Vermont",24,230000,1
+"VT","Vermont",25,231000,1
+"VT","Vermont",26,279000,1
+"VT","Vermont",27,217000,0
+"VT","Vermont",28,224000,1
+"VT","Vermont",29,250000,1
+"VT","Vermont",30,282000,1
+"VT","Vermont",31,330000,1
+"VT","Vermont",32,355000,1
+"VT","Vermont",33,342000,0
+"VT","Vermont",34,444000,1
+"VT","Vermont",35,338000,0
+"VT","Vermont",36,354000,1
+"VT","Vermont",37,375000,1
+"VT","Vermont",38,449000,1
+"VT","Vermont",39,327000,0
+"VT","Vermont",40,342000,1
+"VT","Vermont",41,346000,1
+"VT","Vermont",42,425000,1
+"VT","Vermont",43,360000,0
+"VT","Vermont",44,371000,1
+"VT","Vermont",45,363000,0
+"VT","Vermont",46,443000,1
+"VT","Vermont",47,380000,0
+"VT","Vermont",48,392000,1
+"VT","Vermont",49,391000,0
+"VT","Vermont",50,490000,1
+"VT","Vermont",51,349000,0
+"VT","Vermont",52,369000,1
+"VT","Vermont",53,312000,0
+"VT","Vermont",54,1074000,1
+"VT","Vermont",55,381000,0
+"VT","Vermont",56,321000,0
+"VT","Vermont",57,340000,1
+"VT","Vermont",58,1238000,1
+"VT","Vermont",59,388000,0
+"VT","Vermont",60,376000,0
+"VT","Vermont",61,354000,0
+"VT","Vermont",62,1261000,1
+"VT","Vermont",63,388000,0
+"VT","Vermont",64,476000,1
+"VT","Vermont",65,363000,0
+"VT","Vermont",66,1183000,1
+"VT","Vermont",67,386000,0
+"VT","Vermont",68,434000,1
+"VT","Vermont",69,337000,0
+"VT","Vermont",70,1210000,1
+"VT","Vermont",71,395000,0
+"VT","Vermont",72,459000,1
+"VT","Vermont",73,359000,0
+"VT","Vermont",74,1274000,1
+"VT","Vermont",75,422000,0
+"VT","Vermont",76,492000,1
+"VT","Vermont",77,409000,0
+"VT","Vermont",78,1348000,1
+"VT","Vermont",79,447000,0
+"VT","Vermont",80,493000,1
+"VT","Vermont",81,431000,0
+"VT","Vermont",82,1368000,1
+"VT","Vermont",83,456000,0
+"VT","Vermont",84,527000,1
+"VT","Vermont",85,440000,0
+"VT","Vermont",86,1437000,1
+"VT","Vermont",87,481000,0
+"VT","Vermont",88,551000,1
+"VT","Vermont",89,453000,0
+"VT","Vermont",90,1483000,1
+"VT","Vermont",91,491000,0
+"VT","Vermont",92,557000,1
+"VT","Vermont",93,471000,0
+"VT","Vermont",94,1524000,1
+"VT","Vermont",95,498000,0
+"VT","Vermont",96,580000,1
+"VT","Vermont",97,473000,0
+"VT","Vermont",98,1536000,1
+"VT","Vermont",99,508000,0
+"VT","Vermont",100,575000,1
+"VT","Vermont",101,511000,0
+"VT","Vermont",102,1563000,1
+"VT","Vermont",103,510000,0
+"VT","Vermont",104,598000,1
+"VT","Vermont",105,542000,0
+"VT","Vermont",106,1634000,1
+"VT","Vermont",107,542000,0
+"VT","Vermont",108,640000,1
+"VT","Vermont",109,542000,0
+"VT","Vermont",110,1705000,1
+"VT","Vermont",111,588000,0
+"VT","Vermont",112,665000,1
+"VT","Vermont",113,631000,0
+"VT","Vermont",114,1540000,1
+"VT","Vermont",115,792000,0
+"VT","Vermont",116,718000,0
+"VT","Vermont",117,669000,0
+"VT","Vermont",118,1926000,1
+"VT","Vermont",119,691000,0
+"VA","Virginia",9,1817000,
+"VA","Virginia",10,2406000,1
+"VA","Virginia",11,2005000,0
+"VA","Virginia",12,2032000,1
+"VA","Virginia",13,1944000,0
+"VA","Virginia",14,2406000,1
+"VA","Virginia",15,2111000,0
+"VA","Virginia",16,2034000,0
+"VA","Virginia",17,2015000,0
+"VA","Virginia",18,2749000,1
+"VA","Virginia",19,2279000,0
+"VA","Virginia",20,2194000,0
+"VA","Virginia",21,2216000,1
+"VA","Virginia",22,2938000,1
+"VA","Virginia",23,2408000,0
+"VA","Virginia",24,2446000,1
+"VA","Virginia",25,2337000,0
+"VA","Virginia",26,3284000,1
+"VA","Virginia",27,2654000,0
+"VA","Virginia",28,2598000,0
+"VA","Virginia",29,2738000,1
+"VA","Virginia",30,3623000,1
+"VA","Virginia",31,2958000,0
+"VA","Virginia",32,2984000,1
+"VA","Virginia",33,2787000,0
+"VA","Virginia",34,4349000,1
+"VA","Virginia",35,2950000,0
+"VA","Virginia",36,3007000,1
+"VA","Virginia",37,3077000,1
+"VA","Virginia",38,4060000,1
+"VA","Virginia",39,3257000,0
+"VA","Virginia",40,3168000,0
+"VA","Virginia",41,2486000,0
+"VA","Virginia",42,3871000,1
+"VA","Virginia",43,2971000,0
+"VA","Virginia",44,3157000,1
+"VA","Virginia",45,2921000,0
+"VA","Virginia",46,3923000,1
+"VA","Virginia",47,3179000,0
+"VA","Virginia",48,3511000,1
+"VA","Virginia",49,3169000,0
+"VA","Virginia",50,4375000,1
+"VA","Virginia",51,3544000,0
+"VA","Virginia",52,3873000,1
+"VA","Virginia",53,3689000,0
+"VA","Virginia",54,4813000,1
+"VA","Virginia",55,3171000,0
+"VA","Virginia",56,5094000,1
+"VA","Virginia",57,3831000,0
+"VA","Virginia",58,5096000,1
+"VA","Virginia",59,4248000,0
+"VA","Virginia",60,5099000,1
+"VA","Virginia",61,3983000,0
+"VA","Virginia",62,5642000,1
+"VA","Virginia",63,4427000,0
+"VA","Virginia",64,4274000,0
+"VA","Virginia",65,4064000,0
+"VA","Virginia",66,5558000,1
+"VA","Virginia",67,4382000,0
+"VA","Virginia",68,4223000,0
+"VA","Virginia",69,3255000,0
+"VA","Virginia",70,4748000,1
+"VA","Virginia",71,4051000,0
+"VA","Virginia",72,4161000,1
+"VA","Virginia",73,3223000,0
+"VA","Virginia",74,4826000,1
+"VA","Virginia",75,3930000,0
+"VA","Virginia",76,4339000,1
+"VA","Virginia",77,3697000,0
+"VA","Virginia",78,5319000,1
+"VA","Virginia",79,4112000,0
+"VA","Virginia",80,4412000,1
+"VA","Virginia",81,3925000,0
+"VA","Virginia",82,5591000,1
+"VA","Virginia",83,4535000,0
+"VA","Virginia",84,4495000,0
+"VA","Virginia",85,4077000,0
+"VA","Virginia",86,6011000,1
+"VA","Virginia",87,4469000,0
+"VA","Virginia",88,4587000,1
+"VA","Virginia",89,4157000,0
+"VA","Virginia",90,5721000,1
+"VA","Virginia",91,4747000,0
+"VA","Virginia",92,5041000,1
+"VA","Virginia",93,4265000,0
+"VA","Virginia",94,6341000,1
+"VA","Virginia",95,5033000,0
+"VA","Virginia",96,5051000,1
+"VA","Virginia",97,4666000,0
+"VA","Virginia",98,6286000,1
+"VA","Virginia",99,5197000,0
+"VA","Virginia",100,5283000,1
+"VA","Virginia",101,4964000,0
+"VA","Virginia",102,6399000,1
+"VA","Virginia",103,5430000,0
+"VA","Virginia",104,5658000,1
+"VA","Virginia",105,5416000,0
+"VA","Virginia",106,6471000,1
+"VA","Virginia",107,5550000,0
+"VA","Virginia",108,5504000,0
+"VA","Virginia",109,6190000,1
+"VA","Virginia",110,8823000,1
+"VA","Virginia",111,6537000,0
+"VA","Virginia",112,6919000,1
+"VA","Virginia",113,6337000,0
+"VA","Virginia",114,8160000,1
+"VA","Virginia",115,7113000,0
+"VA","Virginia",116,7423000,1
+"VA","Virginia",117,7351000,0
+"VA","Virginia",118,10757000,1
+"VA","Virginia",119,7958000,0
+"WA","Washington",9,2406000,
+"WA","Washington",10,2508000,1
+"WA","Washington",11,2483000,0
+"WA","Washington",12,2559000,1
+"WA","Washington",13,2222000,0
+"WA","Washington",14,2936000,1
+"WA","Washington",15,2583000,0
+"WA","Washington",16,2559000,0
+"WA","Washington",17,2389000,0
+"WA","Washington",18,3018000,1
+"WA","Washington",19,2708000,0
+"WA","Washington",20,2685000,0
+"WA","Washington",21,2024000,0
+"WA","Washington",22,3774000,1
+"WA","Washington",23,2821000,0
+"WA","Washington",24,2887000,1
+"WA","Washington",25,2893000,1
+"WA","Washington",26,3168000,1
+"WA","Washington",27,3173000,1
+"WA","Washington",28,2886000,0
+"WA","Washington",29,2996000,1
+"WA","Washington",30,3283000,1
+"WA","Washington",31,3200000,0
+"WA","Washington",32,3084000,0
+"WA","Washington",33,3132000,1
+"WA","Washington",34,3152000,1
+"WA","Washington",35,3216000,1
+"WA","Washington",36,3024000,0
+"WA","Washington",37,3230000,1
+"WA","Washington",38,3302000,1
+"WA","Washington",39,3095000,0
+"WA","Washington",40,3046000,0
+"WA","Washington",41,3164000,1
+"WA","Washington",42,3323000,1
+"WA","Washington",43,3280000,0
+"WA","Washington",44,3133000,0
+"WA","Washington",45,3243000,1
+"WA","Washington",46,3414000,1
+"WA","Washington",47,3478000,1
+"WA","Washington",48,3326000,0
+"WA","Washington",49,3446000,1
+"WA","Washington",50,3653000,1
+"WA","Washington",51,3774000,1
+"WA","Washington",52,3486000,0
+"WA","Washington",53,3720000,1
+"WA","Washington",54,3827000,1
+"WA","Washington",55,4071000,1
+"WA","Washington",56,3829000,0
+"WA","Washington",57,4168000,1
+"WA","Washington",58,4339000,1
+"WA","Washington",59,4632000,1
+"WA","Washington",60,4135000,0
+"WA","Washington",61,4356000,1
+"WA","Washington",62,4577000,1
+"WA","Washington",63,4710000,1
+"WA","Washington",64,4295000,0
+"WA","Washington",65,4555000,1
+"WA","Washington",66,4345000,0
+"WA","Washington",67,4670000,1
+"WA","Washington",68,3919000,0
+"WA","Washington",69,4144000,1
+"WA","Washington",70,3675000,0
+"WA","Washington",71,4254000,1
+"WA","Washington",72,3627000,0
+"WA","Washington",73,4137000,1
+"WA","Washington",74,4111000,0
+"WA","Washington",75,4408000,1
+"WA","Washington",76,3908000,0
+"WA","Washington",77,4383000,1
+"WA","Washington",78,4630000,1
+"WA","Washington",79,4586000,0
+"WA","Washington",80,3969000,0
+"WA","Washington",81,4543000,1
+"WA","Washington",82,4478000,0
+"WA","Washington",83,4792000,1
+"WA","Washington",84,4319000,0
+"WA","Washington",85,4847000,1
+"WA","Washington",86,4735000,0
+"WA","Washington",87,5263000,1
+"WA","Washington",88,4351000,0
+"WA","Washington",89,4959000,1
+"WA","Washington",90,4919000,0
+"WA","Washington",91,5384000,1
+"WA","Washington",92,4610000,0
+"WA","Washington",93,5417000,1
+"WA","Washington",94,5239000,0
+"WA","Washington",95,5749000,1
+"WA","Washington",96,5092000,0
+"WA","Washington",97,5811000,1
+"WA","Washington",98,5652000,0
+"WA","Washington",99,5987000,1
+"WA","Washington",100,5919000,0
+"WA","Washington",101,6227000,1
+"WA","Washington",102,5817000,0
+"WA","Washington",103,6265000,1
+"WA","Washington",104,5892000,0
+"WA","Washington",105,6514000,1
+"WA","Washington",106,7342000,1
+"WA","Washington",107,5744000,0
+"WA","Washington",108,6227000,1
+"WA","Washington",109,7553000,1
+"WA","Washington",110,8641000,1
+"WA","Washington",111,7996000,0
+"WA","Washington",112,6621000,0
+"WA","Washington",113,8254000,1
+"WA","Washington",114,6023000,0
+"WA","Washington",115,7797000,1
+"WA","Washington",116,7897000,1
+"WA","Washington",117,8422000,1
+"WA","Washington",118,8514000,1
+"WA","Washington",119,8766000,1
+"WV","West Virginia",9,602000,
+"WV","West Virginia",10,738000,1
+"WV","West Virginia",11,618000,0
+"WV","West Virginia",12,735000,1
+"WV","West Virginia",13,666000,0
+"WV","West Virginia",14,786000,1
+"WV","West Virginia",15,647000,0
+"WV","West Virginia",16,735000,1
+"WV","West Virginia",17,649000,0
+"WV","West Virginia",18,821000,1
+"WV","West Virginia",19,673000,0
+"WV","West Virginia",20,685000,1
+"WV","West Virginia",21,699000,1
+"WV","West Virginia",22,845000,1
+"WV","West Virginia",23,711000,0
+"WV","West Virginia",24,698000,0
+"WV","West Virginia",25,713000,1
+"WV","West Virginia",26,871000,1
+"WV","West Virginia",27,717000,0
+"WV","West Virginia",28,760000,1
+"WV","West Virginia",29,731000,0
+"WV","West Virginia",30,940000,1
+"WV","West Virginia",31,738000,0
+"WV","West Virginia",32,726000,0
+"WV","West Virginia",33,765000,1
+"WV","West Virginia",34,935000,1
+"WV","West Virginia",35,805000,0
+"WV","West Virginia",36,792000,0
+"WV","West Virginia",37,788000,0
+"WV","West Virginia",38,1019000,1
+"WV","West Virginia",39,802000,0
+"WV","West Virginia",40,879000,1
+"WV","West Virginia",41,854000,0
+"WV","West Virginia",42,1034000,1
+"WV","West Virginia",43,868000,0
+"WV","West Virginia",44,837000,0
+"WV","West Virginia",45,861000,1
+"WV","West Virginia",46,1017000,1
+"WV","West Virginia",47,902000,0
+"WV","West Virginia",48,872000,0
+"WV","West Virginia",49,887000,1
+"WV","West Virginia",50,1085000,1
+"WV","West Virginia",51,947000,0
+"WV","West Virginia",52,895000,0
+"WV","West Virginia",53,988000,1
+"WV","West Virginia",54,1231000,1
+"WV","West Virginia",55,1050000,0
+"WV","West Virginia",56,1029000,0
+"WV","West Virginia",57,1153000,1
+"WV","West Virginia",58,1326000,1
+"WV","West Virginia",59,1077000,0
+"WV","West Virginia",60,1117000,1
+"WV","West Virginia",61,1124000,1
+"WV","West Virginia",62,1331000,1
+"WV","West Virginia",63,1297000,0
+"WV","West Virginia",64,1011000,0
+"WV","West Virginia",65,1250000,1
+"WV","West Virginia",66,1319000,1
+"WV","West Virginia",67,1287000,0
+"WV","West Virginia",68,1096000,0
+"WV","West Virginia",69,1144000,1
+"WV","West Virginia",70,1283000,1
+"WV","West Virginia",71,1205000,0
+"WV","West Virginia",72,1076000,0
+"WV","West Virginia",73,1096000,1
+"WV","West Virginia",74,1312000,1
+"WV","West Virginia",75,1340000,1
+"WV","West Virginia",76,1120000,0
+"WV","West Virginia",77,1246000,1
+"WV","West Virginia",78,1425000,1
+"WV","West Virginia",79,1338000,0
+"WV","West Virginia",80,1229000,0
+"WV","West Virginia",81,1230000,1
+"WV","West Virginia",82,1558000,1
+"WV","West Virginia",83,1327000,0
+"WV","West Virginia",84,1316000,0
+"WV","West Virginia",85,1207000,0
+"WV","West Virginia",86,1540000,1
+"WV","West Virginia",87,1351000,0
+"WV","West Virginia",88,1268000,0
+"WV","West Virginia",89,1230000,0
+"WV","West Virginia",90,1558000,1
+"WV","West Virginia",91,1351000,0
+"WV","West Virginia",92,1332000,0
+"WV","West Virginia",93,1274000,0
+"WV","West Virginia",94,1602000,1
+"WV","West Virginia",95,1274000,0
+"WV","West Virginia",96,1255000,0
+"WV","West Virginia",97,1184000,0
+"WV","West Virginia",98,1417000,1
+"WV","West Virginia",99,1230000,0
+"WV","West Virginia",100,1222000,0
+"WV","West Virginia",101,1242000,1
+"WV","West Virginia",102,1506000,1
+"WV","West Virginia",103,1251000,0
+"WV","West Virginia",104,1311000,1
+"WV","West Virginia",105,1281000,0
+"WV","West Virginia",106,1579000,1
+"WV","West Virginia",107,1462000,0
+"WV","West Virginia",108,1422000,0
+"WV","West Virginia",109,1328000,0
+"WV","West Virginia",110,1774000,1
+"WV","West Virginia",111,1492000,0
+"WV","West Virginia",112,1383000,0
+"WV","West Virginia",113,1355000,0
+"WV","West Virginia",114,1329000,0
+"WV","West Virginia",115,1540000,1
+"WV","West Virginia",116,1398000,0
+"WV","West Virginia",117,1381000,0
+"WV","West Virginia",118,1835000,1
+"WV","West Virginia",119,1440000,0
+"WI","Wisconsin",9,1944000,
+"WI","Wisconsin",10,1843000,0
+"WI","Wisconsin",11,1568000,0
+"WI","Wisconsin",12,2271000,1
+"WI","Wisconsin",13,1944000,0
+"WI","Wisconsin",14,1843000,0
+"WI","Wisconsin",15,1568000,0
+"WI","Wisconsin",16,2271000,1
+"WI","Wisconsin",17,2271000,1
+"WI","Wisconsin",18,1843000,0
+"WI","Wisconsin",19,2176000,1
+"WI","Wisconsin",20,3019000,1
+"WI","Wisconsin",21,3019000,1
+"WI","Wisconsin",22,2091000,0
+"WI","Wisconsin",23,1924000,0
+"WI","Wisconsin",24,2621000,1
+"WI","Wisconsin",25,2671000,1
+"WI","Wisconsin",26,2980000,1
+"WI","Wisconsin",27,2012000,0
+"WI","Wisconsin",28,2802000,1
+"WI","Wisconsin",29,2769000,0
+"WI","Wisconsin",30,3119000,1
+"WI","Wisconsin",31,2144000,0
+"WI","Wisconsin",32,2929000,1
+"WI","Wisconsin",33,3069000,1
+"WI","Wisconsin",34,3499000,1
+"WI","Wisconsin",35,2142000,0
+"WI","Wisconsin",36,2869000,1
+"WI","Wisconsin",37,2780000,0
+"WI","Wisconsin",38,3027000,1
+"WI","Wisconsin",39,2497000,0
+"WI","Wisconsin",40,3196000,1
+"WI","Wisconsin",41,2900000,0
+"WI","Wisconsin",42,3220000,1
+"WI","Wisconsin",43,2511000,0
+"WI","Wisconsin",44,3073000,1
+"WI","Wisconsin",45,2844000,0
+"WI","Wisconsin",46,3500000,1
+"WI","Wisconsin",47,2336000,0
+"WI","Wisconsin",48,3144000,1
+"WI","Wisconsin",49,2735000,0
+"WI","Wisconsin",50,4316000,1
+"WI","Wisconsin",51,2457000,0
+"WI","Wisconsin",52,3311000,1
+"WI","Wisconsin",53,2934000,0
+"WI","Wisconsin",54,4486000,1
+"WI","Wisconsin",55,2620000,0
+"WI","Wisconsin",56,3530000,1
+"WI","Wisconsin",57,3054000,0
+"WI","Wisconsin",58,4662000,1
+"WI","Wisconsin",59,2691000,0
+"WI","Wisconsin",60,3707000,1
+"WI","Wisconsin",61,3082000,0
+"WI","Wisconsin",62,5004000,1
+"WI","Wisconsin",63,2784000,0
+"WI","Wisconsin",64,3662000,1
+"WI","Wisconsin",65,3311000,0
+"WI","Wisconsin",66,5158000,1
+"WI","Wisconsin",67,2921000,0
+"WI","Wisconsin",68,3615000,1
+"WI","Wisconsin",69,2941000,0
+"WI","Wisconsin",70,4975000,1
+"WI","Wisconsin",71,2677000,0
+"WI","Wisconsin",72,3822000,1
+"WI","Wisconsin",73,2843000,0
+"WI","Wisconsin",74,5026000,1
+"WI","Wisconsin",75,2981000,0
+"WI","Wisconsin",76,3936000,1
+"WI","Wisconsin",77,3130000,0
+"WI","Wisconsin",78,5299000,1
+"WI","Wisconsin",79,3120000,0
+"WI","Wisconsin",80,4002000,1
+"WI","Wisconsin",81,3133000,0
+"WI","Wisconsin",82,5740000,1
+"WI","Wisconsin",83,3034000,0
+"WI","Wisconsin",84,4262000,1
+"WI","Wisconsin",85,3266000,0
+"WI","Wisconsin",86,5951000,1
+"WI","Wisconsin",87,3296000,0
+"WI","Wisconsin",88,4321000,1
+"WI","Wisconsin",89,3434000,0
+"WI","Wisconsin",90,5314000,1
+"WI","Wisconsin",91,3251000,0
+"WI","Wisconsin",92,4214000,1
+"WI","Wisconsin",93,3816000,0
+"WI","Wisconsin",94,5738000,1
+"WI","Wisconsin",95,3328000,0
+"WI","Wisconsin",96,4396000,1
+"WI","Wisconsin",97,3900000,0
+"WI","Wisconsin",98,5984000,1
+"WI","Wisconsin",99,3420000,0
+"WI","Wisconsin",100,4490000,1
+"WI","Wisconsin",101,4022000,0
+"WI","Wisconsin",102,6080000,1
+"WI","Wisconsin",103,3290000,0
+"WI","Wisconsin",104,4928000,1
+"WI","Wisconsin",105,4026000,0
+"WI","Wisconsin",106,6421000,1
+"WI","Wisconsin",107,3561000,0
+"WI","Wisconsin",108,4987000,1
+"WI","Wisconsin",109,3926000,0
+"WI","Wisconsin",110,7551000,1
+"WI","Wisconsin",111,3967000,0
+"WI","Wisconsin",112,5148000,1
+"WI","Wisconsin",113,4341000,0
+"WI","Wisconsin",114,6784000,1
+"WI","Wisconsin",115,4001000,0
+"WI","Wisconsin",116,5625000,1
+"WI","Wisconsin",117,4803000,0
+"WI","Wisconsin",118,8577000,1
+"WI","Wisconsin",119,4074000,0
+"WY","Wyoming",9,130000,
+"WY","Wyoming",10,246000,1
+"WY","Wyoming",11,84000,0
+"WY","Wyoming",12,174000,1
+"WY","Wyoming",13,158000,0
+"WY","Wyoming",14,165000,1
+"WY","Wyoming",15,185000,1
+"WY","Wyoming",16,135000,0
+"WY","Wyoming",17,157000,1
+"WY","Wyoming",18,244000,1
+"WY","Wyoming",19,111000,0
+"WY","Wyoming",20,156000,1
+"WY","Wyoming",21,156000,1
+"WY","Wyoming",22,242000,1
+"WY","Wyoming",23,134000,0
+"WY","Wyoming",24,218000,1
+"WY","Wyoming",25,201000,0
+"WY","Wyoming",26,295000,1
+"WY","Wyoming",27,130000,0
+"WY","Wyoming",28,142000,1
+"WY","Wyoming",29,164000,1
+"WY","Wyoming",30,265000,1
+"WY","Wyoming",31,156000,0
+"WY","Wyoming",32,185000,1
+"WY","Wyoming",33,214000,1
+"WY","Wyoming",34,353000,1
+"WY","Wyoming",35,231000,0
+"WY","Wyoming",36,296000,1
+"WY","Wyoming",37,317000,1
+"WY","Wyoming",38,294000,0
+"WY","Wyoming",39,256000,0
+"WY","Wyoming",40,330000,1
+"WY","Wyoming",41,245000,0
+"WY","Wyoming",42,270000,1
+"WY","Wyoming",43,251000,0
+"WY","Wyoming",44,344000,1
+"WY","Wyoming",45,309000,0
+"WY","Wyoming",46,317000,1
+"WY","Wyoming",47,333000,1
+"WY","Wyoming",48,357000,1
+"WY","Wyoming",49,316000,0
+"WY","Wyoming",50,509000,1
+"WY","Wyoming",51,320000,0
+"WY","Wyoming",52,417000,1
+"WY","Wyoming",53,375000,0
+"WY","Wyoming",54,632000,1
+"WY","Wyoming",55,238000,0
+"WY","Wyoming",56,507000,1
+"WY","Wyoming",57,490000,0
+"WY","Wyoming",58,889000,1
+"WY","Wyoming",59,266000,0
+"WY","Wyoming",60,519000,1
+"WY","Wyoming",61,443000,0
+"WY","Wyoming",62,800000,1
+"WY","Wyoming",63,283000,0
+"WY","Wyoming",64,591000,1
+"WY","Wyoming",65,510000,0
+"WY","Wyoming",66,905000,1
+"WY","Wyoming",67,380000,0
+"WY","Wyoming",68,926000,1
+"WY","Wyoming",69,598000,0
+"WY","Wyoming",70,860000,1
+"WY","Wyoming",71,262000,0
+"WY","Wyoming",72,498000,1
+"WY","Wyoming",73,418000,0
+"WY","Wyoming",74,797000,1
+"WY","Wyoming",75,305000,0
+"WY","Wyoming",76,717000,1
+"WY","Wyoming",77,526000,0
+"WY","Wyoming",78,915000,1
+"WY","Wyoming",79,293000,0
+"WY","Wyoming",80,594000,1
+"WY","Wyoming",81,520000,0
+"WY","Wyoming",82,897000,1
+"WY","Wyoming",83,287000,0
+"WY","Wyoming",84,505000,1
+"WY","Wyoming",85,458000,0
+"WY","Wyoming",86,936000,1
+"WY","Wyoming",87,278000,0
+"WY","Wyoming",88,504000,1
+"WY","Wyoming",89,514000,1
+"WY","Wyoming",90,967000,1
+"WY","Wyoming",91,333000,0
+"WY","Wyoming",92,606000,1
+"WY","Wyoming",93,554000,0
+"WY","Wyoming",94,864000,1
+"WY","Wyoming",95,311000,0
+"WY","Wyoming",96,438000,1
+"WY","Wyoming",97,423000,0
+"WY","Wyoming",98,742000,1
+"WY","Wyoming",99,269000,0
+"WY","Wyoming",100,391000,1
+"WY","Wyoming",101,397000,1
+"WY","Wyoming",102,668000,1
+"WY","Wyoming",103,302000,0
+"WY","Wyoming",104,465000,1
+"WY","Wyoming",105,449000,0
+"WY","Wyoming",106,622000,1
+"WY","Wyoming",107,326000,0
+"WY","Wyoming",108,512000,1
+"WY","Wyoming",109,495000,0
+"WY","Wyoming",110,777000,1
+"WY","Wyoming",111,355000,0
+"WY","Wyoming",112,538000,1
+"WY","Wyoming",113,446000,0
+"WY","Wyoming",114,739000,1
+"WY","Wyoming",115,407000,0
+"WY","Wyoming",116,491000,1
+"WY","Wyoming",117,410000,0
+"WY","Wyoming",118,653000,1
+"WY","Wyoming",119,364000,0
